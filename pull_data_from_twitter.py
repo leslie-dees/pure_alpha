@@ -3,6 +3,7 @@ import config
 import pandas as pd
 
 
+
 def get_tweet_data(my_id_enter):
     """
     Creates a csv file of all tweet fields specified in the Paginator
@@ -64,6 +65,9 @@ def get_user_data(screen_name):
     twitterid = client.get_user(username=screen_name, user_fields='public_metrics')
 
     return [screen_name, twitterid.data.id, twitterid.data.public_metrics['followers_count'], twitterid.data.public_metrics['following_count']]
+
+
+
 #my_id = get_user_data('badccvoid')
 
 #get_tweet_data(my_id)
