@@ -1,0 +1,946 @@
+,id,date,this_is_reply,text,retweets,replies,likes,quotes,attachments,entities,qutotes
+0,1508589653422575623,2022-03-28 23:39:36+00:00,False,RT @goopdoods: @punk4156 goop 👍,24,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 15, 'end': 24, 'username': 'punk4156', 'id': '1362443063432531968'}]}",0.0
+1,1508588782794121216,2022-03-28 23:36:08+00:00,True,@punk4156 goop 👍,24,21,126,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'punk4156', 'id': '1362443063432531968'}]}",0.0
+2,1508579694618169351,2022-03-28 23:00:01+00:00,False,"if you haven't noticed, there's a free twitter banner everyday
+
+goopdood 2325 here's yours 🎉
+
+#lifeisgoop https://t.co/YQoITeFehk",17,14,100,,"{'media_keys': ['3_1508547030410571798', '3_1508547051474333697']}","{'annotations': [{'start': 39, 'end': 45, 'probability': 0.6622, 'type': 'Product', 'normalized_text': 'twitter'}], 'urls': [{'start': 106, 'end': 129, 'url': 'https://t.co/YQoITeFehk', 'expanded_url': 'https://twitter.com/goopdoods/status/1508579694618169351/photo/1', 'display_url': 'pic.twitter.com/YQoITeFehk'}, {'start': 106, 'end': 129, 'url': 'https://t.co/YQoITeFehk', 'expanded_url': 'https://twitter.com/goopdoods/status/1508579694618169351/photo/1', 'display_url': 'pic.twitter.com/YQoITeFehk'}], 'hashtags': [{'start': 94, 'end': 105, 'tag': 'lifeisgoop'}]}",0.0
+3,1508533907213406219,2022-03-28 19:58:05+00:00,False,mondays 🤢 https://t.co/BkrfiPOuhP,20,10,188,,{'media_keys': ['3_1508533742486401036']},"{'urls': [{'start': 10, 'end': 33, 'url': 'https://t.co/BkrfiPOuhP', 'expanded_url': 'https://twitter.com/goopdoods/status/1508533907213406219/photo/1', 'display_url': 'pic.twitter.com/BkrfiPOuhP'}]}",2.0
+4,1508481895608299532,2022-03-28 16:31:24+00:00,False,"sometimes we get lost in the goop but don’t forget to show yourselves some love today. 
+
+go outside and breath in the fresh swamp air, spend some time w/ your goop pal or whatever it is, just make sure you’re happy today and everyday
+
+sincerely, 
+
+goop https://t.co/FYofWEq4CK",62,20,205,,{'media_keys': ['3_1508481891481104394']},"{'urls': [{'start': 253, 'end': 276, 'url': 'https://t.co/FYofWEq4CK', 'expanded_url': 'https://twitter.com/goopdoods/status/1508481895608299532/photo/1', 'display_url': 'pic.twitter.com/FYofWEq4CK'}]}",3.0
+5,1508457192403484676,2022-03-28 14:53:15+00:00,False,"John says gm ☀️
+
+does your goop have a fren? https://t.co/CyXiR5KiOm",20,51,224,,{'media_keys': ['3_1508457189115142144']},"{'annotations': [{'start': 0, 'end': 3, 'probability': 0.9844, 'type': 'Person', 'normalized_text': 'John'}], 'urls': [{'start': 45, 'end': 68, 'url': 'https://t.co/CyXiR5KiOm', 'expanded_url': 'https://twitter.com/goopdoods/status/1508457192403484676/photo/1', 'display_url': 'pic.twitter.com/CyXiR5KiOm'}]}",1.0
+6,1508322794643378179,2022-03-28 05:59:12+00:00,False,gn goops 🚀 https://t.co/z8BLq6UKgF,30,20,205,,{'media_keys': ['3_1508322791568912386']},"{'urls': [{'start': 11, 'end': 34, 'url': 'https://t.co/z8BLq6UKgF', 'expanded_url': 'https://twitter.com/goopdoods/status/1508322794643378179/photo/1', 'display_url': 'pic.twitter.com/z8BLq6UKgF'}]}",2.0
+7,1508288367699636226,2022-03-28 03:42:24+00:00,False,1 goop = 1 goop https://t.co/CgWnAuKQYP,86,29,296,,{'media_keys': ['3_1508288308937478145']},"{'urls': [{'start': 16, 'end': 39, 'url': 'https://t.co/CgWnAuKQYP', 'expanded_url': 'https://twitter.com/goopdoods/status/1508288367699636226/photo/1', 'display_url': 'pic.twitter.com/CgWnAuKQYP'}]}",3.0
+8,1508262598873079817,2022-03-28 02:00:00+00:00,False,"another day another banner
+
+@360Gleam come get your free banner 💅
+
+#lifeisgoop https://t.co/lvdba1GaGY",16,7,85,,"{'media_keys': ['3_1508209978435411969', '3_1508210003307601927']}","{'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/lvdba1GaGY', 'expanded_url': 'https://twitter.com/goopdoods/status/1508262598873079817/photo/1', 'display_url': 'pic.twitter.com/lvdba1GaGY'}, {'start': 79, 'end': 102, 'url': 'https://t.co/lvdba1GaGY', 'expanded_url': 'https://twitter.com/goopdoods/status/1508262598873079817/photo/1', 'display_url': 'pic.twitter.com/lvdba1GaGY'}], 'hashtags': [{'start': 67, 'end': 78, 'tag': 'lifeisgoop'}], 'mentions': [{'start': 28, 'end': 37, 'username': '360Gleam', 'id': '1226779122359103488'}]}",0.0
+9,1508256022397337601,2022-03-28 01:33:52+00:00,False,this is definitely goop https://t.co/b7uAIsGSxQ,22,8,113,,,"{'urls': [{'start': 24, 'end': 47, 'url': 'https://t.co/b7uAIsGSxQ', 'expanded_url': 'https://twitter.com/darthyall_eth/status/1508255206261153794', 'display_url': 'twitter.com/darthyall_eth/…'}]}",1.0
+10,1508224021942386689,2022-03-27 23:26:42+00:00,True,@Untitled_artwrk so goop,0,2,18,,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'Untitled_artwrk', 'id': '1503513050715983875'}]}",0.0
+11,1508211381958553602,2022-03-27 22:36:29+00:00,False,i love it when this happens https://t.co/jllutNyCRR,37,14,184,,{'media_keys': ['3_1508211003384860685']},"{'urls': [{'start': 28, 'end': 51, 'url': 'https://t.co/jllutNyCRR', 'expanded_url': 'https://twitter.com/goopdoods/status/1508211381958553602/photo/1', 'display_url': 'pic.twitter.com/jllutNyCRR'}]}",1.0
+12,1508154887841927175,2022-03-27 18:52:00+00:00,False,"wow this seems like it was so long ago
+
+- 2K ETH traded on OpenSea
+- 15K followers on Twitter
+- #19 on OpenSea for 24hr volume traded
+- #17 on OpenSea for weekly volume traded
+
+and still #1 in your hearts 
+
+we’re just getting started. https://t.co/iagHTsKa5l",70,34,242,,,"{'annotations': [{'start': 86, 'end': 92, 'probability': 0.6919, 'type': 'Product', 'normalized_text': 'Twitter'}], 'urls': [{'start': 235, 'end': 258, 'url': 'https://t.co/iagHTsKa5l', 'expanded_url': 'https://twitter.com/goopdoods/status/1506144571780124673', 'display_url': 'twitter.com/goopdoods/stat…'}]}",3.0
+13,1508151763328802824,2022-03-27 18:39:35+00:00,False,RT @hotlneblng_: I’m addicted to the goop https://t.co/rUQQwBReIE,44,0,0,,"{'media_keys': ['3_1508131734247911427', '3_1508131734243745796', '3_1508131734256242693', '3_1508131734407331851']}","{'urls': [{'start': 42, 'end': 65, 'url': 'https://t.co/rUQQwBReIE', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1508131739062919182/photo/1', 'display_url': 'pic.twitter.com/rUQQwBReIE'}, {'start': 42, 'end': 65, 'url': 'https://t.co/rUQQwBReIE', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1508131739062919182/photo/1', 'display_url': 'pic.twitter.com/rUQQwBReIE'}, {'start': 42, 'end': 65, 'url': 'https://t.co/rUQQwBReIE', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1508131739062919182/photo/1', 'display_url': 'pic.twitter.com/rUQQwBReIE'}, {'start': 42, 'end': 65, 'url': 'https://t.co/rUQQwBReIE', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1508131739062919182/photo/1', 'display_url': 'pic.twitter.com/rUQQwBReIE'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'hotlneblng_', 'id': '1252287676897730561'}]}",0.0
+14,1508124371382341634,2022-03-27 16:50:44+00:00,True,@sartoshi_nft @bagjaeyeon15 thanks for making Bitcoin,6,1,56,,,"{'annotations': [{'start': 46, 'end': 52, 'probability': 0.2677, 'type': 'Organization', 'normalized_text': 'Bitcoin'}], 'mentions': [{'start': 0, 'end': 13, 'username': 'sartoshi_nft', 'id': '1380417603013898241'}, {'start': 14, 'end': 27, 'username': 'bagjaeyeon15', 'id': '1481599965881245699'}]}",0.0
+15,1508121403542978571,2022-03-27 16:38:56+00:00,False,iykyk https://t.co/IYdCFYWsdz,60,34,297,,{'media_keys': ['3_1508121401101852687']},"{'urls': [{'start': 6, 'end': 29, 'url': 'https://t.co/IYdCFYWsdz', 'expanded_url': 'https://twitter.com/goopdoods/status/1508121403542978571/photo/1', 'display_url': 'pic.twitter.com/IYdCFYWsdz'}]}",2.0
+16,1508110701486878724,2022-03-27 15:56:25+00:00,False,"RT @bagjaeyeon15: Why bullish at @goopdoods ?
+Organic community
+Ambitious team
+Transparent, rapid Treasury work
+Detail traits &amp; colorful ar…",52,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'bagjaeyeon15', 'id': '1481599965881245699'}, {'start': 33, 'end': 43, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+17,1508099930992390153,2022-03-27 15:13:37+00:00,True,"@MattGarciaEth maybe we’re trying to avoid hyper focusing on floor price and just goop out 
+
+but wagmi to the moon or whatever lol",4,4,54,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'MattGarciaEth', 'id': '1164327241834278912'}]}",0.0
+18,1508050038844538885,2022-03-27 11:55:22+00:00,True,@DavittBruno clean.,0,0,16,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'DavittBruno', 'id': '1342849663536418818'}]}",0.0
+19,1508046922736705538,2022-03-27 11:42:59+00:00,False,"goop morning 🫂🤝🌞
+
+https://t.co/sOFix24CYk",34,32,187,,,"{'urls': [{'start': 18, 'end': 41, 'url': 'https://t.co/sOFix24CYk', 'expanded_url': 'https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R?si=J2W-0OS-TxeIP8vP2fjPDQ', 'display_url': 'open.spotify.com/track/2wGSgTmg…'}]}",4.0
+20,1507954229813686275,2022-03-27 05:34:39+00:00,False,"gn goops, try not to get abducted overnight https://t.co/j0A12sRVvA",41,27,284,,{'media_keys': ['3_1507954190768816128']},"{'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/j0A12sRVvA', 'expanded_url': 'https://twitter.com/goopdoods/status/1507954229813686275/photo/1', 'display_url': 'pic.twitter.com/j0A12sRVvA'}]}",1.0
+21,1507932189098397698,2022-03-27 04:07:04+00:00,False,RT @beatsbyoptic: https://t.co/9XRIzdExUb,9,0,0,,,"{'urls': [{'start': 18, 'end': 41, 'url': 'https://t.co/9XRIzdExUb', 'expanded_url': 'https://twitter.com/i/spaces/1OyKADBNzLWxb', 'display_url': 'twitter.com/i/spaces/1OyKA…'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'beatsbyoptic', 'id': '319213735'}]}",0.0
+22,1507913423845273601,2022-03-27 02:52:30+00:00,False,"RT @hotlneblng_: Just sniped the 25th rarest @goopdoods.
+
+We like the goop. 👀 https://t.co/VbQRaNG2dn",67,0,0,,{'media_keys': ['3_1507913280446156800']},"{'urls': [{'start': 78, 'end': 101, 'url': 'https://t.co/VbQRaNG2dn', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1507913284854464514/photo/1', 'display_url': 'pic.twitter.com/VbQRaNG2dn'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'hotlneblng_', 'id': '1252287676897730561'}, {'start': 45, 'end': 55, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+23,1507904241393840131,2022-03-27 02:16:01+00:00,True,also - anyone remember the whole lotta goop concept? https://t.co/jZcOYEzv87,1,4,50,,{'media_keys': ['3_1507904237698703374']},"{'urls': [{'start': 53, 'end': 76, 'url': 'https://t.co/jZcOYEzv87', 'expanded_url': 'https://twitter.com/goopdoods/status/1507904241393840131/photo/1', 'display_url': 'pic.twitter.com/jZcOYEzv87'}]}",1.0
+24,1507904012879896576,2022-03-27 02:15:06+00:00,False,"there's only 7 ""Vamp!"" goops in the 8000 collection 🧛
+
+what color is your goop 👀 https://t.co/SjH9biz8Ux",29,17,180,,"{'media_keys': ['3_1507903589930438660', '3_1507903589930385412', '3_1507903590387666944', '3_1507903590920294402']}","{'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/SjH9biz8Ux', 'expanded_url': 'https://twitter.com/goopdoods/status/1507904012879896576/photo/1', 'display_url': 'pic.twitter.com/SjH9biz8Ux'}, {'start': 81, 'end': 104, 'url': 'https://t.co/SjH9biz8Ux', 'expanded_url': 'https://twitter.com/goopdoods/status/1507904012879896576/photo/1', 'display_url': 'pic.twitter.com/SjH9biz8Ux'}, {'start': 81, 'end': 104, 'url': 'https://t.co/SjH9biz8Ux', 'expanded_url': 'https://twitter.com/goopdoods/status/1507904012879896576/photo/1', 'display_url': 'pic.twitter.com/SjH9biz8Ux'}, {'start': 81, 'end': 104, 'url': 'https://t.co/SjH9biz8Ux', 'expanded_url': 'https://twitter.com/goopdoods/status/1507904012879896576/photo/1', 'display_url': 'pic.twitter.com/SjH9biz8Ux'}]}",1.0
+25,1507854919306399744,2022-03-26 23:00:02+00:00,False,"🚨free twitter banner🚨
+
+hey goopdood 7132, here's your free banner 👀
+
+#lifeisgoop https://t.co/mIfdpbEWu1",10,3,78,,"{'media_keys': ['3_1507838421745688579', '3_1507838435511488520']}","{'annotations': [{'start': 7, 'end': 13, 'probability': 0.5191, 'type': 'Product', 'normalized_text': 'twitter'}], 'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/mIfdpbEWu1', 'expanded_url': 'https://twitter.com/goopdoods/status/1507854919306399744/photo/1', 'display_url': 'pic.twitter.com/mIfdpbEWu1'}, {'start': 81, 'end': 104, 'url': 'https://t.co/mIfdpbEWu1', 'expanded_url': 'https://twitter.com/goopdoods/status/1507854919306399744/photo/1', 'display_url': 'pic.twitter.com/mIfdpbEWu1'}], 'hashtags': [{'start': 69, 'end': 80, 'tag': 'lifeisgoop'}]}",0.0
+26,1507853139843633159,2022-03-26 22:52:57+00:00,False,RT @champtgram: Goop doing goop things 😴,58,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'champtgram', 'id': '1117809180713324544'}]}",0.0
+27,1507813940650254341,2022-03-26 20:17:11+00:00,False,goop?,40,81,297,,,,6.0
+28,1507801196354019333,2022-03-26 19:26:33+00:00,False,RT @Tsteezy92: Over the last week @goopdoods have been trending on OS within the top 25% to trending on @icy_tools and are just currently i…,36,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'Tsteezy92', 'id': '3462329716'}, {'start': 34, 'end': 44, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 104, 'end': 114, 'username': 'icy_tools', 'id': '1379791060226953219'}]}",0.0
+29,1507790130312003592,2022-03-26 18:42:35+00:00,False,"RT @ETHxacly: come join 💚 
+ https://t.co/OIMwn27E55",5,0,0,,,"{'urls': [{'start': 28, 'end': 51, 'url': 'https://t.co/OIMwn27E55', 'expanded_url': 'https://twitter.com/i/spaces/1MnGnkagBOBJO', 'display_url': 'twitter.com/i/spaces/1MnGn…'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'ETHxacly', 'id': '1449230727560695809'}]}",0.0
+30,1507768494233997323,2022-03-26 17:16:36+00:00,False,"RT @danielgothits: THREAD 🧵
+
+goops has the most depth of a 10k project I've ever seen. 
+
+most projects have a super basic character outline…",140,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+31,1507746959385370629,2022-03-26 15:51:02+00:00,False,RT @danielgothits: goop's are the first 10k collection I've seen where the artist included some of their early 1/1s in collection itself -…,45,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+32,1507703920260366345,2022-03-26 13:00:01+00:00,False,goop morning from goop mountain 🏔 https://t.co/BDvTf54sUL,45,36,237,,"{'media_keys': ['3_1507595869247451139', '3_1507595869243289610', '3_1507595869247451136', '3_1507595869247447045']}","{'urls': [{'start': 34, 'end': 57, 'url': 'https://t.co/BDvTf54sUL', 'expanded_url': 'https://twitter.com/goopdoods/status/1507703920260366345/photo/1', 'display_url': 'pic.twitter.com/BDvTf54sUL'}, {'start': 34, 'end': 57, 'url': 'https://t.co/BDvTf54sUL', 'expanded_url': 'https://twitter.com/goopdoods/status/1507703920260366345/photo/1', 'display_url': 'pic.twitter.com/BDvTf54sUL'}, {'start': 34, 'end': 57, 'url': 'https://t.co/BDvTf54sUL', 'expanded_url': 'https://twitter.com/goopdoods/status/1507703920260366345/photo/1', 'display_url': 'pic.twitter.com/BDvTf54sUL'}, {'start': 34, 'end': 57, 'url': 'https://t.co/BDvTf54sUL', 'expanded_url': 'https://twitter.com/goopdoods/status/1507703920260366345/photo/1', 'display_url': 'pic.twitter.com/BDvTf54sUL'}]}",0.0
+33,1507589100823535618,2022-03-26 05:23:45+00:00,False,"goop vibrations, gn",11,15,140,,,,0.0
+34,1507560608861990914,2022-03-26 03:30:32+00:00,False,"goopdoods 4575, 5548
+
+these are the only goops outta the 8,000 collection with the happy mask trait 👀
+
+#lifeisgoop https://t.co/FjRX79Hucp",21,11,150,,"{'media_keys': ['3_1507560191293853698', '3_1507560207030923264']}","{'urls': [{'start': 115, 'end': 138, 'url': 'https://t.co/FjRX79Hucp', 'expanded_url': 'https://twitter.com/goopdoods/status/1507560608861990914/photo/1', 'display_url': 'pic.twitter.com/FjRX79Hucp'}, {'start': 115, 'end': 138, 'url': 'https://t.co/FjRX79Hucp', 'expanded_url': 'https://twitter.com/goopdoods/status/1507560608861990914/photo/1', 'display_url': 'pic.twitter.com/FjRX79Hucp'}], 'hashtags': [{'start': 103, 'end': 114, 'tag': 'lifeisgoop'}]}",2.0
+35,1507533677143732225,2022-03-26 01:43:31+00:00,False,RT @NightlyNFTs: Who else tryna 🐋 in @goopdoods with me…,32,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'NightlyNFTs', 'id': '1353252055427637269'}, {'start': 37, 'end': 47, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+36,1507533514148827137,2022-03-26 01:42:53+00:00,False,RT @_MPE3: Another one… this isn’t a pump and dump this team is building something HUGE bullish AF on @goopdoods and @UrMomNFT and the whol…,30,0,0,,,"{'mentions': [{'start': 3, 'end': 9, 'username': '_MPE3', 'id': '335440387'}, {'start': 102, 'end': 112, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 117, 'end': 126, 'username': 'UrMomNFT', 'id': '246532544'}]}",0.0
+37,1507533326407589893,2022-03-26 01:42:08+00:00,False,"RT @jcreed06: Got another forever @goopdoods. This OG goop mirrors @toronto_person' original goopdood, only 1 of 6 OG cyclops 💙 https://t.c…",12,0,0,,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'jcreed06', 'id': '376871191'}, {'start': 34, 'end': 44, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 67, 'end': 82, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",0.0
+38,1507489997322174464,2022-03-25 22:49:57+00:00,False,set a reminder for our upcoming space! https://t.co/UocPsB3J9y,35,13,74,,,"{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/UocPsB3J9y', 'expanded_url': 'https://twitter.com/i/spaces/1YpKkZndjbPxj', 'display_url': 'twitter.com/i/spaces/1YpKk…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1507490000883093504/yVOrhluB?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1507490000883093504/yVOrhluB?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Scheduled: goop vibrations 🍻', 'description': 'goopdoods by GOOPDUDE’s space · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1YpKkZndjbPxj'}]}",2.0
+39,1507474312697110532,2022-03-25 21:47:38+00:00,False,"goopdoods 143, 863, 1195, 6107
+
+goopdood 1/1s just hit different, do you have one 👀?
+
+#lifeisgoop https://t.co/udcguoWuh6",33,17,136,,"{'media_keys': ['3_1507473421260759041', '3_1507473434183352320', '3_1507473451094876164', '3_1507473481897816064']}","{'urls': [{'start': 98, 'end': 121, 'url': 'https://t.co/udcguoWuh6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507474312697110532/photo/1', 'display_url': 'pic.twitter.com/udcguoWuh6'}, {'start': 98, 'end': 121, 'url': 'https://t.co/udcguoWuh6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507474312697110532/photo/1', 'display_url': 'pic.twitter.com/udcguoWuh6'}, {'start': 98, 'end': 121, 'url': 'https://t.co/udcguoWuh6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507474312697110532/photo/1', 'display_url': 'pic.twitter.com/udcguoWuh6'}, {'start': 98, 'end': 121, 'url': 'https://t.co/udcguoWuh6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507474312697110532/photo/1', 'display_url': 'pic.twitter.com/udcguoWuh6'}], 'hashtags': [{'start': 86, 'end': 97, 'tag': 'lifeisgoop'}]}",1.0
+40,1507415602637729796,2022-03-25 17:54:20+00:00,False,"andrew friesen (andy) has been working on goopdood since 2016. 
+
+he’s collaborated with local businesses through clothing, branding, physical artwork &amp; more.
+
+we wouldn’t be here today if it weren’t for him, so please go show him some love
+
+there would be no goopdood w/o goopdude https://t.co/DY9WwGR5bJ",99,38,258,,"{'media_keys': ['3_1507415596845219840', '3_1507415596920619011', '3_1507415596979441670', '3_1507415596987826179']}","{'annotations': [{'start': 0, 'end': 13, 'probability': 0.9678, 'type': 'Person', 'normalized_text': 'andrew friesen'}, {'start': 16, 'end': 20, 'probability': 0.3949, 'type': 'Person', 'normalized_text': 'andy)'}], 'urls': [{'start': 285, 'end': 308, 'url': 'https://t.co/DY9WwGR5bJ', 'expanded_url': 'https://twitter.com/goopdoods/status/1507415602637729796/photo/1', 'display_url': 'pic.twitter.com/DY9WwGR5bJ'}, {'start': 285, 'end': 308, 'url': 'https://t.co/DY9WwGR5bJ', 'expanded_url': 'https://twitter.com/goopdoods/status/1507415602637729796/photo/1', 'display_url': 'pic.twitter.com/DY9WwGR5bJ'}, {'start': 285, 'end': 308, 'url': 'https://t.co/DY9WwGR5bJ', 'expanded_url': 'https://twitter.com/goopdoods/status/1507415602637729796/photo/1', 'display_url': 'pic.twitter.com/DY9WwGR5bJ'}, {'start': 285, 'end': 308, 'url': 'https://t.co/DY9WwGR5bJ', 'expanded_url': 'https://twitter.com/goopdoods/status/1507415602637729796/photo/1', 'display_url': 'pic.twitter.com/DY9WwGR5bJ'}]}",5.0
+41,1507341535452426243,2022-03-25 13:00:01+00:00,False,"goop morning 
+
+here's a free banner dood 4512
+
+have a goop day! https://t.co/AL7ix17IGw",23,18,142,,"{'media_keys': ['3_1507215771411394567', '3_1507215790587752458']}","{'urls': [{'start': 64, 'end': 87, 'url': 'https://t.co/AL7ix17IGw', 'expanded_url': 'https://twitter.com/goopdoods/status/1507341535452426243/photo/1', 'display_url': 'pic.twitter.com/AL7ix17IGw'}, {'start': 64, 'end': 87, 'url': 'https://t.co/AL7ix17IGw', 'expanded_url': 'https://twitter.com/goopdoods/status/1507341535452426243/photo/1', 'display_url': 'pic.twitter.com/AL7ix17IGw'}]}",0.0
+42,1507229698241310762,2022-03-25 05:35:37+00:00,False,"goopnight 💤 
+
+don’t forget to tuck in your little goop pals",16,14,142,,,,0.0
+43,1507218500548538385,2022-03-25 04:51:07+00:00,False,RT @carsonturner: These @goopdoods are crazy… love this one. Background is sick. https://t.co/3sJrLnpCSS,72,0,0,,{'media_keys': ['3_1507214372447432727']},"{'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/3sJrLnpCSS', 'expanded_url': 'https://twitter.com/carsonturner/status/1507214376478064640/photo/1', 'display_url': 'pic.twitter.com/3sJrLnpCSS'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'carsonturner', 'id': '239689406'}, {'start': 24, 'end': 34, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+44,1507190539535458308,2022-03-25 03:00:01+00:00,False,"goopdoods 1974, 2178, 2475, 3654
+
+which of these 1/1s is your fav 🥵
+
+#lifeisgoop https://t.co/1avIVhKiON",30,39,176,,"{'media_keys': ['3_1507150058306904073', '3_1507150058306904076', '3_1507150058298425350', '3_1507150058311061504']}","{'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/1avIVhKiON', 'expanded_url': 'https://twitter.com/goopdoods/status/1507190539535458308/photo/1', 'display_url': 'pic.twitter.com/1avIVhKiON'}, {'start': 81, 'end': 104, 'url': 'https://t.co/1avIVhKiON', 'expanded_url': 'https://twitter.com/goopdoods/status/1507190539535458308/photo/1', 'display_url': 'pic.twitter.com/1avIVhKiON'}, {'start': 81, 'end': 104, 'url': 'https://t.co/1avIVhKiON', 'expanded_url': 'https://twitter.com/goopdoods/status/1507190539535458308/photo/1', 'display_url': 'pic.twitter.com/1avIVhKiON'}, {'start': 81, 'end': 104, 'url': 'https://t.co/1avIVhKiON', 'expanded_url': 'https://twitter.com/goopdoods/status/1507190539535458308/photo/1', 'display_url': 'pic.twitter.com/1avIVhKiON'}], 'hashtags': [{'start': 69, 'end': 80, 'tag': 'lifeisgoop'}]}",0.0
+45,1507176311508377602,2022-03-25 02:03:29+00:00,True,@LI_JA_CA @GutterCatGang @sartoshi_nft @SmallBrosNFT hi @sartoshi_nft,1,2,11,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'LI_JA_CA', 'id': '1471449402271313920'}, {'start': 10, 'end': 24, 'username': 'GutterCatGang', 'id': '1391917111614877696'}, {'start': 25, 'end': 38, 'username': 'sartoshi_nft', 'id': '1380417603013898241'}, {'start': 39, 'end': 52, 'username': 'SmallBrosNFT', 'id': '1482084568199049221'}, {'start': 56, 'end': 69, 'username': 'sartoshi_nft', 'id': '1380417603013898241'}]}",0.0
+46,1507159946139426818,2022-03-25 00:58:27+00:00,False,"https://t.co/MWTFESX28R
+
+😳🤷‍♂️ let’s try it",15,3,63,,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/MWTFESX28R', 'expanded_url': 'https://twitter.com/i/communities/1506780935664115715', 'display_url': 'twitter.com/i/communities/…'}]}",1.0
+47,1507145215559311360,2022-03-24 23:59:55+00:00,False,"congratulations @ItsNFTfooo on winning @alienfrens (#3472)! 🎉 
+
+we’re also happy to announce our apex legends tournament taking place this sunday, march 27th! 
+
+- winning team takes home 1 ETH! (goop)
+
+more details about the tournament in our discord",20,5,99,,,"{'mentions': [{'start': 16, 'end': 27, 'username': 'ItsNFTfooo', 'id': '1445289645001084930'}, {'start': 39, 'end': 50, 'username': 'alienfrens', 'id': '1453124258624724996'}]}",3.0
+48,1507124802795937792,2022-03-24 22:38:48+00:00,False,"RT @MisterArtsys: It’s a goop day today
+
+Just picked up these 4 @goopdoods 
+
+These honestly look amazing!🤩 https://t.co/8RcrNK0VuO",46,0,0,,"{'media_keys': ['3_1507121772210143232', '3_1507121772289798146', '3_1507121772214341632', '3_1507121772222627843']}","{'urls': [{'start': 107, 'end': 130, 'url': 'https://t.co/8RcrNK0VuO', 'expanded_url': 'https://twitter.com/MisterArtsys/status/1507121776454688769/photo/1', 'display_url': 'pic.twitter.com/8RcrNK0VuO'}, {'start': 107, 'end': 130, 'url': 'https://t.co/8RcrNK0VuO', 'expanded_url': 'https://twitter.com/MisterArtsys/status/1507121776454688769/photo/1', 'display_url': 'pic.twitter.com/8RcrNK0VuO'}, {'start': 107, 'end': 130, 'url': 'https://t.co/8RcrNK0VuO', 'expanded_url': 'https://twitter.com/MisterArtsys/status/1507121776454688769/photo/1', 'display_url': 'pic.twitter.com/8RcrNK0VuO'}, {'start': 107, 'end': 130, 'url': 'https://t.co/8RcrNK0VuO', 'expanded_url': 'https://twitter.com/MisterArtsys/status/1507121776454688769/photo/1', 'display_url': 'pic.twitter.com/8RcrNK0VuO'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'MisterArtsys', 'id': '1138564677322104834'}, {'start': 64, 'end': 74, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+49,1507084842332160000,2022-03-24 20:00:01+00:00,False,"🚨 free banner of the day 🚨
+
+where you at goop 727?
+come get your free banner 🌺
+
+#lifeisgoop https://t.co/VAdmbRX7a6",21,14,116,,"{'media_keys': ['3_1507047819827421188', '3_1507047849636343829']}","{'urls': [{'start': 92, 'end': 115, 'url': 'https://t.co/VAdmbRX7a6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507084842332160000/photo/1', 'display_url': 'pic.twitter.com/VAdmbRX7a6'}, {'start': 92, 'end': 115, 'url': 'https://t.co/VAdmbRX7a6', 'expanded_url': 'https://twitter.com/goopdoods/status/1507084842332160000/photo/1', 'display_url': 'pic.twitter.com/VAdmbRX7a6'}], 'hashtags': [{'start': 80, 'end': 91, 'tag': 'lifeisgoop'}]}",0.0
+50,1507039289653219338,2022-03-24 16:59:00+00:00,False,"sometimes all we need is a edna, a petey, a andy, or a fred in our lives 
+
+meme: @get_rowdy_ https://t.co/DMTbAFBFyO",32,11,135,,{'media_keys': ['3_1507039286570463246']},"{'annotations': [{'start': 27, 'end': 30, 'probability': 0.4832, 'type': 'Person', 'normalized_text': 'edna'}], 'urls': [{'start': 93, 'end': 116, 'url': 'https://t.co/DMTbAFBFyO', 'expanded_url': 'https://twitter.com/goopdoods/status/1507039289653219338/photo/1', 'display_url': 'pic.twitter.com/DMTbAFBFyO'}], 'mentions': [{'start': 81, 'end': 92, 'username': 'get_rowdy_', 'id': '1423645138316840960'}]}",0.0
+51,1506997132988981257,2022-03-24 14:11:29+00:00,False,"goop morning
+
+let’s bring back song of the day 
+https://t.co/rCfU5gLCg3",24,21,107,,,"{'urls': [{'start': 48, 'end': 71, 'url': 'https://t.co/rCfU5gLCg3', 'expanded_url': 'https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx?si=nYUK3P7xQY2YVgjSIfor4g&context=spotify%3Aalbum%3A4rJgzzfFHAVFhCSt2P4I3j', 'display_url': 'open.spotify.com/track/2xyBvir9…'}]}",2.0
+52,1506861388924338176,2022-03-24 05:12:05+00:00,False,"goopnight 💤 
+
+say it back 🔫 
+
+artwork by goopdood https://t.co/SxmjaVEeFP",74,55,340,,{'media_keys': ['3_1506861384964923392']},"{'urls': [{'start': 50, 'end': 73, 'url': 'https://t.co/SxmjaVEeFP', 'expanded_url': 'https://twitter.com/goopdoods/status/1506861388924338176/photo/1', 'display_url': 'pic.twitter.com/SxmjaVEeFP'}]}",0.0
+53,1506838134696382464,2022-03-24 03:39:41+00:00,False,"our meme contest is over!
+
+congrats to @_P1G30N for goopin
+
+dm @onmygrzzly with your address
+
+https://t.co/qscs9P3fqN https://t.co/531srNMwRd",9,6,47,,,"{'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/qscs9P3fqN', 'expanded_url': 'https://twitter.com/_p1g30n/status/1506830497766252544?s=21', 'display_url': 'twitter.com/_p1g30n/status…'}, {'start': 118, 'end': 141, 'url': 'https://t.co/531srNMwRd', 'expanded_url': 'https://twitter.com/goopdoods/status/1506336551491575826', 'display_url': 'twitter.com/goopdoods/stat…'}], 'mentions': [{'start': 39, 'end': 47, 'username': '_P1G30N', 'id': '1347808236015996928'}, {'start': 63, 'end': 74, 'username': 'onmygrzzly', 'id': '1420165132227813377'}]}",0.0
+54,1506831540629782528,2022-03-24 03:13:29+00:00,False,"RT @Diesl_io: Just copped this 1 of 1 @goopdoods
+❤️ ❤️ 
+#goopdoods #Goopy #goopdood
+
+Check out this item on OpenSea https://t.co/pl3knIJCep…",27,0,0,,,"{'urls': [{'start': 116, 'end': 139, 'url': 'https://t.co/pl3knIJCep', 'expanded_url': 'https://opensea.io/assets/0x2dff22dcb59d6729ed543188033ce102f14ef0d1/4268/', 'display_url': 'opensea.io/assets/0x2dff2…'}], 'hashtags': [{'start': 56, 'end': 66, 'tag': 'goopdoods'}, {'start': 67, 'end': 73, 'tag': 'Goopy'}, {'start': 74, 'end': 83, 'tag': 'goopdood'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'Diesl_io', 'id': '1457417884959797248'}, {'start': 38, 'end': 48, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+55,1506813048475975680,2022-03-24 02:00:00+00:00,False,"goopdoods 2257, 2830, 4028, 5983
+
+heard a small eyes goop might win something on https://t.co/98KbXdH7M6
+👀
+
+#lifeisgoop https://t.co/I8vlumoZeU",23,13,110,,"{'media_keys': ['3_1506721390363357192', '3_1506721428560875531', '3_1506721784858648587', '3_1506722030296702993']}","{'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/98KbXdH7M6', 'expanded_url': 'http://discord.gg/goopdoods', 'display_url': 'discord.gg/goopdoods'}, {'start': 120, 'end': 143, 'url': 'https://t.co/I8vlumoZeU', 'expanded_url': 'https://twitter.com/goopdoods/status/1506813048475975680/photo/1', 'display_url': 'pic.twitter.com/I8vlumoZeU'}, {'start': 120, 'end': 143, 'url': 'https://t.co/I8vlumoZeU', 'expanded_url': 'https://twitter.com/goopdoods/status/1506813048475975680/photo/1', 'display_url': 'pic.twitter.com/I8vlumoZeU'}, {'start': 120, 'end': 143, 'url': 'https://t.co/I8vlumoZeU', 'expanded_url': 'https://twitter.com/goopdoods/status/1506813048475975680/photo/1', 'display_url': 'pic.twitter.com/I8vlumoZeU'}, {'start': 120, 'end': 143, 'url': 'https://t.co/I8vlumoZeU', 'expanded_url': 'https://twitter.com/goopdoods/status/1506813048475975680/photo/1', 'display_url': 'pic.twitter.com/I8vlumoZeU'}], 'hashtags': [{'start': 108, 'end': 119, 'tag': 'lifeisgoop'}]}",2.0
+56,1506775235034558466,2022-03-23 23:29:45+00:00,True,"@jcreed06 @Sal_NFTs some of you are way too comfortable on the TL 
+
+cover up please this is a kids app",1,3,20,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'jcreed06', 'id': '376871191'}]}",0.0
+57,1506771863397179403,2022-03-23 23:16:21+00:00,True,@JackieMoooon @danielgothits ELE baby,0,0,4,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'JackieMoooon', 'id': '1379985146904895488'}, {'start': 14, 'end': 28, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+58,1506771793218048000,2022-03-23 23:16:04+00:00,False,RT @danielgothits: mfers 🤝 goops https://t.co/RDjpcXkY40,86,0,0,,{'media_keys': ['3_1506769337771724800']},"{'urls': [{'start': 33, 'end': 56, 'url': 'https://t.co/RDjpcXkY40', 'expanded_url': 'https://twitter.com/danielgothits/status/1506769416360443908/photo/1', 'display_url': 'pic.twitter.com/RDjpcXkY40'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+59,1506771284650196995,2022-03-23 23:14:03+00:00,True,"@danielgothits @JackieMoooon we’re actually an mfer derivative, clearly didn’t do a very good job copying the art though :/",2,6,40,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'danielgothits', 'id': '141784177'}, {'start': 15, 'end': 28, 'username': 'JackieMoooon', 'id': '1379985146904895488'}]}",1.0
+60,1506769601757073410,2022-03-23 23:07:22+00:00,False,what the goop?,45,47,255,,,,1.0
+61,1506717336358862855,2022-03-23 19:39:41+00:00,False,"congratulations @ZBadger0 &amp; @Scandar_eth on winning the two @dourdarcel , they’ve been sent to your wallets 🤝
+
+we’re doing ANOTHER giveaway to the holders of the “small eyes” trait on discord
+
+1 winner only &amp; 1 entry only for each holder
+
+winner receives @alienfrens (#3472)!",30,16,141,,,"{'mentions': [{'start': 16, 'end': 25, 'username': 'ZBadger0', 'id': '1506201732761755649'}, {'start': 32, 'end': 44, 'username': 'Scandar_eth', 'id': '1506160630646153216'}, {'start': 64, 'end': 75, 'username': 'dourdarcel', 'id': '49691446'}, {'start': 263, 'end': 274, 'username': 'alienfrens', 'id': '1453124258624724996'}]}",2.0
+62,1506715248157417484,2022-03-23 19:31:23+00:00,True,@SoapBoxCar hehehe who’s that lil pal,0,1,8,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'SoapBoxCar', 'id': '1399764832048582670'}]}",1.0
+63,1506715137339801606,2022-03-23 19:30:56+00:00,True,@TunaFPS lowkey i was thinking that too but didn’t want to say anything,3,2,29,,,"{'mentions': [{'start': 0, 'end': 8, 'username': 'TunaFPS', 'id': '1203001864226328582'}]}",0.0
+64,1506714741322002439,2022-03-23 19:29:22+00:00,False,RT @0xmoshpit: #NewNFTProfilePic NFT by gooopdoods_deployer. 1/1 by @goopdoods 🚀🚀. Where’s the goop fam at?? https://t.co/2fOCFSQYsj,29,0,0,,{'media_keys': ['3_1506710501102743553']},"{'urls': [{'start': 109, 'end': 132, 'url': 'https://t.co/2fOCFSQYsj', 'expanded_url': 'https://twitter.com/0xmoshpit/status/1506710503774556160/photo/1', 'display_url': 'pic.twitter.com/2fOCFSQYsj'}], 'hashtags': [{'start': 15, 'end': 32, 'tag': 'NewNFTProfilePic'}], 'mentions': [{'start': 3, 'end': 13, 'username': '0xmoshpit', 'id': '1352687269572988930'}, {'start': 68, 'end': 78, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+65,1506714706739965960,2022-03-23 19:29:14+00:00,True,@0xmoshpit holy,0,0,4,,,"{'mentions': [{'start': 0, 'end': 10, 'username': '0xmoshpit', 'id': '1352687269572988930'}]}",0.0
+66,1506714295723245568,2022-03-23 19:27:36+00:00,True,"@BobLoukas @Pablo_MoneroNFT goopnood with the vamp eye 🤯
+
+🧎‍♂️🐐",0,0,3,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'BobLoukas', 'id': '82172203'}, {'start': 11, 'end': 27, 'username': 'Pablo_MoneroNFT', 'id': '1386886298540118024'}]}",0.0
+67,1506714073697824769,2022-03-23 19:26:43+00:00,True,@BobLoukas @Pablo_MoneroNFT mfers 🤝 goops @danielgothits,2,0,5,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'BobLoukas', 'id': '82172203'}, {'start': 11, 'end': 27, 'username': 'Pablo_MoneroNFT', 'id': '1386886298540118024'}, {'start': 42, 'end': 56, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+68,1506709314064592897,2022-03-23 19:07:48+00:00,True,@WillyTheDegen @SoapBoxCar that’s a pretty bold accusation,1,0,10,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'WillyTheDegen', 'id': '1407016853604495364'}, {'start': 15, 'end': 26, 'username': 'SoapBoxCar', 'id': '1399764832048582670'}]}",0.0
+69,1506702448097906694,2022-03-23 18:40:31+00:00,True,@PopeyesNFTs roadmaps are sellout tactics,8,2,40,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'PopeyesNFTs', 'id': '1435316516015296514'}]}",2.0
+70,1506699620654714896,2022-03-23 18:29:17+00:00,True,"@Helloimmorgan here’s your song of the day
+
+https://t.co/XLmLdoqYpd",0,1,8,,,"{'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/XLmLdoqYpd', 'expanded_url': 'https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp?si=db50c5f30575421c', 'display_url': 'open.spotify.com/track/6gtNiLJN…'}], 'mentions': [{'start': 0, 'end': 14, 'username': 'Helloimmorgan', 'id': '128463721'}]}",0.0
+71,1506696515045240839,2022-03-23 18:16:56+00:00,True,@Helloimmorgan goop morgan ☀️☀️☀️,0,2,26,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'Helloimmorgan', 'id': '128463721'}]}",0.0
+72,1506677160534282249,2022-03-23 17:00:02+00:00,False,"daily free banner 🎉
+
+you're up dood #1374
+
+#lifeisgoop https://t.co/Voq7IGsGW2",21,11,123,,"{'media_keys': ['3_1506380902217273355', '3_1506380924748972041']}","{'urls': [{'start': 55, 'end': 78, 'url': 'https://t.co/Voq7IGsGW2', 'expanded_url': 'https://twitter.com/goopdoods/status/1506677160534282249/photo/1', 'display_url': 'pic.twitter.com/Voq7IGsGW2'}, {'start': 55, 'end': 78, 'url': 'https://t.co/Voq7IGsGW2', 'expanded_url': 'https://twitter.com/goopdoods/status/1506677160534282249/photo/1', 'display_url': 'pic.twitter.com/Voq7IGsGW2'}], 'hashtags': [{'start': 43, 'end': 54, 'tag': 'lifeisgoop'}]}",0.0
+73,1506677133661323277,2022-03-23 16:59:56+00:00,True,@MoBeanzNFT just fell to my knees at a jiffy lube,0,1,11,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'MoBeanzNFT', 'id': '805124841355571205'}]}",0.0
+74,1506676922352349187,2022-03-23 16:59:05+00:00,False,"just found out 1 goop = 1 goop.
+
+shaking",47,24,311,,,,0.0
+75,1506676531162193924,2022-03-23 16:57:32+00:00,True,@sxtvik it hurts less if you don’t fight the goop and just let it consume you,0,1,8,,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'sxtvik', 'id': '731800772174811136'}]}",0.0
+76,1506676292208504837,2022-03-23 16:56:35+00:00,False,"RT @sxtvik: my @goopdoods is straight up influencing my twitter personality now and I can’t seem to stop it, he’s in charge
+
+help me https:…",35,0,0,,,"{'annotations': [{'start': 56, 'end': 62, 'probability': 0.8007, 'type': 'Product', 'normalized_text': 'twitter'}], 'mentions': [{'start': 3, 'end': 10, 'username': 'sxtvik', 'id': '731800772174811136'}, {'start': 15, 'end': 25, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+77,1506676264765173774,2022-03-23 16:56:28+00:00,True,@sxtvik you’re fucked boss,1,2,15,,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'sxtvik', 'id': '731800772174811136'}]}",0.0
+78,1506654839417286657,2022-03-23 15:31:20+00:00,True,@nftorth @ovosontop 👀,0,0,0,,,"{'mentions': [{'start': 0, 'end': 8, 'username': 'nftorth', 'id': '1462957893838200835'}, {'start': 9, 'end': 19, 'username': 'ovosontop', 'id': '1332711667809935361'}]}",0.0
+79,1506648716970795017,2022-03-23 15:07:00+00:00,False,"goop morning ☀️
+ https://t.co/vP8qW4Wnpv",100,35,393,,{'media_keys': ['16_1503793737754988547']},"{'urls': [{'start': 17, 'end': 40, 'url': 'https://t.co/vP8qW4Wnpv', 'expanded_url': 'https://twitter.com/goopdoods/status/1503793788535414784/photo/1', 'display_url': 'pic.twitter.com/vP8qW4Wnpv'}]}",3.0
+80,1506647671217479681,2022-03-23 15:02:51+00:00,False,RT @ovosontop: goop @goopdoods https://t.co/ZiGGMwkoPE,41,0,0,,{'media_keys': ['3_1506640922586484736']},"{'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/ZiGGMwkoPE', 'expanded_url': 'https://twitter.com/ovosontop/status/1506640960184147973/photo/1', 'display_url': 'pic.twitter.com/ZiGGMwkoPE'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'ovosontop', 'id': '1332711667809935361'}, {'start': 20, 'end': 30, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+81,1506631859471634439,2022-03-23 14:00:01+00:00,False,"goopdoods 781, 1227, 3267, 3548
+
+must've been a rough night, anyone else's goop puking?
+
+#lifeisgoop https://t.co/qbCqv7UGqR",21,17,155,,"{'media_keys': ['3_1506392012781764616', '3_1506392012794306567', '3_1506392012794343424', '3_1506392014757240839']}","{'urls': [{'start': 101, 'end': 124, 'url': 'https://t.co/qbCqv7UGqR', 'expanded_url': 'https://twitter.com/goopdoods/status/1506631859471634439/photo/1', 'display_url': 'pic.twitter.com/qbCqv7UGqR'}, {'start': 101, 'end': 124, 'url': 'https://t.co/qbCqv7UGqR', 'expanded_url': 'https://twitter.com/goopdoods/status/1506631859471634439/photo/1', 'display_url': 'pic.twitter.com/qbCqv7UGqR'}, {'start': 101, 'end': 124, 'url': 'https://t.co/qbCqv7UGqR', 'expanded_url': 'https://twitter.com/goopdoods/status/1506631859471634439/photo/1', 'display_url': 'pic.twitter.com/qbCqv7UGqR'}, {'start': 101, 'end': 124, 'url': 'https://t.co/qbCqv7UGqR', 'expanded_url': 'https://twitter.com/goopdoods/status/1506631859471634439/photo/1', 'display_url': 'pic.twitter.com/qbCqv7UGqR'}], 'hashtags': [{'start': 89, 'end': 100, 'tag': 'lifeisgoop'}]}",2.0
+82,1506546289034547200,2022-03-23 08:20:00+00:00,False,"goopdoods 5450, 5495, 6403, 7141
+
+hope you brought a poncho for all this puke, where's our poncho gang at?
+
+#lifeisgoop https://t.co/NgHLiwlHYF",27,12,152,,"{'media_keys': ['3_1506391529371455494', '3_1506391529383989249', '3_1506391529383989251', '3_1506391529409196034']}","{'urls': [{'start': 120, 'end': 143, 'url': 'https://t.co/NgHLiwlHYF', 'expanded_url': 'https://twitter.com/goopdoods/status/1506546289034547200/photo/1', 'display_url': 'pic.twitter.com/NgHLiwlHYF'}, {'start': 120, 'end': 143, 'url': 'https://t.co/NgHLiwlHYF', 'expanded_url': 'https://twitter.com/goopdoods/status/1506546289034547200/photo/1', 'display_url': 'pic.twitter.com/NgHLiwlHYF'}, {'start': 120, 'end': 143, 'url': 'https://t.co/NgHLiwlHYF', 'expanded_url': 'https://twitter.com/goopdoods/status/1506546289034547200/photo/1', 'display_url': 'pic.twitter.com/NgHLiwlHYF'}, {'start': 120, 'end': 143, 'url': 'https://t.co/NgHLiwlHYF', 'expanded_url': 'https://twitter.com/goopdoods/status/1506546289034547200/photo/1', 'display_url': 'pic.twitter.com/NgHLiwlHYF'}], 'hashtags': [{'start': 108, 'end': 119, 'tag': 'lifeisgoop'}]}",0.0
+83,1506505767406428163,2022-03-23 05:38:59+00:00,True,"@shok6454 🤝🫂
+
+we like it too",0,0,5,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'shok6454', 'id': '1469927205631569920'}]}",0.0
+84,1506503128799186947,2022-03-23 05:28:30+00:00,False,"goop night world ❤️✨🛌
+
+drink a full glass of water before bed or else",26,20,217,,,,0.0
+85,1506501590261374980,2022-03-23 05:22:23+00:00,True,"@SoapBoxCar @BombNFTs exhibit A: goopy, classic, fresh. 
+exhibit B: no goop. probably rare, proceed with caution. https://t.co/CiuHH3DiLw",0,2,8,,"{'media_keys': ['3_1506501573119197185', '3_1506501573127684096']}","{'urls': [{'start': 114, 'end': 137, 'url': 'https://t.co/CiuHH3DiLw', 'expanded_url': 'https://twitter.com/goopdoods/status/1506501590261374980/photo/1', 'display_url': 'pic.twitter.com/CiuHH3DiLw'}, {'start': 114, 'end': 137, 'url': 'https://t.co/CiuHH3DiLw', 'expanded_url': 'https://twitter.com/goopdoods/status/1506501590261374980/photo/1', 'display_url': 'pic.twitter.com/CiuHH3DiLw'}], 'mentions': [{'start': 0, 'end': 11, 'username': 'SoapBoxCar', 'id': '1399764832048582670'}, {'start': 12, 'end': 21, 'username': 'BombNFTs', 'id': '1458163843285360645'}]}",0.0
+86,1506501001473404929,2022-03-23 05:20:02+00:00,True,@SoapBoxCar @BombNFTs but ser that one has no goop,0,2,8,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'SoapBoxCar', 'id': '1399764832048582670'}, {'start': 12, 'end': 21, 'username': 'BombNFTs', 'id': '1458163843285360645'}]}",0.0
+87,1506482618262503425,2022-03-23 04:06:59+00:00,True,@Christo72479604 like this tweet as your vote for the OG goops,2,0,16,,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'Christo72479604', 'id': '1464865633531666437'}]}",0.0
+88,1506480115810721801,2022-03-23 03:57:03+00:00,False,which goop trait has the strongest community?,9,29,57,,{'poll_ids': ['1506480115177426944']},,1.0
+89,1506450665266057223,2022-03-23 02:00:01+00:00,False,"goopdoods 936, 2344, 4599, 6132
+
+has anyone else been abducted yet 👽?
+
+#lifeisgoop https://t.co/ZfKE5iI2Ru",35,25,222,,"{'media_keys': ['3_1506391234394431488', '3_1506391234386042889', '3_1506391234394341381', '3_1506391234411118600']}","{'urls': [{'start': 83, 'end': 106, 'url': 'https://t.co/ZfKE5iI2Ru', 'expanded_url': 'https://twitter.com/goopdoods/status/1506450665266057223/photo/1', 'display_url': 'pic.twitter.com/ZfKE5iI2Ru'}, {'start': 83, 'end': 106, 'url': 'https://t.co/ZfKE5iI2Ru', 'expanded_url': 'https://twitter.com/goopdoods/status/1506450665266057223/photo/1', 'display_url': 'pic.twitter.com/ZfKE5iI2Ru'}, {'start': 83, 'end': 106, 'url': 'https://t.co/ZfKE5iI2Ru', 'expanded_url': 'https://twitter.com/goopdoods/status/1506450665266057223/photo/1', 'display_url': 'pic.twitter.com/ZfKE5iI2Ru'}, {'start': 83, 'end': 106, 'url': 'https://t.co/ZfKE5iI2Ru', 'expanded_url': 'https://twitter.com/goopdoods/status/1506450665266057223/photo/1', 'display_url': 'pic.twitter.com/ZfKE5iI2Ru'}], 'hashtags': [{'start': 71, 'end': 82, 'tag': 'lifeisgoop'}]}",1.0
+90,1506426061520834566,2022-03-23 00:22:15+00:00,True,@nulleth_ this is so goop,1,1,17,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'nulleth_', 'id': '843381671843979264'}]}",0.0
+91,1506421786161954829,2022-03-23 00:05:16+00:00,False,comfy https://t.co/7WaCJgLGlj,174,70,816,,{'media_keys': ['3_1506421782277988354']},"{'urls': [{'start': 6, 'end': 29, 'url': 'https://t.co/7WaCJgLGlj', 'expanded_url': 'https://twitter.com/goopdoods/status/1506421786161954829/photo/1', 'display_url': 'pic.twitter.com/7WaCJgLGlj'}]}",15.0
+92,1506397797880410121,2022-03-22 22:29:57+00:00,False,RT @ijustine: @goopdoods oops https://t.co/1pg9x7SDYY,157,0,0,,{'media_keys': ['3_1506396535491231744']},"{'urls': [{'start': 30, 'end': 53, 'url': 'https://t.co/1pg9x7SDYY', 'expanded_url': 'https://twitter.com/ijustine/status/1506396661869780992/photo/1', 'display_url': 'pic.twitter.com/1pg9x7SDYY'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'ijustine', 'id': '7846'}, {'start': 14, 'end': 24, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+93,1506397112988319746,2022-03-22 22:27:13+00:00,True,@ijustine looking goop 💕💕,1,1,40,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'ijustine', 'id': '7846'}]}",0.0
+94,1506391429546926082,2022-03-22 22:04:38+00:00,False,omg this is sick https://t.co/T7EtEqLgF6,25,6,165,,,"{'urls': [{'start': 17, 'end': 40, 'url': 'https://t.co/T7EtEqLgF6', 'expanded_url': 'https://twitter.com/Specul8ART/status/1506381505450450952', 'display_url': 'twitter.com/Specul8ART/sta…'}]}",0.0
+95,1506390915434356737,2022-03-22 22:02:36+00:00,False,who said NFTs can’t do any good? we’ll match you @CryptoGodfatha 🤝❤️ https://t.co/vm3KDyzSyN,34,4,172,,,"{'annotations': [{'start': 9, 'end': 12, 'probability': 0.7281, 'type': 'Person', 'normalized_text': 'NFTs'}], 'urls': [{'start': 69, 'end': 92, 'url': 'https://t.co/vm3KDyzSyN', 'expanded_url': 'https://twitter.com/CryptoGodfatha/status/1506390613352087556', 'display_url': 'twitter.com/CryptoGodfatha…'}], 'mentions': [{'start': 49, 'end': 64, 'username': 'CryptoGodfatha', 'id': '941941398093250560'}]}",2.0
+96,1506388677253021705,2022-03-22 21:53:42+00:00,False,"Congrats to @Brianca64002710 on winning the framed Clay Goop piece made by goopdood himself 🎉
+
+Shoot us a dm for more info 
+
+goop https://t.co/sEw5yXRmZ7",15,11,116,,{'media_keys': ['3_1506388673964789764']},"{'annotations': [{'start': 51, 'end': 59, 'probability': 0.5142, 'type': 'Person', 'normalized_text': 'Clay Goop'}], 'urls': [{'start': 130, 'end': 153, 'url': 'https://t.co/sEw5yXRmZ7', 'expanded_url': 'https://twitter.com/goopdoods/status/1506388677253021705/photo/1', 'display_url': 'pic.twitter.com/sEw5yXRmZ7'}], 'mentions': [{'start': 12, 'end': 28, 'username': 'Brianca64002710', 'id': '4925724612'}]}",1.0
+97,1506387317107433479,2022-03-22 21:48:18+00:00,False,RT @punk2513: #NewProfilePic rarely does a floor look this good to me  @goopdoods https://t.co/3G2PDIeSB4,15,0,0,,{'media_keys': ['3_1506374556017217541']},"{'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/3G2PDIeSB4', 'expanded_url': 'https://twitter.com/punk2513/status/1506374558755999756/photo/1', 'display_url': 'pic.twitter.com/3G2PDIeSB4'}], 'hashtags': [{'start': 14, 'end': 28, 'tag': 'NewProfilePic'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'punk2513', 'id': '1398495213052694530'}, {'start': 71, 'end': 81, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+98,1506377580705890312,2022-03-22 21:09:37+00:00,True,so true bestie,1,1,40,,,,0.0
+99,1506376481806721035,2022-03-22 21:05:15+00:00,False,"not to be political but
+
+goop?",66,83,434,,,,3.0
+100,1506345067082043395,2022-03-22 19:00:25+00:00,True,@cloncast it’ll be on the blockchain soon enough 👀🤝💕,0,3,33,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'cloncast', 'id': '1390719453529137156'}]}",0.0
+101,1506342651674734601,2022-03-22 18:50:49+00:00,True,"@Lord_cig @DeezeFi Fr 🤨
+
+we do a little censoring? 
+jk deeze much love https://t.co/5NAxWG6ZZk",2,0,14,,{'media_keys': ['3_1506342647690051595']},"{'mentions': [{'start': 0, 'end': 9, 'username': 'Lord_cig', 'id': '1420803833723293696'}, {'start': 10, 'end': 18, 'username': 'DeezeFi', 'id': '127646057'}], 'urls': [{'start': 71, 'end': 94, 'url': 'https://t.co/5NAxWG6ZZk', 'expanded_url': 'https://twitter.com/goopdoods/status/1506342651674734601/photo/1', 'display_url': 'pic.twitter.com/5NAxWG6ZZk'}]}",0.0
+102,1506341450472112135,2022-03-22 18:46:02+00:00,False,we like the @cloncast along with the cats https://t.co/fGwdP8D0YT https://t.co/MlH9Hv2Jcc,89,36,432,,{'media_keys': ['3_1506341447322284034']},"{'mentions': [{'start': 12, 'end': 21, 'username': 'cloncast', 'id': '1390719453529137156'}], 'urls': [{'start': 42, 'end': 65, 'url': 'https://t.co/fGwdP8D0YT', 'expanded_url': 'https://twitter.com/goopdoods/status/1506341450472112135/photo/1', 'display_url': 'pic.twitter.com/fGwdP8D0YT'}, {'start': 66, 'end': 89, 'url': 'https://t.co/MlH9Hv2Jcc', 'expanded_url': 'https://twitter.com/cloncast/status/1506320927599972353', 'display_url': 'twitter.com/cloncast/statu…'}]}",5.0
+103,1506336551491575826,2022-03-22 18:26:34+00:00,False,"🚨MEME CONTEST🚨
+
+whoever makes the best goop meme will get a goop. very straightforward. 
+
+here’s our first submission from none other than @danielgothits 
+
+drop your goop meme the replies, winner will be picked in 24 hours!! https://t.co/Boug47do9v",43,78,193,,{'media_keys': ['3_1506336547855024137']},"{'mentions': [{'start': 139, 'end': 153, 'username': 'danielgothits', 'id': '141784177'}], 'urls': [{'start': 225, 'end': 248, 'url': 'https://t.co/Boug47do9v', 'expanded_url': 'https://twitter.com/goopdoods/status/1506336551491575826/photo/1', 'display_url': 'pic.twitter.com/Boug47do9v'}]}",1.0
+104,1506329104458600449,2022-03-22 17:56:59+00:00,False,RT @JakeFarmakis: @goopdoods @opensea @TokenframeNFT Looked so good had to get another 👏 @goopdoods https://t.co/OqSCVnX4xr,28,0,0,,{'media_keys': ['3_1506328968747753476']},"{'mentions': [{'start': 3, 'end': 16, 'username': 'JakeFarmakis', 'id': '43892224'}, {'start': 18, 'end': 28, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 29, 'end': 37, 'username': 'opensea', 'id': '946213559213555712'}, {'start': 38, 'end': 52, 'username': 'TokenframeNFT', 'id': '1396591256940126214'}, {'start': 89, 'end': 99, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 100, 'end': 123, 'url': 'https://t.co/OqSCVnX4xr', 'expanded_url': 'https://twitter.com/JakeFarmakis/status/1506328972912640004/photo/1', 'display_url': 'pic.twitter.com/OqSCVnX4xr'}]}",0.0
+105,1506327820204752903,2022-03-22 17:51:53+00:00,True,@JakeFarmakis @opensea @TokenframeNFT hey that’s pretty neat,0,1,23,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'JakeFarmakis', 'id': '43892224'}, {'start': 14, 'end': 22, 'username': 'opensea', 'id': '946213559213555712'}, {'start': 23, 'end': 37, 'username': 'TokenframeNFT', 'id': '1396591256940126214'}]}",0.0
+106,1506321222287728641,2022-03-22 17:25:40+00:00,False,RT @cloncast: goop'd in @goopdoods https://t.co/VVPBXMsYHR,130,0,0,,{'media_keys': ['3_1506320804530642944']},"{'mentions': [{'start': 3, 'end': 12, 'username': 'cloncast', 'id': '1390719453529137156'}, {'start': 24, 'end': 34, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 35, 'end': 58, 'url': 'https://t.co/VVPBXMsYHR', 'expanded_url': 'https://twitter.com/cloncast/status/1506320927599972353/photo/1', 'display_url': 'pic.twitter.com/VVPBXMsYHR'}]}",0.0
+107,1506314765374828546,2022-03-22 17:00:00+00:00,False,"🚨 daily free twitter banner 🚨
+
+goopdood #216 come claim your banner!
+
+who wants one next 👀?
+
+#lifeisgoop https://t.co/es6uUbLQ3E",32,62,213,,"{'media_keys': ['3_1506297890230214660', '3_1506297906776752140']}","{'hashtags': [{'start': 93, 'end': 104, 'tag': 'lifeisgoop'}], 'urls': [{'start': 105, 'end': 128, 'url': 'https://t.co/es6uUbLQ3E', 'expanded_url': 'https://twitter.com/goopdoods/status/1506314765374828546/photo/1', 'display_url': 'pic.twitter.com/es6uUbLQ3E'}, {'start': 105, 'end': 128, 'url': 'https://t.co/es6uUbLQ3E', 'expanded_url': 'https://twitter.com/goopdoods/status/1506314765374828546/photo/1', 'display_url': 'pic.twitter.com/es6uUbLQ3E'}], 'annotations': [{'start': 14, 'end': 20, 'probability': 0.677, 'type': 'Product', 'normalized_text': 'twitter'}]}",2.0
+108,1506310482118029316,2022-03-22 16:42:59+00:00,False,"- Currently sitting at #5 on OpenSea 
+- Over 1000 ETH done in a 12hr period
+- 70% of all royalties going back to the goopvault for the Swamp
+
+All I can say is…goop",102,44,448,,,,10.0
+109,1506306157966671878,2022-03-22 16:25:48+00:00,False,"back on with @cooItimes tonight, come get goopy with us later!
+
+may get a little leaky with the alpha… https://t.co/S4k4bfWcJA",34,1,123,,,"{'mentions': [{'start': 13, 'end': 23, 'username': 'cooItimes', 'id': '381127643'}], 'urls': [{'start': 103, 'end': 126, 'url': 'https://t.co/S4k4bfWcJA', 'expanded_url': 'https://twitter.com/cooItimes/status/1506302388688375813', 'display_url': 'twitter.com/cooItimes/stat…'}]}",1.0
+110,1506304724693401603,2022-03-22 16:20:06+00:00,True,"@andre_smith_24 @Dr_Sizzled @TwinJML @BentoBoiNFT been waiting for someone to say this
+
+everything you’re seeing on twitter from all these influencers is entirely organic. 
+
+let’s see your proof ser 🙈",1,0,3,,,"{'mentions': [{'start': 0, 'end': 15, 'username': 'andre_smith_24', 'id': '1488784270097268736'}, {'start': 16, 'end': 27, 'username': 'Dr_Sizzled', 'id': '1437556693571756032'}, {'start': 28, 'end': 36, 'username': 'TwinJML', 'id': '1478110559136632833'}, {'start': 37, 'end': 49, 'username': 'BentoBoiNFT', 'id': '1357259205191766016'}], 'annotations': [{'start': 116, 'end': 122, 'probability': 0.8129, 'type': 'Product', 'normalized_text': 'twitter'}]}",0.0
+111,1506301921585414149,2022-03-22 16:08:58+00:00,True,@hallsy005 @investinStockz @danielgothits @toronto_person nah dude I think you work for us,0,2,4,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'hallsy005', 'id': '605491297'}, {'start': 11, 'end': 26, 'username': 'investinStockz', 'id': '30882034'}, {'start': 27, 'end': 41, 'username': 'danielgothits', 'id': '141784177'}, {'start': 42, 'end': 57, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",0.0
+112,1506296799153250317,2022-03-22 15:48:37+00:00,True,"@danielgothits and we’re giving away a lambo 
+
+siiiiiiike",9,5,37,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+113,1506288755996561417,2022-03-22 15:16:39+00:00,False,"quick spotlight on @toronto_person early work!! Andy is a mf genius and we’re honored he wanted to work with us 💕🤝
+
+also question for y’all: goop? https://t.co/9dYgWIPicg",41,13,129,,,"{'mentions': [{'start': 19, 'end': 34, 'username': 'toronto_person', 'id': '1121479288035921920'}], 'urls': [{'start': 147, 'end': 170, 'url': 'https://t.co/9dYgWIPicg', 'expanded_url': 'https://twitter.com/NathanGuergis/status/1506288029568229381', 'display_url': 'twitter.com/NathanGuergis/…'}], 'annotations': [{'start': 48, 'end': 51, 'probability': 0.9876, 'type': 'Person', 'normalized_text': 'Andy'}]}",0.0
+114,1506269473925386240,2022-03-22 14:00:02+00:00,False,"goopdoods #7991-7988
+
+goop morning ☀
+
+#lifeisgoop https://t.co/FvBhCrmbSz",49,21,238,,"{'media_keys': ['3_1506030649794310144', '3_1506030649790144523', '3_1506030649798541320', '3_1506030649970466816']}","{'hashtags': [{'start': 38, 'end': 49, 'tag': 'lifeisgoop'}], 'urls': [{'start': 50, 'end': 73, 'url': 'https://t.co/FvBhCrmbSz', 'expanded_url': 'https://twitter.com/goopdoods/status/1506269473925386240/photo/1', 'display_url': 'pic.twitter.com/FvBhCrmbSz'}, {'start': 50, 'end': 73, 'url': 'https://t.co/FvBhCrmbSz', 'expanded_url': 'https://twitter.com/goopdoods/status/1506269473925386240/photo/1', 'display_url': 'pic.twitter.com/FvBhCrmbSz'}, {'start': 50, 'end': 73, 'url': 'https://t.co/FvBhCrmbSz', 'expanded_url': 'https://twitter.com/goopdoods/status/1506269473925386240/photo/1', 'display_url': 'pic.twitter.com/FvBhCrmbSz'}, {'start': 50, 'end': 73, 'url': 'https://t.co/FvBhCrmbSz', 'expanded_url': 'https://twitter.com/goopdoods/status/1506269473925386240/photo/1', 'display_url': 'pic.twitter.com/FvBhCrmbSz'}]}",4.0
+115,1506195612211032074,2022-03-22 09:06:32+00:00,False,"- 1000 ETH traded in OpenSea
+- Currently #10 on OpenSea
+- 12.5K Followers on Twitter
+- Still #1 on IcyTools https://t.co/iagHTsKa5l",104,38,344,,,"{'urls': [{'start': 108, 'end': 131, 'url': 'https://t.co/iagHTsKa5l', 'expanded_url': 'https://twitter.com/goopdoods/status/1506144571780124673', 'display_url': 'twitter.com/goopdoods/stat…'}], 'annotations': [{'start': 77, 'end': 83, 'probability': 0.4266, 'type': 'Organization', 'normalized_text': 'Twitter'}]}",8.0
+116,1506190689314430978,2022-03-22 08:46:58+00:00,True,@BentoBoiNFT come chill with the goops in the swamp and find out,9,3,70,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'BentoBoiNFT', 'id': '1357259205191766016'}]}",0.0
+117,1506189984671449091,2022-03-22 08:44:10+00:00,False,holy goop… https://t.co/SxY3pmRXZo,17,2,110,,,"{'urls': [{'start': 11, 'end': 34, 'url': 'https://t.co/SxY3pmRXZo', 'expanded_url': 'https://twitter.com/popeyesnfts/status/1506185321746153480', 'display_url': 'twitter.com/popeyesnfts/st…'}]}",0.0
+118,1506183901135323138,2022-03-22 08:20:00+00:00,False,"goopdoods #7995-7992
+
+do you have a goop in a poncho?
+
+#lifeisgoop https://t.co/JMGovXMjFj",18,14,128,,"{'media_keys': ['3_1506028322702114816', '3_1506028322702168079', '3_1506028322693787662', '3_1506028322693820425']}","{'hashtags': [{'start': 55, 'end': 66, 'tag': 'lifeisgoop'}], 'urls': [{'start': 67, 'end': 90, 'url': 'https://t.co/JMGovXMjFj', 'expanded_url': 'https://twitter.com/goopdoods/status/1506183901135323138/photo/1', 'display_url': 'pic.twitter.com/JMGovXMjFj'}, {'start': 67, 'end': 90, 'url': 'https://t.co/JMGovXMjFj', 'expanded_url': 'https://twitter.com/goopdoods/status/1506183901135323138/photo/1', 'display_url': 'pic.twitter.com/JMGovXMjFj'}, {'start': 67, 'end': 90, 'url': 'https://t.co/JMGovXMjFj', 'expanded_url': 'https://twitter.com/goopdoods/status/1506183901135323138/photo/1', 'display_url': 'pic.twitter.com/JMGovXMjFj'}, {'start': 67, 'end': 90, 'url': 'https://t.co/JMGovXMjFj', 'expanded_url': 'https://twitter.com/goopdoods/status/1506183901135323138/photo/1', 'display_url': 'pic.twitter.com/JMGovXMjFj'}]}",1.0
+119,1506182311477399560,2022-03-22 08:13:41+00:00,False,goop https://t.co/uzC8DtD3Wv,66,24,280,,{'media_keys': ['3_1506182307358646276']},"{'urls': [{'start': 5, 'end': 28, 'url': 'https://t.co/uzC8DtD3Wv', 'expanded_url': 'https://twitter.com/goopdoods/status/1506182311477399560/photo/1', 'display_url': 'pic.twitter.com/uzC8DtD3Wv'}]}",6.0
+120,1506181681845354498,2022-03-22 08:11:11+00:00,False,**goop https://t.co/j6JMJbVehz,15,1,65,,,"{'urls': [{'start': 7, 'end': 30, 'url': 'https://t.co/j6JMJbVehz', 'expanded_url': 'https://twitter.com/andr3w/status/1506178115420233728', 'display_url': 'twitter.com/andr3w/status/…'}]}",0.0
+121,1506178847234011139,2022-03-22 07:59:55+00:00,False,Big goop alert https://t.co/WkAK4vPwj8,19,5,85,,,"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/WkAK4vPwj8', 'expanded_url': 'https://twitter.com/cryptodetweiler/status/1506178649258614786', 'display_url': 'twitter.com/cryptodetweile…'}]}",0.0
+122,1506177514640744448,2022-03-22 07:54:37+00:00,False,Organic goop is the best goop,43,24,276,,,,2.0
+123,1506174037394919425,2022-03-22 07:40:48+00:00,False,RT @ApeNation782: Goops passed the vibe check #Trippy @goopdoods 🤝 https://t.co/ijKz4vJUir,32,0,0,,"{'media_keys': ['3_1506173893916205057', '3_1506173893932953603', '3_1506173893916217349', '3_1506173893932896258']}","{'mentions': [{'start': 3, 'end': 16, 'username': 'ApeNation782', 'id': '1431361826235760646'}, {'start': 54, 'end': 64, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'hashtags': [{'start': 46, 'end': 53, 'tag': 'Trippy'}], 'urls': [{'start': 67, 'end': 90, 'url': 'https://t.co/ijKz4vJUir', 'expanded_url': 'https://twitter.com/ApeNation782/status/1506173897363922948/photo/1', 'display_url': 'pic.twitter.com/ijKz4vJUir'}, {'start': 67, 'end': 90, 'url': 'https://t.co/ijKz4vJUir', 'expanded_url': 'https://twitter.com/ApeNation782/status/1506173897363922948/photo/1', 'display_url': 'pic.twitter.com/ijKz4vJUir'}, {'start': 67, 'end': 90, 'url': 'https://t.co/ijKz4vJUir', 'expanded_url': 'https://twitter.com/ApeNation782/status/1506173897363922948/photo/1', 'display_url': 'pic.twitter.com/ijKz4vJUir'}, {'start': 67, 'end': 90, 'url': 'https://t.co/ijKz4vJUir', 'expanded_url': 'https://twitter.com/ApeNation782/status/1506173897363922948/photo/1', 'display_url': 'pic.twitter.com/ijKz4vJUir'}]}",0.0
+124,1506173928951140353,2022-03-22 07:40:22+00:00,False,Goop to have you apart of the swamp #StandWithUkraine is one of our favorites too! https://t.co/mklh0kJVr4,13,3,84,,,"{'hashtags': [{'start': 36, 'end': 53, 'tag': 'StandWithUkraine'}], 'urls': [{'start': 83, 'end': 106, 'url': 'https://t.co/mklh0kJVr4', 'expanded_url': 'https://twitter.com/cryptogodfatha/status/1506171422581866501', 'display_url': 'twitter.com/cryptogodfatha…'}]}",0.0
+125,1506169144311492609,2022-03-22 07:21:21+00:00,False,RT @hotlneblng_: I know nothing about these but the art is fire 🔥 https://t.co/Oed1wTUk3I,57,0,0,,"{'media_keys': ['3_1506086191485136897', '3_1506086191493439488']}","{'mentions': [{'start': 3, 'end': 15, 'username': 'hotlneblng_', 'id': '1252287676897730561'}], 'urls': [{'start': 66, 'end': 89, 'url': 'https://t.co/Oed1wTUk3I', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1506086194400088065/photo/1', 'display_url': 'pic.twitter.com/Oed1wTUk3I'}, {'start': 66, 'end': 89, 'url': 'https://t.co/Oed1wTUk3I', 'expanded_url': 'https://twitter.com/hotlneblng_/status/1506086194400088065/photo/1', 'display_url': 'pic.twitter.com/Oed1wTUk3I'}]}",0.0
+126,1506160572169179136,2022-03-22 06:47:18+00:00,True,@PopeyesNFTs this is so goop,2,2,36,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'PopeyesNFTs', 'id': '1435316516015296514'}]}",0.0
+127,1506155774539714564,2022-03-22 06:28:14+00:00,True,@DiscoverXnft @OttoSuwenNFT we can’t sleep either king,1,3,40,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'DiscoverXnft', 'id': '1426732252768182281'}, {'start': 14, 'end': 27, 'username': 'OttoSuwenNFT', 'id': '1835943590'}]}",0.0
+128,1506154392583610370,2022-03-22 06:22:44+00:00,True,@HammerZ_NFT what’s the pal’s name,0,1,4,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'HammerZ_NFT', 'id': '475477942'}]}",0.0
+129,1506149536418381826,2022-03-22 06:03:27+00:00,False,"#FreeTheBelly 
+
+this guy gets it https://t.co/GmZW6elcc4",28,5,113,,,"{'hashtags': [{'start': 0, 'end': 13, 'tag': 'FreeTheBelly'}], 'urls': [{'start': 33, 'end': 56, 'url': 'https://t.co/GmZW6elcc4', 'expanded_url': 'https://twitter.com/poopie/status/1506129165535305728', 'display_url': 'twitter.com/poopie/status/…'}]}",1.0
+130,1506149110516228096,2022-03-22 06:01:45+00:00,True,@TheShamdoo goopy ahhhhh 💀💀💀,0,0,18,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'TheShamdoo', 'id': '1122211825452556288'}]}",0.0
+131,1506144995656577030,2022-03-22 05:45:24+00:00,True,@PopeyesNFTs so true bestie,0,1,18,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'PopeyesNFTs', 'id': '1435316516015296514'}]}",0.0
+132,1506144967575621637,2022-03-22 05:45:17+00:00,False,RT @PopeyesNFTs: Goop,109,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'PopeyesNFTs', 'id': '1435316516015296514'}]}",0.0
+133,1506144828672905220,2022-03-22 05:44:44+00:00,False,Goop https://t.co/vjL94XoZou,20,14,145,,,"{'urls': [{'start': 5, 'end': 28, 'url': 'https://t.co/vjL94XoZou', 'expanded_url': 'https://twitter.com/PopeyesNFTs/status/1506144037958520833', 'display_url': 'twitter.com/PopeyesNFTs/st…'}]}",4.0
+134,1506144571780124673,2022-03-22 05:43:43+00:00,False,"- 500 ETH traded on OpenSea 
+- 12K Followers on Twitter
+- Currently #25 on OpenSea 
+- #1 On IcyTools
+
+I think it’s safe to say that the goops are here to stay. 
+
+#lifeisgoop",115,49,526,,,"{'hashtags': [{'start': 162, 'end': 173, 'tag': 'lifeisgoop'}], 'annotations': [{'start': 48, 'end': 54, 'probability': 0.4051, 'type': 'Organization', 'normalized_text': 'Twitter'}]}",14.0
+135,1506142922781212672,2022-03-22 05:37:10+00:00,True,@jcreed06 @sxtvik holy sheesh,0,0,5,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'jcreed06', 'id': '376871191'}, {'start': 10, 'end': 17, 'username': 'sxtvik', 'id': '731800772174811136'}]}",0.0
+136,1506141678050160644,2022-03-22 05:32:13+00:00,False,RT @sxtvik: found a @goopdoods I related to 🤌🏽 https://t.co/fJ9wS6fvih,35,0,0,,{'media_keys': ['3_1506141590502391809']},"{'mentions': [{'start': 3, 'end': 10, 'username': 'sxtvik', 'id': '731800772174811136'}, {'start': 20, 'end': 30, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 47, 'end': 70, 'url': 'https://t.co/fJ9wS6fvih', 'expanded_url': 'https://twitter.com/sxtvik/status/1506141593870512130/photo/1', 'display_url': 'pic.twitter.com/fJ9wS6fvih'}]}",0.0
+137,1506139527282401284,2022-03-22 05:23:40+00:00,False,Oh my goop…. https://t.co/DgQYpccQsv,14,4,95,,,"{'urls': [{'start': 13, 'end': 36, 'url': 'https://t.co/DgQYpccQsv', 'expanded_url': 'https://twitter.com/Bioxide187/status/1506139404649340932', 'display_url': 'twitter.com/Bioxide187/sta…'}]}",1.0
+138,1506136395496177665,2022-03-22 05:11:14+00:00,True,@thebrandtp @girldadNFT @danielgothits Big goop,0,0,7,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'thebrandtp', 'id': '272991323'}, {'start': 12, 'end': 23, 'username': 'girldadNFT', 'id': '1350816981851664384'}, {'start': 24, 'end': 38, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+139,1506136275086155779,2022-03-22 05:10:45+00:00,False,RT @thebrandtp: @girldadNFT @danielgothits @goopdoods We sure do https://t.co/0CFbFYQ1Hc,4,0,0,,{'media_keys': ['3_1506132849069490176']},"{'mentions': [{'start': 3, 'end': 14, 'username': 'thebrandtp', 'id': '272991323'}, {'start': 16, 'end': 27, 'username': 'girldadNFT', 'id': '1350816981851664384'}, {'start': 28, 'end': 42, 'username': 'danielgothits', 'id': '141784177'}, {'start': 43, 'end': 53, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/0CFbFYQ1Hc', 'expanded_url': 'https://twitter.com/thebrandtp/status/1506132855088287749/photo/1', 'display_url': 'pic.twitter.com/0CFbFYQ1Hc'}]}",0.0
+140,1506136054209859585,2022-03-22 05:09:52+00:00,False,RT @0xArch: I like the goopdoods a lot,29,0,0,,,"{'mentions': [{'start': 3, 'end': 10, 'username': '0xArch', 'id': '1269953683996975106'}]}",0.0
+141,1506133643382689794,2022-03-22 05:00:17+00:00,False,"RT @nulleth_: @tropoFarmer Upon further review, @goopdoods has an official measurement of 1.13” below the nips.
+
+Failure revoked. We are cl…",36,0,0,,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'nulleth_', 'id': '843381671843979264'}, {'start': 14, 'end': 26, 'username': 'tropoFarmer', 'id': '16273846'}, {'start': 48, 'end': 58, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+142,1506132737098502146,2022-03-22 04:56:41+00:00,True,@TheShamdoo shamgoop,1,0,35,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'TheShamdoo', 'id': '1122211825452556288'}]}",0.0
+143,1506132593539964928,2022-03-22 04:56:07+00:00,True,@nulleth_ @tropoFarmer https://t.co/iPp8UO0B9c,0,0,38,,{'media_keys': ['16_1506132587114381316']},"{'mentions': [{'start': 0, 'end': 9, 'username': 'nulleth_', 'id': '843381671843979264'}, {'start': 10, 'end': 22, 'username': 'tropoFarmer', 'id': '16273846'}], 'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/iPp8UO0B9c', 'expanded_url': 'https://twitter.com/goopdoods/status/1506132593539964928/photo/1', 'display_url': 'pic.twitter.com/iPp8UO0B9c'}]}",0.0
+144,1506130629037023237,2022-03-22 04:48:19+00:00,False,We like you…👀 https://t.co/yGvbkneqYv,4,2,31,,,"{'urls': [{'start': 14, 'end': 37, 'url': 'https://t.co/yGvbkneqYv', 'expanded_url': 'https://twitter.com/girldadNFT/status/1506130359737495553', 'display_url': 'twitter.com/girldadNFT/sta…'}]}",0.0
+145,1506130256306049030,2022-03-22 04:46:50+00:00,False,RT @DoloNFT: We like the @goopdoods 🦠 https://t.co/AOxG4zDoiR,56,0,0,,{'media_keys': ['3_1506128928464855040']},"{'mentions': [{'start': 3, 'end': 11, 'username': 'DoloNFT', 'id': '1404971067672875015'}, {'start': 25, 'end': 35, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/AOxG4zDoiR', 'expanded_url': 'https://twitter.com/DoloNFT/status/1506128931853848576/photo/1', 'display_url': 'pic.twitter.com/AOxG4zDoiR'}]}",0.0
+146,1506129574836551681,2022-03-22 04:44:07+00:00,True,@dont_mattterr L + ratio,0,3,76,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'dont_mattterr', 'id': '1390828748832841728'}]}",0.0
+147,1506129414479925255,2022-03-22 04:43:29+00:00,False,goop,134,105,726,,,,7.0
+148,1506125376099172356,2022-03-22 04:27:26+00:00,True,@anish_nft @MikeVaynerchuk THERE IS NO MIKE VAYNERCHUK PLEASE STOP!! LMAO,0,0,0,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'anish_nft', 'id': '1299989995894308865'}, {'start': 11, 'end': 26, 'username': 'MikeVaynerchuk', 'id': '1425452199619014665'}], 'annotations': [{'start': 39, 'end': 53, 'probability': 0.9795, 'type': 'Person', 'normalized_text': 'MIKE VAYNERCHUK'}]}",1.0
+149,1506124243960057861,2022-03-22 04:22:56+00:00,False,"RT @tropoFarmer: @goopdoods hahaha, well played. I love goop, sad that I missed my WL mint like a douche.",12,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'tropoFarmer', 'id': '16273846'}, {'start': 17, 'end': 27, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+150,1506124224716587014,2022-03-22 04:22:52+00:00,True,@tropoFarmer we do a little banter 👉👈,0,0,34,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'tropoFarmer', 'id': '16273846'}]}",0.0
+151,1506123819878162434,2022-03-22 04:21:15+00:00,True,@FogoNFT #FreeTheBelly,1,0,6,,,"{'mentions': [{'start': 0, 'end': 8, 'username': 'FogoNFT', 'id': '1414975073069375492'}], 'hashtags': [{'start': 9, 'end': 22, 'tag': 'FreeTheBelly'}]}",0.0
+152,1506123533474222084,2022-03-22 04:20:07+00:00,True,"/s if it wasn’t clear, we like the tropo ❤️ he’s just lost",1,0,28,,,,0.0
+153,1506123291785936901,2022-03-22 04:19:09+00:00,False,"this is fud and cyber bullying. not a good look disney man. 
+
+#NFTBellyAwareness https://t.co/I8kTIGSe8B",15,7,93,,,"{'hashtags': [{'start': 62, 'end': 80, 'tag': 'NFTBellyAwareness'}], 'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/I8kTIGSe8B', 'expanded_url': 'https://twitter.com/tropoFarmer/status/1506122174955929602', 'display_url': 'twitter.com/tropoFarmer/st…'}]}",0.0
+154,1506121350519345156,2022-03-22 04:11:27+00:00,False,RT @VinnieHager: @goopdoods 😭😭😭,7,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'VinnieHager', 'id': '271184018'}, {'start': 17, 'end': 27, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+155,1506120830509633538,2022-03-22 04:09:23+00:00,False,RT @DaBunnyOFFICIAL: @Helloimmorgan https://t.co/psErF7qZ24,19,0,0,,{'media_keys': ['3_1506107349475512323']},"{'mentions': [{'start': 3, 'end': 19, 'username': 'DaBunnyOFFICIAL', 'id': '49522413'}, {'start': 21, 'end': 35, 'username': 'Helloimmorgan', 'id': '128463721'}], 'urls': [{'start': 36, 'end': 59, 'url': 'https://t.co/psErF7qZ24', 'expanded_url': 'https://twitter.com/DaBunnyOFFICIAL/status/1506107353938247687/photo/1', 'display_url': 'pic.twitter.com/psErF7qZ24'}]}",0.0
+156,1506119679735209984,2022-03-22 04:04:48+00:00,True,"@VinnieHager we do a little name dropping 😳
+
+also you’re a mf goat, love what you bring to the space",2,2,38,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'VinnieHager', 'id': '271184018'}]}",0.0
+157,1506118863083216900,2022-03-22 04:01:33+00:00,False,😳 https://t.co/8iGk7mVlhq,18,5,68,,,"{'urls': [{'start': 2, 'end': 25, 'url': 'https://t.co/8iGk7mVlhq', 'expanded_url': 'https://twitter.com/nftwhalealert/status/1506118615179100164', 'display_url': 'twitter.com/nftwhalealert/…'}]}",2.0
+158,1506113244561395718,2022-03-22 03:39:14+00:00,False,RT @Helloimmorgan: These goopdudes are actually really cool https://t.co/ikcCPdiIIQ,62,0,0,,"{'media_keys': ['3_1506107250800271361', '3_1506107250808692736']}","{'mentions': [{'start': 3, 'end': 17, 'username': 'Helloimmorgan', 'id': '128463721'}], 'urls': [{'start': 60, 'end': 83, 'url': 'https://t.co/ikcCPdiIIQ', 'expanded_url': 'https://twitter.com/Helloimmorgan/status/1506107253773983756/photo/1', 'display_url': 'pic.twitter.com/ikcCPdiIIQ'}, {'start': 60, 'end': 83, 'url': 'https://t.co/ikcCPdiIIQ', 'expanded_url': 'https://twitter.com/Helloimmorgan/status/1506107253773983756/photo/1', 'display_url': 'pic.twitter.com/ikcCPdiIIQ'}]}",0.0
+159,1506113157399470086,2022-03-22 03:38:53+00:00,False,we love the thread guy https://t.co/ajurvvCap2,9,1,64,,,"{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/ajurvvCap2', 'expanded_url': 'https://twitter.com/DiscoverXnft/status/1506112141107073024', 'display_url': 'twitter.com/DiscoverXnft/s…'}]}",0.0
+160,1506112114020265989,2022-03-22 03:34:44+00:00,False,RT @GoopSales: ayo... GOOPDOODS #1195 bought for 2.5Ξ ($7277.73) #LifeIsGoop https://t.co/McakvurzA5,20,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'GoopSales', 'id': '1505046284889391104'}], 'hashtags': [{'start': 65, 'end': 76, 'tag': 'LifeIsGoop'}], 'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/McakvurzA5', 'expanded_url': 'https://opensea.io/assets/0x2dff22dcb59d6729ed543188033ce102f14ef0d1/1195', 'display_url': 'opensea.io/assets/0x2dff2…'}]}",0.0
+161,1506103371626819584,2022-03-22 03:00:00+00:00,False,"did someone say free daily twitter banners 👀!?
+
+goopdood #4896 .. here's your free twitter banner 😏
+
+#lifeisgoop https://t.co/90XWg39L1u",31,23,165,,"{'media_keys': ['3_1506098605026910213', '3_1506098730646360064']}","{'hashtags': [{'start': 101, 'end': 112, 'tag': 'lifeisgoop'}], 'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/90XWg39L1u', 'expanded_url': 'https://twitter.com/goopdoods/status/1506103371626819584/photo/1', 'display_url': 'pic.twitter.com/90XWg39L1u'}, {'start': 113, 'end': 136, 'url': 'https://t.co/90XWg39L1u', 'expanded_url': 'https://twitter.com/goopdoods/status/1506103371626819584/photo/1', 'display_url': 'pic.twitter.com/90XWg39L1u'}], 'annotations': [{'start': 27, 'end': 33, 'probability': 0.6375, 'type': 'Product', 'normalized_text': 'twitter'}, {'start': 84, 'end': 90, 'probability': 0.492, 'type': 'Product', 'normalized_text': 'twitter'}]}",2.0
+162,1506103021805215750,2022-03-22 02:58:37+00:00,False,RT @JugglinJosh: #NewNFTProfilePic @goopdoods https://t.co/ZzTVGBemVN,74,0,0,,{'media_keys': ['3_1506097850446274563']},"{'mentions': [{'start': 3, 'end': 15, 'username': 'JugglinJosh', 'id': '186197243'}, {'start': 35, 'end': 45, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'hashtags': [{'start': 17, 'end': 34, 'tag': 'NewNFTProfilePic'}], 'urls': [{'start': 46, 'end': 69, 'url': 'https://t.co/ZzTVGBemVN', 'expanded_url': 'https://twitter.com/JugglinJosh/status/1506097852837113858/photo/1', 'display_url': 'pic.twitter.com/ZzTVGBemVN'}]}",0.0
+163,1506100378047332355,2022-03-22 02:48:06+00:00,False,"… and we’re live.
+
+go give @goopsales a follow if you want goops all over your feed!! https://t.co/ivkb2gAK92",15,0,42,,,"{'mentions': [{'start': 27, 'end': 37, 'username': 'GoopSales', 'id': '1505046284889391104'}], 'urls': [{'start': 86, 'end': 109, 'url': 'https://t.co/ivkb2gAK92', 'expanded_url': 'https://twitter.com/GoopSales/status/1506098992584794115', 'display_url': 'twitter.com/GoopSales/stat…'}]}",0.0
+164,1506097909829357574,2022-03-22 02:38:18+00:00,True,@VinnieHager u up? https://t.co/9e7NHJfFNy,19,13,125,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'VinnieHager', 'id': '271184018'}], 'urls': [{'start': 19, 'end': 42, 'url': 'https://t.co/9e7NHJfFNy', 'expanded_url': 'https://twitter.com/nonfungibledroo/status/1506097374334107650', 'display_url': 'twitter.com/nonfungibledro…'}]}",0.0
+165,1506095750719094788,2022-03-22 02:29:43+00:00,False,RT @danielgothits: Seeing goopdood’s IG working on this character back in 2017 makes me super confident to support this project in a time w…,128,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+166,1506092898881789956,2022-03-22 02:18:23+00:00,False,RT @johnking9787: ⁦@goopdoods⁩ https://t.co/wiScvLF3qn,13,0,0,,{'media_keys': ['3_1506092513957871618']},"{'mentions': [{'start': 3, 'end': 16, 'username': 'johnking9787', 'id': '1372771943565258759'}, {'start': 19, 'end': 29, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/wiScvLF3qn', 'expanded_url': 'https://twitter.com/johnking9787/status/1506092518043136003/photo/1', 'display_url': 'pic.twitter.com/wiScvLF3qn'}]}",0.0
+167,1506088275269853187,2022-03-22 02:00:01+00:00,False,"goopdoods #7999-7996
+
+which one is your favorite 👀?
+
+#lifeisgoop https://t.co/QSSytB1TfP",22,20,136,,"{'media_keys': ['3_1506024132563156995', '3_1506024132579889168', '3_1506024132563120133', '3_1506024132558958608']}","{'hashtags': [{'start': 53, 'end': 64, 'tag': 'lifeisgoop'}], 'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/QSSytB1TfP', 'expanded_url': 'https://twitter.com/goopdoods/status/1506088275269853187/photo/1', 'display_url': 'pic.twitter.com/QSSytB1TfP'}, {'start': 65, 'end': 88, 'url': 'https://t.co/QSSytB1TfP', 'expanded_url': 'https://twitter.com/goopdoods/status/1506088275269853187/photo/1', 'display_url': 'pic.twitter.com/QSSytB1TfP'}, {'start': 65, 'end': 88, 'url': 'https://t.co/QSSytB1TfP', 'expanded_url': 'https://twitter.com/goopdoods/status/1506088275269853187/photo/1', 'display_url': 'pic.twitter.com/QSSytB1TfP'}, {'start': 65, 'end': 88, 'url': 'https://t.co/QSSytB1TfP', 'expanded_url': 'https://twitter.com/goopdoods/status/1506088275269853187/photo/1', 'display_url': 'pic.twitter.com/QSSytB1TfP'}]}",0.0
+168,1506080799589814274,2022-03-22 01:30:18+00:00,False,https://t.co/E37Nxf1ZG8,19,3,47,,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/E37Nxf1ZG8', 'expanded_url': 'https://twitter.com/i/spaces/1dRKZlAwrAVJB', 'display_url': 'twitter.com/i/spaces/1dRKZ…'}]}",1.0
+169,1506080012067295237,2022-03-22 01:27:11+00:00,False,RT @BusterScher: #NewProfilePic https://t.co/HXVmSAkzHW,29,0,0,,{'media_keys': ['3_1506077435858726912']},"{'mentions': [{'start': 3, 'end': 15, 'username': 'BusterScher', 'id': '961735946'}], 'hashtags': [{'start': 17, 'end': 31, 'tag': 'NewProfilePic'}], 'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/HXVmSAkzHW', 'expanded_url': 'https://twitter.com/BusterScher/status/1506077439289704448/photo/1', 'display_url': 'pic.twitter.com/HXVmSAkzHW'}]}",0.0
+170,1506079043376062470,2022-03-22 01:23:20+00:00,False,we’re vibin https://t.co/tpVemjun1V,20,6,87,,,"{'urls': [{'start': 12, 'end': 35, 'url': 'https://t.co/tpVemjun1V', 'expanded_url': 'https://twitter.com/kaiyabunga/status/1506078795975077898', 'display_url': 'twitter.com/kaiyabunga/sta…'}]}",0.0
+171,1506067835138805761,2022-03-22 00:38:47+00:00,True,@danielgothits you see the 1/1s tho??? https://t.co/ZMvg2F4y0e,18,5,78,,"{'media_keys': ['3_1506067821058572292', '3_1506067821058527246', '3_1506067821071155200']}","{'mentions': [{'start': 0, 'end': 14, 'username': 'danielgothits', 'id': '141784177'}], 'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/ZMvg2F4y0e', 'expanded_url': 'https://twitter.com/goopdoods/status/1506067835138805761/photo/1', 'display_url': 'pic.twitter.com/ZMvg2F4y0e'}, {'start': 39, 'end': 62, 'url': 'https://t.co/ZMvg2F4y0e', 'expanded_url': 'https://twitter.com/goopdoods/status/1506067835138805761/photo/1', 'display_url': 'pic.twitter.com/ZMvg2F4y0e'}, {'start': 39, 'end': 62, 'url': 'https://t.co/ZMvg2F4y0e', 'expanded_url': 'https://twitter.com/goopdoods/status/1506067835138805761/photo/1', 'display_url': 'pic.twitter.com/ZMvg2F4y0e'}]}",3.0
+172,1506066966322323462,2022-03-22 00:35:20+00:00,False,"RT @danielgothits: this is what I wanted Creatures to be, but it just never hit the spot for me. I fuck with these so hard tbh lol I've nev…",79,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}]}",0.0
+173,1506065265833955336,2022-03-22 00:28:35+00:00,False,"RT @danielgothits: damn these are trippy as fuck lol
+https://t.co/APEfLmLWMo
+
+such a low risk bet at 0.02 gonna grab some just incase lol t…",35,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'danielgothits', 'id': '141784177'}], 'urls': [{'start': 53, 'end': 76, 'url': 'https://t.co/APEfLmLWMo', 'expanded_url': 'https://opensea.io/collection/g00p', 'display_url': 'opensea.io/collection/g00p'}]}",0.0
+174,1506019937344700423,2022-03-21 21:28:28+00:00,False,"Hmmm idk doods, what do you guys have to say? Do #goopfollowgoop ? 🤔 https://t.co/dXMr0mFXng",14,11,75,,,"{'hashtags': [{'start': 49, 'end': 64, 'tag': 'goopfollowgoop'}], 'urls': [{'start': 69, 'end': 92, 'url': 'https://t.co/dXMr0mFXng', 'expanded_url': 'https://twitter.com/nft_doggo/status/1506017471349735424', 'display_url': 'twitter.com/nft_doggo/stat…'}]}",0.0
+175,1506002124085374991,2022-03-21 20:17:41+00:00,False,"Big things have small beginnings and we’re just getting started! Happy Monday goops ☀️🍻
+
+Show us some of your favorite goops…dood 👀 https://t.co/uhVrT7sENA",50,56,192,,{'media_keys': ['3_1506002121342267392']},"{'urls': [{'start': 132, 'end': 155, 'url': 'https://t.co/uhVrT7sENA', 'expanded_url': 'https://twitter.com/goopdoods/status/1506002124085374991/photo/1', 'display_url': 'pic.twitter.com/uhVrT7sENA'}]}",2.0
+176,1505702132724424709,2022-03-21 00:25:37+00:00,False,giveaway for @toronto_person’s OG clay goop is live in our holders channel! https://t.co/0L9wg93yYC,28,7,91,,{'media_keys': ['3_1505702129331318785']},"{'mentions': [{'start': 13, 'end': 28, 'username': 'toronto_person', 'id': '1121479288035921920'}], 'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/0L9wg93yYC', 'expanded_url': 'https://twitter.com/goopdoods/status/1505702132724424709/photo/1', 'display_url': 'pic.twitter.com/0L9wg93yYC'}]}",1.0
+177,1505624255123406852,2022-03-20 19:16:10+00:00,False,RT @kaiyabunga: We doing goop follow goop? @goopdoods #goopfollowgoop #lifeisgoop https://t.co/x8aUp4Sghv,19,0,0,,{'media_keys': ['3_1505299875436634116']},"{'mentions': [{'start': 3, 'end': 14, 'username': 'kaiyabunga', 'id': '43755592'}, {'start': 43, 'end': 53, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'hashtags': [{'start': 54, 'end': 69, 'tag': 'goopfollowgoop'}, {'start': 70, 'end': 81, 'tag': 'lifeisgoop'}], 'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/x8aUp4Sghv', 'expanded_url': 'https://twitter.com/kaiyabunga/status/1505299879542890513/photo/1', 'display_url': 'pic.twitter.com/x8aUp4Sghv'}]}",0.0
+178,1505575726103371787,2022-03-20 16:03:20+00:00,False,"gmoop goopers‼️🍳☀️
+
+#lifeisgoop",27,30,120,,,"{'hashtags': [{'start': 20, 'end': 31, 'tag': 'lifeisgoop'}]}",0.0
+179,1505367261934149632,2022-03-20 02:14:58+00:00,False,"RT @RaritySniperNFT: The Goopdoods Official Rarity Ranking is live! 💎
+
+https://t.co/J24WpQaRHo
+
+A family of computer-generated Goopdoods fr…",33,0,0,,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'RaritySniperNFT', 'id': '1416070452372459523'}], 'urls': [{'start': 71, 'end': 94, 'url': 'https://t.co/J24WpQaRHo', 'expanded_url': 'https://raritysniper.com/goopdoods-by-goopdude', 'display_url': 'raritysniper.com/goopdoods-by-g…'}]}",0.0
+180,1505018209434578951,2022-03-19 03:07:57+00:00,False,we like the @goopshowcas3!! great project from the goop community 🫂 https://t.co/WIDmMoJRwp,14,3,54,,,"{'mentions': [{'start': 12, 'end': 25, 'username': 'goopshowcas3', 'id': '1505004424690864129'}], 'urls': [{'start': 68, 'end': 91, 'url': 'https://t.co/WIDmMoJRwp', 'expanded_url': 'https://twitter.com/goopshowcas3/status/1505016024680349702', 'display_url': 'twitter.com/goopshowcas3/s…'}]}",2.0
+181,1504980765725315072,2022-03-19 00:39:10+00:00,True,@dekai_ningen holy shit bottom right goes absolutely bonkers,0,1,8,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'dekai_ningen', 'id': '1478588856920276992'}]}",0.0
+182,1504960641328689152,2022-03-18 23:19:12+00:00,True,@dekai_ningen dood w no goop⁉️,0,1,9,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'dekai_ningen', 'id': '1478588856920276992'}]}",0.0
+183,1504960021502779395,2022-03-18 23:16:44+00:00,False,"yesterday, @onmygrzzly purchased this beautiful 1/1 back from a lucky minter. 
+
+today, we’re auctioning it off. all sale proceeds, plus a 100% match from us, will be donated to the @Ukraine official Ethereum address.
+
+let’s do some good today ❤️ 
+
+⏱: 72H
+
+https://t.co/wEAXMD9of5",53,6,112,,,"{'mentions': [{'start': 11, 'end': 22, 'username': 'onmygrzzly', 'id': '1420165132227813377'}, {'start': 181, 'end': 189, 'username': 'Ukraine', 'id': '732521058507620356'}], 'urls': [{'start': 256, 'end': 279, 'url': 'https://t.co/wEAXMD9of5', 'expanded_url': 'https://opensea.io/assets/0x2dff22dcb59d6729ed543188033ce102f14ef0d1/6002', 'display_url': 'opensea.io/assets/0x2dff2…'}]}",3.0
+184,1504948359009812480,2022-03-18 22:30:24+00:00,False,"RT @dekai_ningen: Where my @goopdoods at? Share some fire ones below👇
+This is my crew so far https://t.co/AGygUK5vtZ",31,0,0,,"{'media_keys': ['3_1504929949282881537', '3_1504929977409880064', '3_1504929977443454976', '3_1504929989489479682']}","{'mentions': [{'start': 3, 'end': 16, 'username': 'dekai_ningen', 'id': '1478588856920276992'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 93, 'end': 116, 'url': 'https://t.co/AGygUK5vtZ', 'expanded_url': 'https://twitter.com/dekai_ningen/status/1504930066530463746/photo/1', 'display_url': 'pic.twitter.com/AGygUK5vtZ'}, {'start': 93, 'end': 116, 'url': 'https://t.co/AGygUK5vtZ', 'expanded_url': 'https://twitter.com/dekai_ningen/status/1504930066530463746/photo/1', 'display_url': 'pic.twitter.com/AGygUK5vtZ'}, {'start': 93, 'end': 116, 'url': 'https://t.co/AGygUK5vtZ', 'expanded_url': 'https://twitter.com/dekai_ningen/status/1504930066530463746/photo/1', 'display_url': 'pic.twitter.com/AGygUK5vtZ'}, {'start': 93, 'end': 116, 'url': 'https://t.co/AGygUK5vtZ', 'expanded_url': 'https://twitter.com/dekai_ningen/status/1504930066530463746/photo/1', 'display_url': 'pic.twitter.com/AGygUK5vtZ'}]}",0.0
+185,1504849644953735189,2022-03-18 15:58:08+00:00,False,"goop morning y’all
+
+happy friday, get some fresh air today you degens 💕💕
+
+https://t.co/NZm1iIDjiT",22,24,79,,,"{'urls': [{'start': 74, 'end': 97, 'url': 'https://t.co/NZm1iIDjiT', 'expanded_url': 'https://open.spotify.com/track/7mkwOQWC3nFMSONA8ajViu?si=PnHX4XfTRymFQwkHfVdAXw', 'display_url': 'open.spotify.com/track/7mkwOQWC…'}]}",0.0
+186,1504848694088241158,2022-03-18 15:54:22+00:00,False,"RT @Mintifyme: The top 12 NFT projects - based on 24hr Sales Volume🚀
+
+1. @goopdoods 
+2. @MartianPLeague 
+3. @mgxs_gnss 
+4. @freshfoolsNFT…",25,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'Mintifyme', 'id': '1471158831791095811'}, {'start': 73, 'end': 83, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 88, 'end': 103, 'username': 'MartianPLeague', 'id': '1485891715118600194'}, {'start': 108, 'end': 118, 'username': 'mgxs_gnss', 'id': '1470495942201778178'}, {'start': 123, 'end': 137, 'username': 'freshfoolsNFT', 'id': '1492141652739342338'}]}",0.0
+187,1504618911395983363,2022-03-18 00:41:17+00:00,False,"congrats to:
+@dreamcatch3rETH 
+@ElChilenoNFT 
+@yohnyawn 
+@PRBLMS999
+@achang456 
+
+for being our #lifeisgoop winners! DM @UrMomNFT your wallet address and we’ll send your complimentary goop over!",12,18,78,,,"{'mentions': [{'start': 13, 'end': 29, 'username': 'dreamcatch3rETH', 'id': '1354538010264657921'}, {'start': 31, 'end': 44, 'username': 'ElChilenoNFT', 'id': '1435997023661182982'}, {'start': 46, 'end': 55, 'username': 'yohnyawn', 'id': '360990084'}, {'start': 57, 'end': 67, 'username': 'PRBLMS999', 'id': '1466770596088352768'}, {'start': 68, 'end': 78, 'username': 'achang456', 'id': '739136038560354304'}, {'start': 119, 'end': 128, 'username': 'UrMomNFT', 'id': '246532544'}], 'hashtags': [{'start': 95, 'end': 106, 'tag': 'lifeisgoop'}]}",1.0
+188,1504579934018232323,2022-03-17 22:06:24+00:00,False,"goops are #21 on OS past 24H! 
+
+i like our company https://t.co/8q44bmsVP9",93,22,267,,{'media_keys': ['3_1504579926443409415']},"{'urls': [{'start': 51, 'end': 74, 'url': 'https://t.co/8q44bmsVP9', 'expanded_url': 'https://twitter.com/goopdoods/status/1504579934018232323/photo/1', 'display_url': 'pic.twitter.com/8q44bmsVP9'}]}",6.0
+189,1504572854532284419,2022-03-17 21:38:16+00:00,False,RT @Griffden_Eth: Minted a 1/1 @goopdoods 👀 https://t.co/Neo4EieHK2,65,0,0,,{'media_keys': ['3_1504287004321886212']},"{'mentions': [{'start': 3, 'end': 16, 'username': 'Griffden_Eth', 'id': '1171913734677090305'}, {'start': 31, 'end': 41, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/Neo4EieHK2', 'expanded_url': 'https://twitter.com/Griffden_Eth/status/1504287121984692225/photo/1', 'display_url': 'pic.twitter.com/Neo4EieHK2'}]}",0.0
+190,1504545587110330375,2022-03-17 19:49:55+00:00,True,@0xDeso goop,0,0,6,,,"{'mentions': [{'start': 0, 'end': 7, 'username': '0xDeso', 'id': '48234007'}]}",0.0
+191,1504544658181050374,2022-03-17 19:46:14+00:00,False,"#goopfollowgoop thread 👇 
+
+follow and be followed, let’s come together 🧘‍♂️",44,144,221,,,"{'hashtags': [{'start': 0, 'end': 15, 'tag': 'goopfollowgoop'}]}",4.0
+192,1504543456936538115,2022-03-17 19:41:27+00:00,False,"goopish on the goops
+
+too bad this fella never got generated 😭 https://t.co/5TqCW9myat",43,31,232,,{'media_keys': ['3_1504543449101615104']},"{'urls': [{'start': 63, 'end': 86, 'url': 'https://t.co/5TqCW9myat', 'expanded_url': 'https://twitter.com/goopdoods/status/1504543456936538115/photo/1', 'display_url': 'pic.twitter.com/5TqCW9myat'}]}",2.0
+193,1504465877051314179,2022-03-17 14:33:11+00:00,False,goop morning say it back,18,94,208,,,,0.0
+194,1504341579045261312,2022-03-17 06:19:16+00:00,False,RT @girldadNFT: I hear ponchos are the way @goopdoods https://t.co/jKu6Y7aDAD,26,0,0,,{'media_keys': ['3_1504311480648290304']},"{'mentions': [{'start': 3, 'end': 14, 'username': 'girldadNFT', 'id': '1350816981851664384'}, {'start': 43, 'end': 53, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'urls': [{'start': 54, 'end': 77, 'url': 'https://t.co/jKu6Y7aDAD', 'expanded_url': 'https://twitter.com/girldadNFT/status/1504311637389426696/photo/1', 'display_url': 'pic.twitter.com/jKu6Y7aDAD'}]}",0.0
+195,1504341389781438465,2022-03-17 06:18:31+00:00,False,"RT @dreamcatch3rETH: #NewNFTProfilePic NFT by gooopdoods_deployer
+
+WE LOVE THE GOOP! SO PROUD OF THIS TEAM❤️ you guys faced adversity, adju…",13,0,0,,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'dreamcatch3rETH', 'id': '1354538010264657921'}], 'hashtags': [{'start': 21, 'end': 38, 'tag': 'NewNFTProfilePic'}]}",0.0
+196,1504327813532467206,2022-03-17 05:24:34+00:00,True,GOOP VAULT MULTISIG: https://t.co/yRkpNKmSbe,3,0,32,,,"{'urls': [{'start': 21, 'end': 44, 'url': 'https://t.co/yRkpNKmSbe', 'expanded_url': 'https://gnosis-safe.io/app/eth:0x57b4c1f49EE1732BB8DB6fb32D4F0B814fc25306/balances', 'display_url': 'gnosis-safe.io/app/eth:0x57b4…'}]}",1.0
+197,1504327336359084034,2022-03-17 05:22:40+00:00,False,"what a day. we’re still processing what just happened. 
+
+the goop vault is full
+
+all goops have been revealed
+
+goop night everyone, tomorrow we build 💕 #LifeIsGoop",36,20,163,,,"{'hashtags': [{'start': 152, 'end': 163, 'tag': 'LifeIsGoop'}]}",0.0
+198,1504316335421108224,2022-03-17 04:38:57+00:00,False,"RT @ABigThingBadly: 1. Tells y’all about @goopdoods 
+2. Does a SPACES with @goopdoods 
+3. Forgets to mint @goopdoods in a timely manner and…",10,0,0,,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'ABigThingBadly', 'id': '6720402'}, {'start': 41, 'end': 51, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 75, 'end': 85, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 106, 'end': 116, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+199,1504310701841596416,2022-03-17 04:16:34+00:00,True,@imcrvshed so who won the giveaway,0,3,4,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'imcrvshed', 'id': '1356876232168673280'}]}",1.0
+200,1504275250107883523,2022-03-17 01:55:42+00:00,False,"SOLD OUT. HOLY SHIT.
+
+BUY ON OPENSEA: https://t.co/O6ZwD6QycE",98,46,245,,,"{'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/O6ZwD6QycE', 'expanded_url': 'https://opensea.io/collection/goopdoods-by-goopdude-official-collection', 'display_url': 'opensea.io/collection/goo…'}]}",16.0
+201,1504273614127996928,2022-03-17 01:49:12+00:00,False,RT @dhershh: #NewNFTProfilePic NFT by gooopdoods_deployer #lifeisgoop These are DIFFERENT👀 Loving the arts vibe https://t.co/lPSujsSc8o,25,0,0,,"{'media_keys': ['3_1504272082552639488', '3_1504272082556887042', '3_1504272082552733697']}","{'hashtags': [{'start': 13, 'end': 30, 'tag': 'NewNFTProfilePic'}, {'start': 58, 'end': 69, 'tag': 'lifeisgoop'}], 'urls': [{'start': 112, 'end': 135, 'url': 'https://t.co/lPSujsSc8o', 'expanded_url': 'https://twitter.com/dhershh/status/1504272086029815810/photo/1', 'display_url': 'pic.twitter.com/lPSujsSc8o'}, {'start': 112, 'end': 135, 'url': 'https://t.co/lPSujsSc8o', 'expanded_url': 'https://twitter.com/dhershh/status/1504272086029815810/photo/1', 'display_url': 'pic.twitter.com/lPSujsSc8o'}, {'start': 112, 'end': 135, 'url': 'https://t.co/lPSujsSc8o', 'expanded_url': 'https://twitter.com/dhershh/status/1504272086029815810/photo/1', 'display_url': 'pic.twitter.com/lPSujsSc8o'}], 'mentions': [{'start': 3, 'end': 11, 'username': 'dhershh', 'id': '974442575468867584'}]}",0.0
+202,1504268890129453056,2022-03-17 01:30:26+00:00,False,FIRST 3K REVEAL PARTY WITH @onmygrzzly &amp; @toronto_person!! https://t.co/b7AXazDbqW,24,4,52,,,"{'urls': [{'start': 63, 'end': 86, 'url': 'https://t.co/b7AXazDbqW', 'expanded_url': 'https://twitter.com/i/spaces/1MnxnkLZRMVKO', 'display_url': 'twitter.com/i/spaces/1Mnxn…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1504268933389590532/cS-y6gQI?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1504268933389590532/cS-y6gQI?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Happening now: FIRST 3000 GOOPS REVEAL PARTY WITH THE ARTIST', 'description': 'goopdoods by GOOPDUDE | MINTING NOW’s space · 0 listening · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1MnxnkLZRMVKO'}], 'mentions': [{'start': 27, 'end': 38, 'username': 'onmygrzzly', 'id': '1420165132227813377'}, {'start': 45, 'end': 60, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",3.0
+203,1504268167731990528,2022-03-17 01:27:33+00:00,False,RT @San_The_Man_: @goopdoods art is so 🔥🔥🔥🔥 https://t.co/LMx4tEL0VQ,12,0,0,,{'media_keys': ['3_1504268066531721217']},"{'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/LMx4tEL0VQ', 'expanded_url': 'https://twitter.com/San_The_Man_/status/1504268069216079872/photo/1', 'display_url': 'pic.twitter.com/LMx4tEL0VQ'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'San_The_Man_', 'id': '3513810916'}, {'start': 18, 'end': 28, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+204,1504268133535821829,2022-03-17 01:27:25+00:00,False,RT @biscuitparty: #NewNFTProfilePic NFT by @goopdoods. Incredible art! #lifeisgoop https://t.co/ZahYPuuoVT,10,0,0,,{'media_keys': ['3_1504266632381743110']},"{'hashtags': [{'start': 18, 'end': 35, 'tag': 'NewNFTProfilePic'}, {'start': 71, 'end': 82, 'tag': 'lifeisgoop'}], 'urls': [{'start': 83, 'end': 106, 'url': 'https://t.co/ZahYPuuoVT', 'expanded_url': 'https://twitter.com/biscuitparty/status/1504266637926707206/photo/1', 'display_url': 'pic.twitter.com/ZahYPuuoVT'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'biscuitparty', 'id': '45159937'}, {'start': 43, 'end': 53, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+205,1504267382117879810,2022-03-17 01:24:26+00:00,False,"first 3k reveal is live - start refreshing that metadata on opensea! 
+
+let’s see those goops 🤩🤩 #LifeIsGoop",17,12,71,,,"{'hashtags': [{'start': 96, 'end': 107, 'tag': 'LifeIsGoop'}]}",1.0
+206,1504264009360588801,2022-03-17 01:11:02+00:00,False,"we’ll match this, yktv https://t.co/7mMXhRzM3Z",48,6,87,,,"{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/7mMXhRzM3Z', 'expanded_url': 'https://twitter.com/imcrvshed/status/1504263403199598593', 'display_url': 'twitter.com/imcrvshed/stat…'}]}",2.0
+207,1504263879399981056,2022-03-17 01:10:31+00:00,False,RT @imcrvshed: If Goop Doods mints out today (next 6 hours) I'll give one away for free to someone who likes + RTs 🔥 @goopdoods,115,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'imcrvshed', 'id': '1356876232168673280'}, {'start': 117, 'end': 127, 'username': 'goopdoods', 'id': '1435251083949993984'}], 'annotations': [{'start': 18, 'end': 27, 'probability': 0.5121, 'type': 'Product', 'normalized_text': 'Goop Doods'}]}",0.0
+208,1504258289940508672,2022-03-17 00:48:18+00:00,False,RT @CarnageNFTs: #lifeisgoop 👋💎 @goopdoods https://t.co/CBZdNz1icl,13,0,0,,{'media_keys': ['3_1504257926562652162']},"{'hashtags': [{'start': 17, 'end': 28, 'tag': 'lifeisgoop'}], 'urls': [{'start': 43, 'end': 66, 'url': 'https://t.co/CBZdNz1icl', 'expanded_url': 'https://twitter.com/CarnageNFTs/status/1504257928915693571/photo/1', 'display_url': 'pic.twitter.com/CBZdNz1icl'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'CarnageNFTs', 'id': '1487790708035493896'}, {'start': 32, 'end': 42, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+209,1504258256113659904,2022-03-17 00:48:10+00:00,False,RT @glacchhyy: #lifeisgoop @goopdoods https://t.co/eGAgcJEwKm,10,0,0,,"{'media_keys': ['3_1504257817246531587', '3_1504257828592136193']}","{'hashtags': [{'start': 15, 'end': 26, 'tag': 'lifeisgoop'}], 'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/eGAgcJEwKm', 'expanded_url': 'https://twitter.com/glacchhyy/status/1504257871902433282/photo/1', 'display_url': 'pic.twitter.com/eGAgcJEwKm'}, {'start': 38, 'end': 61, 'url': 'https://t.co/eGAgcJEwKm', 'expanded_url': 'https://twitter.com/glacchhyy/status/1504257871902433282/photo/1', 'display_url': 'pic.twitter.com/eGAgcJEwKm'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'glacchhyy', 'id': '1492644769637363713'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+210,1504258229911568391,2022-03-17 00:48:04+00:00,False,RT @imcrvshed: Goop Doods. That's it. That's the tweet. @goopdoods,16,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'imcrvshed', 'id': '1356876232168673280'}, {'start': 56, 'end': 66, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+211,1504258219673366534,2022-03-17 00:48:01+00:00,False,RT @_schoonz: Excited to see my @goopdoods reveal sneak peeks got me stoked! https://t.co/ttcclE8hAE,9,0,0,,"{'media_keys': ['3_1504255699076878338', '3_1504255699072667653']}","{'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/ttcclE8hAE', 'expanded_url': 'https://twitter.com/_schoonz/status/1504255704214900737/photo/1', 'display_url': 'pic.twitter.com/ttcclE8hAE'}, {'start': 77, 'end': 100, 'url': 'https://t.co/ttcclE8hAE', 'expanded_url': 'https://twitter.com/_schoonz/status/1504255704214900737/photo/1', 'display_url': 'pic.twitter.com/ttcclE8hAE'}], 'mentions': [{'start': 3, 'end': 12, 'username': '_schoonz', 'id': '301099947'}, {'start': 32, 'end': 42, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+212,1504228092902096898,2022-03-16 22:48:19+00:00,False,"thank you. 
+
+you can only be hot for a while, but you can be cool for a lifetime. remember that 🙇‍♂️ https://t.co/ewRiLsRHPp",45,18,207,,{'media_keys': ['3_1504228087692771329']},"{'urls': [{'start': 101, 'end': 124, 'url': 'https://t.co/ewRiLsRHPp', 'expanded_url': 'https://twitter.com/goopdoods/status/1504228092902096898/photo/1', 'display_url': 'pic.twitter.com/ewRiLsRHPp'}]}",8.0
+213,1504182357464649731,2022-03-16 19:46:35+00:00,False,"RT @TaeKwonKrypto: @goopdoods closing in on 3k minted... 👀  
+
+#goopdoods #goop4goop #gooplife #goopies #nft https://t.co/847h20NiMv",19,0,0,,{'media_keys': ['3_1504179845911257088']},"{'hashtags': [{'start': 62, 'end': 72, 'tag': 'goopdoods'}, {'start': 73, 'end': 83, 'tag': 'goop4goop'}, {'start': 84, 'end': 93, 'tag': 'gooplife'}, {'start': 94, 'end': 102, 'tag': 'goopies'}, {'start': 103, 'end': 107, 'tag': 'nft'}], 'urls': [{'start': 108, 'end': 131, 'url': 'https://t.co/847h20NiMv', 'expanded_url': 'https://twitter.com/TaeKwonKrypto/status/1504180036454305799/photo/1', 'display_url': 'pic.twitter.com/847h20NiMv'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'TaeKwonKrypto', 'id': '1297919498301964289'}, {'start': 19, 'end': 29, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+214,1504173148173971458,2022-03-16 19:09:59+00:00,False,"RT @kriplani_paras: Not sure what you're doing not minting your goopdood dude. Im hyped ASF, LFG @goopdoods  🚀🚀🚀 https://t.co/sB9ACPgphw",21,0,0,,{'media_keys': ['3_1504167580512108550']},"{'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/sB9ACPgphw', 'expanded_url': 'https://twitter.com/kriplani_paras/status/1504167599013203969/photo/1', 'display_url': 'pic.twitter.com/sB9ACPgphw'}], 'mentions': [{'start': 3, 'end': 18, 'username': 'kriplani_paras', 'id': '1480531726115885057'}, {'start': 97, 'end': 107, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+215,1504173095262826496,2022-03-16 19:09:46+00:00,False,"RT @theerealTdiddy: @groovyt_eth
+- Bullish on @goopdoods 
+- Artist is pretty good @goopdude on Instagram 
+- Community is good, @DourDarcels…",17,0,0,,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'theerealTdiddy', 'id': '40607123'}, {'start': 20, 'end': 32, 'username': 'groovyt_eth', 'id': '1448371881535369217'}, {'start': 46, 'end': 56, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 82, 'end': 91, 'username': 'goopdude', 'id': '2334282980'}], 'annotations': [{'start': 95, 'end': 103, 'probability': 0.4062, 'type': 'Organization', 'normalized_text': 'Instagram'}]}",0.0
+216,1504128677629550594,2022-03-16 16:13:16+00:00,False,"RT @dreamcatch3rETH: with every minute that passes, my unrevealed @goopdoods grows stronger, can’t wait to see what’s cooking under there #…",15,0,0,,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'dreamcatch3rETH', 'id': '1354538010264657921'}, {'start': 66, 'end': 76, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+217,1504113283720257540,2022-03-16 15:12:06+00:00,False,#goopfollowgoop will be a whole lot sweeter when the goops don’t all look the same https://t.co/H0WZp91nhY,12,3,62,,,"{'hashtags': [{'start': 0, 'end': 15, 'tag': 'goopfollowgoop'}], 'urls': [{'start': 83, 'end': 106, 'url': 'https://t.co/H0WZp91nhY', 'expanded_url': 'https://twitter.com/itchynft/status/1504111136303689729', 'display_url': 'twitter.com/itchynft/statu…'}]}",1.0
+218,1504113130674143238,2022-03-16 15:11:30+00:00,False,"RT @VOLCANO_23: This art looks crazy!! Feels right- I could be wrong but worth the risk for me …. #goopdoods - public mint live .05E , opti…",12,0,0,,,"{'hashtags': [{'start': 98, 'end': 108, 'tag': 'goopdoods'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'VOLCANO_23', 'id': '76529464'}]}",0.0
+219,1504106403887476741,2022-03-16 14:44:46+00:00,False,"RT @daniel100eth: seems like @goopdoods are picking up steam and for good reason, this art is being slept on. look at these Goopdoods ‼️ 0.…",39,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 29, 'end': 39, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+220,1504106018195873804,2022-03-16 14:43:14+00:00,False,"goop morning everyone, thank you for over 2000 mints!!
+
+what are you looking forward to today? https://t.co/vu8isCUcLa",23,11,126,,{'media_keys': ['3_1504106013443641348']},"{'urls': [{'start': 95, 'end': 118, 'url': 'https://t.co/vu8isCUcLa', 'expanded_url': 'https://twitter.com/goopdoods/status/1504106018195873804/photo/1', 'display_url': 'pic.twitter.com/vu8isCUcLa'}]}",0.0
+221,1504104781312319489,2022-03-16 14:38:19+00:00,False,RT @jcreed06: Grabbed some @goopdoods. Art is cool. Still minting. Grabbed #2000 too lol. #goopfollowgoop #goopdoods https://t.co/d1YXUJTunt,5,0,0,,{'media_keys': ['3_1504090768679522307']},"{'hashtags': [{'start': 90, 'end': 105, 'tag': 'goopfollowgoop'}, {'start': 106, 'end': 116, 'tag': 'goopdoods'}], 'urls': [{'start': 117, 'end': 140, 'url': 'https://t.co/d1YXUJTunt', 'expanded_url': 'https://twitter.com/jcreed06/status/1504090772693561352/photo/1', 'display_url': 'pic.twitter.com/d1YXUJTunt'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'jcreed06', 'id': '376871191'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+222,1504104717110202369,2022-03-16 14:38:04+00:00,True,@EyeNoahGuyNFT @DegenToonz we’re the first goopdoods,1,1,10,,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'EyeNoahGuyNFT', 'id': '1474332646184525837'}, {'start': 15, 'end': 26, 'username': 'DegenToonz', 'id': '1446017317465321473'}]}",0.0
+223,1504104631005237253,2022-03-16 14:37:43+00:00,False,RT @jpill_7: Hopped on the @goopdoods wave. Super excited for reveal,2,0,0,,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'jpill_7', 'id': '1490053130817609732'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+224,1504104580661010439,2022-03-16 14:37:31+00:00,False,"RT @MarcYared3: Just got mine! Art is sick, really optimistic about this project!",7,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'MarcYared3', 'id': '1374682138856017921'}]}",0.0
+225,1503936478799450115,2022-03-16 03:29:32+00:00,True,"@MONTEDION what the hell 
+
+dm @UrMomNFT let’s figure it out",0,1,1,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'MONTEDION', 'id': '267356180'}, {'start': 30, 'end': 39, 'username': 'UrMomNFT', 'id': '246532544'}]}",0.0
+226,1503935386699157511,2022-03-16 03:25:12+00:00,False,"swamp 📈
+
+great discussions going on with the community in the discord, and love the support after day 1. 
+
+we’re not going anywhere - be on the look out for big news from us tomorrow. 
+
+i hope your goops are as rare as your dreams are sweet 🌌💕 https://t.co/EmvtmTe7Yx",28,9,67,,,"{'urls': [{'start': 244, 'end': 267, 'url': 'https://t.co/EmvtmTe7Yx', 'expanded_url': 'https://twitter.com/NFTTerminal/status/1503933962862825474', 'display_url': 'twitter.com/NFTTerminal/st…'}]}",1.0
+227,1503908935199248387,2022-03-16 01:40:06+00:00,True,@h4temakerr @toronto_person congrats - you won the goopdeck! dm @UrMomNFT to claim!,0,0,3,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'h4temakerr', 'id': '956605317009367040'}, {'start': 12, 'end': 27, 'username': 'toronto_person', 'id': '1121479288035921920'}, {'start': 64, 'end': 73, 'username': 'UrMomNFT', 'id': '246532544'}]}",0.0
+228,1503900922812014600,2022-03-16 01:08:15+00:00,False,goop?,21,33,132,,,,0.0
+229,1503898326688690180,2022-03-16 00:57:56+00:00,False,RT @Evbruh11: goop gang #NFTCollection #NFT #nftart @goopdoods #goopdoods https://t.co/rspprtOcd1,4,0,0,,{'media_keys': ['3_1503876477145735170']},"{'hashtags': [{'start': 24, 'end': 38, 'tag': 'NFTCollection'}, {'start': 39, 'end': 43, 'tag': 'NFT'}, {'start': 44, 'end': 51, 'tag': 'nftart'}, {'start': 63, 'end': 73, 'tag': 'goopdoods'}], 'urls': [{'start': 74, 'end': 97, 'url': 'https://t.co/rspprtOcd1', 'expanded_url': 'https://twitter.com/Evbruh11/status/1503876482602606595/photo/1', 'display_url': 'pic.twitter.com/rspprtOcd1'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'Evbruh11', 'id': '402349417'}, {'start': 52, 'end': 62, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+230,1503898148040810496,2022-03-16 00:57:14+00:00,False,RT @andyfranco: Love these Doods.  Can’t wait to see how my 5 mints turn out. @goopdoods,7,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'andyfranco', 'id': '12136472'}, {'start': 78, 'end': 88, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+231,1503868019595960326,2022-03-15 22:57:31+00:00,False,"RT @TveWasHere: @goopdoods #goopgang LEGGO 
+Feeling real slimey 🐍 https://t.co/Ju03IMHHxW",9,0,0,,{'media_keys': ['3_1503867179095269379']},"{'hashtags': [{'start': 27, 'end': 36, 'tag': 'goopgang'}], 'urls': [{'start': 66, 'end': 89, 'url': 'https://t.co/Ju03IMHHxW', 'expanded_url': 'https://twitter.com/TveWasHere/status/1503867181611814914/photo/1', 'display_url': 'pic.twitter.com/Ju03IMHHxW'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'TveWasHere', 'id': '329972974'}, {'start': 16, 'end': 26, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+232,1503863741011664900,2022-03-15 22:40:30+00:00,False,"RT @nahuha: Had to show some love, I can’t wait to see what I got 💪🏾 @goopdoods https://t.co/FVY666Yf8M",5,0,0,,{'media_keys': ['3_1503863590612353031']},"{'urls': [{'start': 80, 'end': 103, 'url': 'https://t.co/FVY666Yf8M', 'expanded_url': 'https://twitter.com/nahuha/status/1503863596668829696/photo/1', 'display_url': 'pic.twitter.com/FVY666Yf8M'}], 'mentions': [{'start': 3, 'end': 10, 'username': 'nahuha', 'id': '590030400'}, {'start': 69, 'end': 79, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+233,1503861649412866049,2022-03-15 22:32:12+00:00,False,RT @chris_schifferr: @goopdoods https://t.co/M8vIE3ULX4,4,0,0,,{'media_keys': ['3_1503858927938768897']},"{'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/M8vIE3ULX4', 'expanded_url': 'https://twitter.com/chris_schifferr/status/1503858932162387970/photo/1', 'display_url': 'pic.twitter.com/M8vIE3ULX4'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'chris_schifferr', 'id': '1427854638'}, {'start': 21, 'end': 31, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+234,1503861609550204930,2022-03-15 22:32:02+00:00,False,RT @sillyg00n: How sick is @goopdoods !!! Minted 4 and excited for reveal https://t.co/KEXcS3sPHQ,17,0,0,,{'media_keys': ['16_1503793737754988547']},"{'urls': [{'start': 74, 'end': 97, 'url': 'https://t.co/KEXcS3sPHQ', 'expanded_url': 'https://twitter.com/goopdoods/status/1503793788535414784/photo/1', 'display_url': 'pic.twitter.com/KEXcS3sPHQ'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'sillyg00n', 'id': '1480329743673315332'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+235,1503861585311326221,2022-03-15 22:31:56+00:00,False,RT @valencia_lexx: Wasup Dood... Mint Is Live!! @goopdoods https://t.co/DPFZ4QvWFi,5,0,0,,{'media_keys': ['3_1503820910721179660']},"{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/DPFZ4QvWFi', 'expanded_url': 'https://twitter.com/valencia_lexx/status/1503820916144361473/photo/1', 'display_url': 'pic.twitter.com/DPFZ4QvWFi'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'valencia_lexx', 'id': '1470029805936680972'}, {'start': 48, 'end': 58, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+236,1503861510745042948,2022-03-15 22:31:39+00:00,False,"RT @MeekzNFT: Got in the first 500 somehow @goopdoods public mint is going on, the placeholder even got me feelin good👻 https://t.co/baHigd…",7,0,0,,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'MeekzNFT', 'id': '1397147028942163968'}, {'start': 43, 'end': 53, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+237,1503855049746878472,2022-03-15 22:05:58+00:00,False,"RT @Bigdiesel45: Just minted a few @goopdoods, might buy more in the public sale! Love the team and the community we’ve built in the swamp.…",6,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'Bigdiesel45', 'id': '1491631289916706816'}, {'start': 35, 'end': 45, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+238,1503851164168826880,2022-03-15 21:50:32+00:00,False,RT @johnjannuzzi: i love these weird dudes,11,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'johnjannuzzi', 'id': '27511085'}]}",0.0
+239,1503851130505342979,2022-03-15 21:50:24+00:00,False,"RT @DavittBruno: Loaded up and ready to go - 0.05 mint price is simply a steal.
+
+Wait for reveal…they have no idea what’s coming.
+
+@goopdoo…",7,0,0,,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'DavittBruno', 'id': '1342849663536418818'}]}",0.0
+240,1503851120917204995,2022-03-15 21:50:22+00:00,False,RT @SuperDemoreo: @goopdoods #621 let’s go! Dope hand drawn artwork always trumps! #nft #nfts #goopdoods https://t.co/srZwAgn1HD,8,0,0,,{'media_keys': ['16_1503843048886784015']},"{'hashtags': [{'start': 83, 'end': 87, 'tag': 'nft'}, {'start': 88, 'end': 93, 'tag': 'nfts'}, {'start': 94, 'end': 104, 'tag': 'goopdoods'}], 'urls': [{'start': 105, 'end': 128, 'url': 'https://t.co/srZwAgn1HD', 'expanded_url': 'https://twitter.com/SuperDemoreo/status/1503843066955898884/photo/1', 'display_url': 'pic.twitter.com/srZwAgn1HD'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'SuperDemoreo', 'id': '280025589'}, {'start': 18, 'end': 28, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+241,1503850673129017350,2022-03-15 21:48:35+00:00,False,RT @biscuitparty: @goopdoods Got my two. Looking Forward to the reveal. Thanks to @NoKapRich for the alpha. https://t.co/yeDlsPMbu2,5,0,0,,{'media_keys': ['3_1503844878240866311']},"{'urls': [{'start': 108, 'end': 131, 'url': 'https://t.co/yeDlsPMbu2', 'expanded_url': 'https://twitter.com/biscuitparty/status/1503844881680244744/photo/1', 'display_url': 'pic.twitter.com/yeDlsPMbu2'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'biscuitparty', 'id': '45159937'}, {'start': 18, 'end': 28, 'username': 'goopdoods', 'id': '1435251083949993984'}, {'start': 82, 'end': 92, 'username': 'NoKapRich', 'id': '310965225'}]}",0.0
+242,1503850648432955394,2022-03-15 21:48:29+00:00,False,RT @mdog0092: @goopdoods 👀👀 https://t.co/kUaFutNPNN,3,0,0,,{'media_keys': ['3_1503846105968254982']},"{'urls': [{'start': 28, 'end': 51, 'url': 'https://t.co/kUaFutNPNN', 'expanded_url': 'https://twitter.com/mdog0092/status/1503846110485487621/photo/1', 'display_url': 'pic.twitter.com/kUaFutNPNN'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'mdog0092', 'id': '2740180335'}, {'start': 14, 'end': 24, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+243,1503838769514004485,2022-03-15 21:01:17+00:00,False,"go crazy y’all!!!
+
+https://t.co/34lKbpdYz7 https://t.co/FxWR1ioHXx",100,42,256,,{'media_keys': ['3_1503838764178804750']},"{'urls': [{'start': 19, 'end': 42, 'url': 'https://t.co/34lKbpdYz7', 'expanded_url': 'https://goopdoods.io/mint', 'display_url': 'goopdoods.io/mint'}, {'start': 43, 'end': 66, 'url': 'https://t.co/FxWR1ioHXx', 'expanded_url': 'https://twitter.com/goopdoods/status/1503838769514004485/photo/1', 'display_url': 'pic.twitter.com/FxWR1ioHXx'}]}",21.0
+244,1503831266709458950,2022-03-15 20:31:28+00:00,False,"RT @EyeNoahGuyNFT: During the loss-taking listing spree, decided to mint two of these @goopdoods. My approach has shifted from being money-…",4,0,0,,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'EyeNoahGuyNFT', 'id': '1474332646184525837'}, {'start': 86, 'end': 96, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+245,1503824564144459786,2022-03-15 20:04:50+00:00,False,RT @bennysjockstrap: Just minted mine! Best art I've seen in a while and solid team,6,0,0,,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'bennysjockstrap', 'id': '2292500571'}]}",0.0
+246,1503823497142935556,2022-03-15 20:00:36+00:00,False,"1 hour until public sale - if you’re gooplisted, this is your last chance to secure your goops in the presale! 
+
+https://t.co/34lKbpdYz7
+
+🤝",9,4,37,,,"{'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/34lKbpdYz7', 'expanded_url': 'https://goopdoods.io/mint', 'display_url': 'goopdoods.io/mint', 'status': 404, 'unwound_url': 'https://www.goopdoods.io/mint'}]}",0.0
+247,1503817489691652105,2022-03-15 19:36:43+00:00,False,RT @girldadNFT: Minted @goopdoods in presale. Team adjusted quickly and transparently this morning. Art is unique and it's great having dev…,11,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'girldadNFT', 'id': '1350816981851664384'}, {'start': 23, 'end': 33, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+248,1503807402407251972,2022-03-15 18:56:38+00:00,False,"RT @shakti_nft: Hello everyone, FINALLY  !!! I minted my 1st NFT @goopdoods , I really loved the Art 🌟🔥🔥🔥 !!! Jus can't wait until the reve…",6,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'shakti_nft', 'id': '1500186285033414656'}, {'start': 65, 'end': 75, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+249,1503805526681038859,2022-03-15 18:49:11+00:00,False,RT @TracyIt99: prob shoulda held off a second try to grab @goopdoods 420; but I have a massage to run off to - iykyk if not public mint is…,3,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'TracyIt99', 'id': '127350284'}, {'start': 58, 'end': 68, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+250,1503802664861245440,2022-03-15 18:37:49+00:00,False,"RT @yato_eth: Just minted 3  @goopdoods , don’t sleep on these",5,0,0,,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'yato_eth', 'id': '1327907668221075456'}, {'start': 29, 'end': 39, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+251,1503800838136991747,2022-03-15 18:30:33+00:00,False,RT @itchynft: Cant wait for my goops to reveal @goopdoods https://t.co/dI7DyRoP23,5,0,0,,{'media_keys': ['3_1503800662903169030']},"{'urls': [{'start': 58, 'end': 81, 'url': 'https://t.co/dI7DyRoP23', 'expanded_url': 'https://twitter.com/itchynft/status/1503800668078981124/photo/1', 'display_url': 'pic.twitter.com/dI7DyRoP23'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'itchynft', 'id': '1431220552849633282'}, {'start': 47, 'end': 57, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+252,1503795953186361345,2022-03-15 18:11:09+00:00,True,@Dan_White_77 https://t.co/34lKbpdYz7,0,0,1,,,"{'urls': [{'start': 14, 'end': 37, 'url': 'https://t.co/34lKbpdYz7', 'expanded_url': 'https://goopdoods.io/mint', 'display_url': 'goopdoods.io/mint'}], 'mentions': [{'start': 0, 'end': 13, 'username': 'Dan_White_77', 'id': '1352070631660011520'}]}",0.0
+253,1503793788535414784,2022-03-15 18:02:32+00:00,False,"3 hours remaining in our GOOPLIST mint!
+
+if you’re GOOPLISTED, make sure to mint soon before our public sale! https://t.co/vP8qW4Wnpv",18,4,55,,{'media_keys': ['16_1503793737754988547']},"{'urls': [{'start': 110, 'end': 133, 'url': 'https://t.co/vP8qW4Wnpv', 'expanded_url': 'https://twitter.com/goopdoods/status/1503793788535414784/photo/1', 'display_url': 'pic.twitter.com/vP8qW4Wnpv'}]}",4.0
+254,1503779105199775748,2022-03-15 17:04:12+00:00,False,"RT @flywheelfund: I bought 2 on OS 3 hours ago for .27 total. I was refunded immediately when they launched a new mint.
+
+ I respect teams w…",9,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'flywheelfund', 'id': '1448038334605975553'}]}",0.0
+255,1503774379796316171,2022-03-15 16:45:25+00:00,True,@NoKapRich @Deluxe_of_lere https://t.co/O6ZwD6QycE,1,0,2,,,"{'urls': [{'start': 27, 'end': 50, 'url': 'https://t.co/O6ZwD6QycE', 'expanded_url': 'https://opensea.io/collection/goopdoods-by-goopdude-official-collection', 'display_url': 'opensea.io/collection/goo…'}], 'mentions': [{'start': 0, 'end': 10, 'username': 'NoKapRich', 'id': '310965225'}, {'start': 11, 'end': 26, 'username': 'Deluxe_of_lere', 'id': '1364674768432160772'}]}",2.0
+256,1503772727886372865,2022-03-15 16:38:51+00:00,False,RT @schaf_nft: Got my @goopdoods !! Make sure to get yourselves some! https://t.co/opNyyvLWMl,6,0,0,,{'media_keys': ['3_1503772653487853576']},"{'urls': [{'start': 70, 'end': 93, 'url': 'https://t.co/opNyyvLWMl', 'expanded_url': 'https://twitter.com/schaf_nft/status/1503772659997364237/photo/1', 'display_url': 'pic.twitter.com/opNyyvLWMl'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'schaf_nft', 'id': '1474287018880512004'}, {'start': 22, 'end': 32, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+257,1503770234498473994,2022-03-15 16:28:57+00:00,False,RT @DomCatanzar0: 👀 @goopdoods Goop Morning to my goop gang ! https://t.co/ihbcdBoL1R,6,0,0,,{'media_keys': ['3_1503769796814389251']},"{'urls': [{'start': 62, 'end': 85, 'url': 'https://t.co/ihbcdBoL1R', 'expanded_url': 'https://twitter.com/DomCatanzar0/status/1503769800408924166/photo/1', 'display_url': 'pic.twitter.com/ihbcdBoL1R'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'DomCatanzar0', 'id': '1462942894902300675'}, {'start': 20, 'end': 30, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+258,1503767452567711746,2022-03-15 16:17:53+00:00,False,"RT @KylmorrETH: minted my 2 @goopdoods 🤮🤮🤮
+ https://t.co/HIPL8fLoEq",4,0,0,,{'media_keys': ['16_1503766660045438980']},"{'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/HIPL8fLoEq', 'expanded_url': 'https://twitter.com/NoKapRich/status/1503766668849213442/photo/1', 'display_url': 'pic.twitter.com/HIPL8fLoEq'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'KylmorrETH', 'id': '1203363658480472066'}, {'start': 28, 'end': 38, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+259,1503766782020100103,2022-03-15 16:15:14+00:00,False,RT @NoKapRich: Just minted my 5 👌🏽🔥 @goopdoods https://t.co/hSLKgSodjp,12,0,0,,{'media_keys': ['16_1503766660045438980']},"{'urls': [{'start': 47, 'end': 70, 'url': 'https://t.co/hSLKgSodjp', 'expanded_url': 'https://twitter.com/NoKapRich/status/1503766668849213442/photo/1', 'display_url': 'pic.twitter.com/hSLKgSodjp'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'NoKapRich', 'id': '310965225'}, {'start': 36, 'end': 46, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+260,1503766744082567170,2022-03-15 16:15:05+00:00,False,"RT @daniel100eth: just minted 5 @goopdoods 
+
+It’s lit. Props to the team for lowering mint price to 0.05eth per mint. https://t.co/W5zoNN2d…",6,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 32, 'end': 42, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+261,1503765826431864833,2022-03-15 16:11:26+00:00,False,"OPENSEA: https://t.co/O6ZwD6QycE 
+
+public sale starts at 5PM EST!",9,2,28,,,"{'urls': [{'start': 9, 'end': 32, 'url': 'https://t.co/O6ZwD6QycE', 'expanded_url': 'https://opensea.io/collection/goopdoods-by-goopdude-official-collection', 'display_url': 'opensea.io/collection/goo…'}]}",1.0
+262,1503763338718765058,2022-03-15 16:01:33+00:00,False,"let’s try this again.
+
+.05 per dood, 5 max per wallet presale. 
+
+public mint will start at 5PM EST as scheduled! 
+
+https://t.co/34lKbpdYz7 https://t.co/R2YjDdH8X6",34,12,104,,{'media_keys': ['3_1503763333039763471']},"{'urls': [{'start': 115, 'end': 138, 'url': 'https://t.co/34lKbpdYz7', 'expanded_url': 'https://goopdoods.io/mint', 'display_url': 'goopdoods.io/mint', 'status': 404, 'unwound_url': 'https://www.goopdoods.io/mint'}, {'start': 139, 'end': 162, 'url': 'https://t.co/R2YjDdH8X6', 'expanded_url': 'https://twitter.com/goopdoods/status/1503763338718765058/photo/1', 'display_url': 'pic.twitter.com/R2YjDdH8X6'}]}",3.0
+263,1503753118856720398,2022-03-15 15:20:56+00:00,True,@flywheelfund @daniel100eth yes!! what’s your wallet address - we’ll get you on the new gooplist. sorry for the troubles and appreciate you sticking with us ❤️,0,1,1,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'flywheelfund', 'id': '1448038334605975553'}, {'start': 14, 'end': 27, 'username': 'daniel100eth', 'id': '1316779015777198088'}]}",0.0
+264,1503748292819177476,2022-03-15 15:01:45+00:00,True,@flywheelfund @daniel100eth anyone who bought on secondary before we paused mint was refunded instead of the minter who profited off of the sale!,0,2,1,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'flywheelfund', 'id': '1448038334605975553'}, {'start': 14, 'end': 27, 'username': 'daniel100eth', 'id': '1316779015777198088'}]}",0.0
+265,1503734390114897924,2022-03-15 14:06:31+00:00,True,"@KylmorrETH if you could only get one, now you can get two, yes!!",0,2,1,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'KylmorrETH', 'id': '1203363658480472066'}]}",0.0
+266,1503733606111498240,2022-03-15 14:03:24+00:00,True,@KylmorrETH yes - your entire amount will be refunded and then you can remint for half the price!,0,1,1,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'KylmorrETH', 'id': '1203363658480472066'}]}",0.0
+267,1503729421102067717,2022-03-15 13:46:46+00:00,False,"GOOPLIST MINT PAUSED.
+
+everyone who minted for .1 is being refunded right now. 
+
+will resume at noon with a .05 mint price 💕",18,19,127,,,,5.0
+268,1503716126907322369,2022-03-15 12:53:57+00:00,False,RT @daniel100eth: Just minted 3 @goopdoods ! GOOPLIST are eligible to mint until 5pm EST and then they go to public sale so make sure to mi…,5,0,0,,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 32, 'end': 42, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+269,1503714075477434371,2022-03-15 12:45:47+00:00,False,RT @dreamcatch3rETH: super clean placeholder🔥🔥 @goopdoods stoked for reveal! https://t.co/2YW23TRyWp,5,0,0,,{'media_keys': ['16_1503714019642945539']},"{'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/2YW23TRyWp', 'expanded_url': 'https://twitter.com/dreamcatch3rETH/status/1503714036092911618/photo/1', 'display_url': 'pic.twitter.com/2YW23TRyWp'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'dreamcatch3rETH', 'id': '1354538010264657921'}, {'start': 47, 'end': 57, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+270,1503710814255128580,2022-03-15 12:32:50+00:00,False,RT @artvers3: ready for my @goopdoods! https://t.co/3TfB8hyLf1,5,0,0,,{'media_keys': ['16_1503710257545158664']},"{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/3TfB8hyLf1', 'expanded_url': 'https://twitter.com/artvers3/status/1503710295432249345/photo/1', 'display_url': 'pic.twitter.com/3TfB8hyLf1'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'artvers3', 'id': '1457364855501963267'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+271,1503706919906824195,2022-03-15 12:17:21+00:00,False,RT @joseforobledo: .@goopdoods secure! https://t.co/tlBWpFoN2O,3,0,0,,{'media_keys': ['3_1503706258737537024']},"{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/tlBWpFoN2O', 'expanded_url': 'https://twitter.com/joseforobledo/status/1503706339742085124/photo/1', 'display_url': 'pic.twitter.com/tlBWpFoN2O'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'joseforobledo', 'id': '94922350'}, {'start': 20, 'end': 30, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+272,1503705183628500998,2022-03-15 12:10:27+00:00,False,"OFFICIAL OPENSEA COLLECTION: 
+
+https://t.co/LofsKkk45o
+
+GOOPLIST MINT JUST WENT LIVE! 
+
+you have until 5PM EST to mint before public sale starts. goop luck and happy minting!!",11,0,37,,,"{'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/LofsKkk45o', 'expanded_url': 'https://opensea.io/collection/goopdoods-by-goopdude-official', 'display_url': 'opensea.io/collection/goo…'}]}",2.0
+273,1503700079470862344,2022-03-15 11:50:10+00:00,False,"RT @NYDoorman: GM! 
+
+today is @goopdoods day I’m v stoked. cool new art type/direction and reveals at the end of the public mint. https://t…",16,0,0,,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'NYDoorman', 'id': '577148164'}, {'start': 30, 'end': 40, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+274,1503684828323008516,2022-03-15 10:49:34+00:00,False,"RT @chr1stopherrrrr: @goopdoods Minting today. Can I get a HELL YEAH? Can I get a WGMI? Please heavenly father can I get a 1/1? 🔥
+
+#NFT #Mi…",5,0,0,,,"{'hashtags': [{'start': 131, 'end': 135, 'tag': 'NFT'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'chr1stopherrrrr', 'id': '1480982555235135492'}, {'start': 21, 'end': 31, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+275,1503510108709568519,2022-03-14 23:15:18+00:00,False,"goop night everyone, thanks to all who came on and asked questions! 
+
+we’ll see you bright and early tomorrow morning for our gooplist mint, followed by public mint 9 hours later at 5PM eastern.
+
+yktv - reveal starts right after mint, no BS.
+
+sleep tight 🛏🌌 https://t.co/C7ki4GmlCT",28,6,98,,{'media_keys': ['16_1503510091198251019']},"{'urls': [{'start': 258, 'end': 281, 'url': 'https://t.co/C7ki4GmlCT', 'expanded_url': 'https://twitter.com/goopdoods/status/1503510108709568519/photo/1', 'display_url': 'pic.twitter.com/C7ki4GmlCT'}]}",1.0
+276,1503360365698105347,2022-03-14 13:20:16+00:00,False,"goop morning say it back
+
+less than 24 hours until our gooplist sale begins! goop to the universe 🌌 https://t.co/hWRAYIzd2e",40,16,162,,{'media_keys': ['3_1503360361533169665']},"{'urls': [{'start': 100, 'end': 123, 'url': 'https://t.co/hWRAYIzd2e', 'expanded_url': 'https://twitter.com/goopdoods/status/1503360365698105347/photo/1', 'display_url': 'pic.twitter.com/hWRAYIzd2e'}]}",2.0
+277,1503206162887553024,2022-03-14 03:07:32+00:00,False,"gn beautiful goops, the big day is near🌛🎑
+
+who’s getting lucky and minting this fella?? https://t.co/aOUwjysTJB",39,15,180,,{'media_keys': ['3_1503206155581276165']},"{'urls': [{'start': 88, 'end': 111, 'url': 'https://t.co/aOUwjysTJB', 'expanded_url': 'https://twitter.com/goopdoods/status/1503206162887553024/photo/1', 'display_url': 'pic.twitter.com/aOUwjysTJB'}]}",1.0
+278,1503170387164774401,2022-03-14 00:45:22+00:00,True,@DiscoverXnft @UrMomNFT @doksan @winnynft roadmap: shitpost until our following reaches 0,0,3,9,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'DiscoverXnft', 'id': '1426732252768182281'}, {'start': 14, 'end': 23, 'username': 'UrMomNFT', 'id': '246532544'}, {'start': 24, 'end': 31, 'username': 'doksan', 'id': '19723413'}, {'start': 32, 'end': 41, 'username': 'winnynft', 'id': '1318918091116523521'}]}",0.0
+279,1503163444551368709,2022-03-14 00:17:47+00:00,True,"@doksan @UrMomNFT @winnynft love u king, good luck on Tuesday!! 💕 
+
+btw - sending you the 10 eth now like we agreed upon. I think they bought it",0,2,5,,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'doksan', 'id': '19723413'}, {'start': 8, 'end': 17, 'username': 'UrMomNFT', 'id': '246532544'}, {'start': 18, 'end': 27, 'username': 'winnynft', 'id': '1318918091116523521'}]}",0.0
+280,1503162935748739073,2022-03-14 00:15:45+00:00,True,@Ry_Guy_Eth @DavittBruno @daniel100eth @toronto_person @UrMomNFT for sure - could be cool to dedicate a section of the website to highlighting his early work or have a special space just to dive deep into @toronto_person’s artistic journey. appreciate the advice! 🤝,0,1,3,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'Ry_Guy_Eth', 'id': '3314668003'}, {'start': 12, 'end': 24, 'username': 'DavittBruno', 'id': '1342849663536418818'}, {'start': 25, 'end': 38, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 39, 'end': 54, 'username': 'toronto_person', 'id': '1121479288035921920'}, {'start': 55, 'end': 64, 'username': 'UrMomNFT', 'id': '246532544'}, {'start': 205, 'end': 220, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",0.0
+281,1503161561007144962,2022-03-14 00:10:18+00:00,True,"@doksan @UrMomNFT @winnynft to be clear you won’t be able to see them *instantly* as those mints can be gamed, but reveal will begin as soon as mint ends. fk prolonging reveal to artificially pump a floor price, couldn’t be us",1,1,12,,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'doksan', 'id': '19723413'}, {'start': 8, 'end': 17, 'username': 'UrMomNFT', 'id': '246532544'}, {'start': 18, 'end': 27, 'username': 'winnynft', 'id': '1318918091116523521'}]}",0.0
+282,1503158960303525889,2022-03-13 23:59:58+00:00,True,@Ry_Guy_Eth @DavittBruno @daniel100eth @toronto_person @UrMomNFT hope this helps! here’s a link to Andy’s IG if you want to verify for yourself ❤️ https://t.co/MUYIV9pZUu https://t.co/WCmuXFdnY0,1,1,3,,"{'media_keys': ['3_1503158953911279619', '3_1503158953920036864', '3_1503158953982763009', '3_1503158953978613760']}","{'urls': [{'start': 147, 'end': 170, 'url': 'https://t.co/MUYIV9pZUu', 'expanded_url': 'https://instagram.com/goopdude?utm_medium=copy_link', 'display_url': 'instagram.com/goopdude?utm_m…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1506136999631241221/8zK7iUiT?format=jpg&name=orig', 'width': 150, 'height': 150}, {'url': 'https://pbs.twimg.com/news_img/1506136999631241221/8zK7iUiT?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'description': '1,332 Followers, 869 Following, 385 Posts - See Instagram photos and videos from @goopdude', 'unwound_url': 'https://www.instagram.com/goopdude/?utm_medium=copy_link'}, {'start': 171, 'end': 194, 'url': 'https://t.co/WCmuXFdnY0', 'expanded_url': 'https://twitter.com/goopdoods/status/1503158960303525889/photo/1', 'display_url': 'pic.twitter.com/WCmuXFdnY0'}, {'start': 171, 'end': 194, 'url': 'https://t.co/WCmuXFdnY0', 'expanded_url': 'https://twitter.com/goopdoods/status/1503158960303525889/photo/1', 'display_url': 'pic.twitter.com/WCmuXFdnY0'}, {'start': 171, 'end': 194, 'url': 'https://t.co/WCmuXFdnY0', 'expanded_url': 'https://twitter.com/goopdoods/status/1503158960303525889/photo/1', 'display_url': 'pic.twitter.com/WCmuXFdnY0'}, {'start': 171, 'end': 194, 'url': 'https://t.co/WCmuXFdnY0', 'expanded_url': 'https://twitter.com/goopdoods/status/1503158960303525889/photo/1', 'display_url': 'pic.twitter.com/WCmuXFdnY0'}], 'mentions': [{'start': 0, 'end': 11, 'username': 'Ry_Guy_Eth', 'id': '3314668003'}, {'start': 12, 'end': 24, 'username': 'DavittBruno', 'id': '1342849663536418818'}, {'start': 25, 'end': 38, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 39, 'end': 54, 'username': 'toronto_person', 'id': '1121479288035921920'}, {'start': 55, 'end': 64, 'username': 'UrMomNFT', 'id': '246532544'}], 'annotations': [{'start': 99, 'end': 102, 'probability': 0.9638, 'type': 'Person', 'normalized_text': 'Andy'}]}",0.0
+283,1503147313715417097,2022-03-13 23:13:41+00:00,False,"tomorrow: 
+
+pre-mint goop talk with us and @daniel100eth. come through, ask questions, hang out - get excited!! 
+
+set a reminder ⬇️
+
+https://t.co/34vAngPj0q",16,3,56,,,"{'urls': [{'start': 133, 'end': 156, 'url': 'https://t.co/34vAngPj0q', 'expanded_url': 'https://twitter.com/i/spaces/1djxXPvwmkkxZ', 'display_url': 'twitter.com/i/spaces/1djxX…'}], 'mentions': [{'start': 43, 'end': 56, 'username': 'daniel100eth', 'id': '1316779015777198088'}]}",1.0
+284,1502977521054277635,2022-03-13 11:58:59+00:00,False,"goop morning say it back
+
+oh and GOOPLIST MINT STARTS IN 48 HOURS!! 🤝💕🤩 https://t.co/D5we6WjY5K",41,24,146,,{'media_keys': ['3_1502977514154647552']},"{'urls': [{'start': 72, 'end': 95, 'url': 'https://t.co/D5we6WjY5K', 'expanded_url': 'https://twitter.com/goopdoods/status/1502977521054277635/photo/1', 'display_url': 'pic.twitter.com/D5we6WjY5K'}]}",1.0
+285,1502837394432827401,2022-03-13 02:42:10+00:00,True,"@JibbyShleemen @garyvee we weren’t gonna say anything, but… https://t.co/53Df7XTRUj",1,0,1,,{'media_keys': ['3_1502837390846664707']},"{'urls': [{'start': 60, 'end': 83, 'url': 'https://t.co/53Df7XTRUj', 'expanded_url': 'https://twitter.com/goopdoods/status/1502837394432827401/photo/1', 'display_url': 'pic.twitter.com/53Df7XTRUj'}], 'mentions': [{'start': 0, 'end': 14, 'username': 'JibbyShleemen', 'id': '1496641524880355329'}, {'start': 15, 'end': 23, 'username': 'garyvee', 'id': '5768872'}]}",0.0
+286,1502828901378277378,2022-03-13 02:08:25+00:00,True,@daniel100eth WLTD (we like the Daniel),0,0,11,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'daniel100eth', 'id': '1316779015777198088'}], 'annotations': [{'start': 32, 'end': 37, 'probability': 0.6687, 'type': 'Person', 'normalized_text': 'Daniel'}]}",0.0
+287,1502820611940302848,2022-03-13 01:35:29+00:00,False,"GOOP DECK
+
+WHO WANTS IT? 
+
+Tell us why you should get this crazy 1/1 goop deck - hand painted by @toronto_person - and we’ll select one winner to ship it to in 48H! 
+
+goop luck and can’t wait to read these responses!! 💕💕 https://t.co/y82sEBiqCX",42,68,122,,{'media_keys': ['3_1502820608370888706']},"{'urls': [{'start': 221, 'end': 244, 'url': 'https://t.co/y82sEBiqCX', 'expanded_url': 'https://twitter.com/goopdoods/status/1502820611940302848/photo/1', 'display_url': 'pic.twitter.com/y82sEBiqCX'}], 'mentions': [{'start': 97, 'end': 112, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",1.0
+288,1502757525527187461,2022-03-12 21:24:48+00:00,False,"live again with @NoKapRich!!
+
+hop in, Saturday bool sesh 🥱
+
+https://t.co/6qrr1skG1B",6,4,29,,,"{'urls': [{'start': 60, 'end': 83, 'url': 'https://t.co/6qrr1skG1B', 'expanded_url': 'https://twitter.com/i/spaces/1djxXPvmdROxZ', 'display_url': 'twitter.com/i/spaces/1djxX…'}], 'mentions': [{'start': 16, 'end': 26, 'username': 'NoKapRich', 'id': '310965225'}]}",0.0
+289,1502706401172496392,2022-03-12 18:01:39+00:00,False,"LIVE WITH @NYDoorman!!!
+
+Come bool 💕
+
+https://t.co/7JPYR4gioQ",7,0,27,,,"{'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/7JPYR4gioQ', 'expanded_url': 'https://twitter.com/i/spaces/1mrGmaeDXPMGy', 'display_url': 'twitter.com/i/spaces/1mrGm…'}], 'mentions': [{'start': 10, 'end': 20, 'username': 'NYDoorman', 'id': '577148164'}]}",2.0
+290,1502697093630156802,2022-03-12 17:24:40+00:00,False,"contract is published and community audit is live on discord! 
+
+you can’t mint until our gooplist sale at 8AM on 3/15, so don’t bother trying. do not trust any mint link claiming to be us - our only contract is in the discord and it’s not live. 
+
+happy auditing!! 💕💕 https://t.co/ANDVSgCeOt",13,5,78,,{'media_keys': ['3_1502697089356255232']},"{'urls': [{'start': 267, 'end': 290, 'url': 'https://t.co/ANDVSgCeOt', 'expanded_url': 'https://twitter.com/goopdoods/status/1502697093630156802/photo/1', 'display_url': 'pic.twitter.com/ANDVSgCeOt'}]}",1.0
+291,1502647019193647112,2022-03-12 14:05:41+00:00,False,"!goop 
+
+Saturday chill sesh with @NYDoorman in 4 hours - tune in! https://t.co/oZelhVaoZ6",6,2,31,,,"{'urls': [{'start': 66, 'end': 89, 'url': 'https://t.co/oZelhVaoZ6', 'expanded_url': 'https://twitter.com/NYDoorman/status/1502640826425524225', 'display_url': 'twitter.com/NYDoorman/stat…'}], 'mentions': [{'start': 33, 'end': 43, 'username': 'NYDoorman', 'id': '577148164'}]}",1.0
+292,1502436561408999425,2022-03-12 00:09:24+00:00,True,"finally… winners:
+
+if anyone finds an exploit or security vulnerability on our minting contract and reports it to us, they will be rewarded a minimum of 0.1 ETH (dependent on severity) and a free goopdood. 
+
+brush up on your solidity and get ready for tomorrow!! 🤓🤓❤️❤️",2,2,21,,,,0.0
+293,1502436560087756806,2022-03-12 00:09:24+00:00,True,"“when”:
+
+the contract will be deployed and verified before 8PM EST tomorrow, giving everyone a 60-hour window to dig deep and hunt bugs before the GOOPLIST mint.",1,1,17,,,,0.0
+294,1502436558816878598,2022-03-12 00:09:24+00:00,True,"“why” cont.:
+
+we’re confident in our contract and it’s been independently audited, so it seems like a no-brainer to unleash the code on you all early so that questions can be answered and investors can do their due diligence. 
+
+we encourage other projects to adopt this strategy.",0,1,9,,,,0.0
+295,1502436557038538753,2022-03-12 00:09:23+00:00,True,"“why”:
+
+transparency &amp; community are two of our core values. therefore, our community deserves to take a look at the contract they’ll be sending their ETH to, well before our mint. 
+
+we’ve seen projects fall due to exploits that would have been prevented given more sets of eyes.",0,1,9,,,,0.0
+296,1502436556010930176,2022-03-12 00:09:23+00:00,True,"“what”:
+
+we’ll be deploying the goopdoods contract and verifying it so that anyone can go on etherscan and read our code pre-mint.
+
+we want you to look at it and get your hands dirty. if anyone finds an exploit on our minting contract and reports it to us, they will be rewarded.",0,1,11,,,,0.0
+297,1502436555071311876,2022-03-12 00:09:23+00:00,False,"Community Audit 🚨
+
+what, why, when, and winners - a rare goopy thread 🤩 ⬇️",12,6,72,,,,2.0
+298,1502360254637617153,2022-03-11 19:06:11+00:00,False,"clarity on mint + new collection size 
+
+as always, if you have questions we’re listening and talking in the swamp! 
+
+oh and you know the drill: like and rt for absolutely nothing ❤️ #LifeIsGoop https://t.co/gXvew3pEri",50,18,162,,{'media_keys': ['3_1502360250741149702']},"{'hashtags': [{'start': 182, 'end': 193, 'tag': 'LifeIsGoop'}], 'urls': [{'start': 194, 'end': 217, 'url': 'https://t.co/gXvew3pEri', 'expanded_url': 'https://twitter.com/goopdoods/status/1502360254637617153/photo/1', 'display_url': 'pic.twitter.com/gXvew3pEri'}]}",1.0
+299,1502294433617821703,2022-03-11 14:44:38+00:00,False,"😳😳😳😳 gm‼️‼️
+
+hey siri set a reminder for March 15… https://t.co/S7bsmtHGMa",26,11,107,,{'media_keys': ['3_1502294430635773957']},"{'urls': [{'start': 51, 'end': 74, 'url': 'https://t.co/S7bsmtHGMa', 'expanded_url': 'https://twitter.com/goopdoods/status/1502294433617821703/photo/1', 'display_url': 'pic.twitter.com/S7bsmtHGMa'}], 'annotations': [{'start': 21, 'end': 24, 'probability': 0.5102, 'type': 'Product', 'normalized_text': 'siri'}]}",0.0
+300,1502145780877959174,2022-03-11 04:53:57+00:00,False,"luv all 10k of you 💕💕
+
+solidified mint details coming tomorrow 😳 https://t.co/pZB8qmek72",32,19,160,,{'media_keys': ['3_1502145774150303749']},"{'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/pZB8qmek72', 'expanded_url': 'https://twitter.com/goopdoods/status/1502145780877959174/photo/1', 'display_url': 'pic.twitter.com/pZB8qmek72'}]}",2.0
+301,1502025720515936258,2022-03-10 20:56:52+00:00,False,"you so icy ima glacier boy
+🤮🤮🤮 https://t.co/YhJzvJL9JF",40,21,185,,{'media_keys': ['3_1502025698650869764']},"{'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/YhJzvJL9JF', 'expanded_url': 'https://twitter.com/goopdoods/status/1502025720515936258/photo/1', 'display_url': 'pic.twitter.com/YhJzvJL9JF'}]}",2.0
+302,1501983473313198080,2022-03-10 18:09:00+00:00,False,"we 💕 the starcatchers! 
+
+great gooplist opportunity if you’re looking for one 🤩 https://t.co/5Jk7FkeNew",34,11,110,,,"{'urls': [{'start': 80, 'end': 103, 'url': 'https://t.co/5Jk7FkeNew', 'expanded_url': 'https://twitter.com/StarcatchersNFT/status/1501982615775023111', 'display_url': 'twitter.com/StarcatchersNF…'}]}",0.0
+303,1501957947542458375,2022-03-10 16:27:34+00:00,False,"goop morning say it back 😡😡
+
+who else is counting down with us?? https://t.co/ZxI76aNzLv",35,35,180,,{'media_keys': ['3_1501957943503298561']},"{'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/ZxI76aNzLv', 'expanded_url': 'https://twitter.com/goopdoods/status/1501957947542458375/photo/1', 'display_url': 'pic.twitter.com/ZxI76aNzLv'}]}",2.0
+304,1501724459631271938,2022-03-10 00:59:46+00:00,False,LIVE IN 1 MINUTE WITH VIVEK!! https://t.co/cyizdBtmZF,12,9,31,,,"{'urls': [{'start': 30, 'end': 53, 'url': 'https://t.co/cyizdBtmZF', 'expanded_url': 'https://twitter.com/i/spaces/1vAGRkdOaVrJl', 'display_url': 'twitter.com/i/spaces/1vAGR…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1501621252288659464/Ub4dq3xG?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1501621252288659464/Ub4dq3xG?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Scheduled: LET’S GET GOOPY EPISODE 1: GOOPDOODS X VIVEK', 'description': 'goopdoods by GOOPDUDE’s space · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1vAGRkdOaVrJl'}], 'annotations': [{'start': 22, 'end': 26, 'probability': 0.6255, 'type': 'Person', 'normalized_text': 'VIVEK'}]}",1.0
+305,1501722416057307136,2022-03-10 00:51:39+00:00,False,"congrats to @ohh19912 for winning $777! 
+
+7 gooplist winners:
+• @wahoooob
+• @mobbybahalik
+• @nahuha
+• @DakotaLinz
+• @tiantia920
+• @kroll_jesse
+• @drxn18
+
+DM @UrMomNFT to claim your prize! 
+
+($777 winner) https://t.co/kfPtlhq81Z 
+(7 gooplist spots): https://t.co/XoEn2uPyCv https://t.co/XDRUXX7Czt",4,7,18,,,"{'urls': [{'start': 204, 'end': 227, 'url': 'https://t.co/kfPtlhq81Z', 'expanded_url': 'https://twitterpicker.com/d/5g8x3ch7', 'display_url': 'twitterpicker.com/d/5g8x3ch7', 'status': 404, 'unwound_url': 'https://twitterpicker.com/d/5g8x3ch7'}, {'start': 249, 'end': 272, 'url': 'https://t.co/XoEn2uPyCv', 'expanded_url': 'https://twitterpicker.com/d/ry5bkd7y', 'display_url': 'twitterpicker.com/d/ry5bkd7y'}, {'start': 273, 'end': 296, 'url': 'https://t.co/XDRUXX7Czt', 'expanded_url': 'https://twitter.com/goopdoods/status/1500975210102759430', 'display_url': 'twitter.com/goopdoods/stat…'}], 'mentions': [{'start': 12, 'end': 21, 'username': 'ohh19912', 'id': '1424246316922662912'}, {'start': 64, 'end': 73, 'username': 'wahoooob', 'id': '19248005'}, {'start': 76, 'end': 89, 'username': 'mobbybahalik', 'id': '333191079'}, {'start': 92, 'end': 99, 'username': 'nahuha', 'id': '590030400'}, {'start': 102, 'end': 113, 'username': 'DakotaLinz', 'id': '2469895542'}, {'start': 116, 'end': 127, 'username': 'tiantia920', 'id': '1474750028589772805'}, {'start': 130, 'end': 142, 'username': 'kroll_jesse', 'id': '1277254316475154435'}, {'start': 145, 'end': 152, 'username': 'drxn18', 'id': '1447378985671856131'}, {'start': 157, 'end': 166, 'username': 'UrMomNFT', 'id': '246532544'}]}",0.0
+306,1501621483365355536,2022-03-09 18:10:35+00:00,False,RT @goopdoods: https://t.co/cyizdBtmZF,3,0,0,,,"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/cyizdBtmZF', 'expanded_url': 'https://twitter.com/i/spaces/1vAGRkdOaVrJl', 'display_url': 'twitter.com/i/spaces/1vAGR…'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+307,1501621250963218437,2022-03-09 18:09:39+00:00,True,https://t.co/cyizdBtmZF,3,1,12,,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/cyizdBtmZF', 'expanded_url': 'https://twitter.com/i/spaces/1vAGRkdOaVrJl', 'display_url': 'twitter.com/i/spaces/1vAGR…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1501621252288659464/Ub4dq3xG?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1501621252288659464/Ub4dq3xG?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Scheduled: LET’S GET GOOPY EPISODE 1: GOOPDOODS X VIVEK', 'description': 'goopdoods by GOOPDUDE’s space · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1vAGRkdOaVrJl'}]}",1.0
+308,1501621248773734406,2022-03-09 18:09:39+00:00,False,"let’s get mf goopy tonight‼️
+
+shooting the breeze with @ABigThingBadly and talking all things goop - may be giving a few things away too 👐
+
+set a reminder below https://t.co/g2E7YDaVQx",11,4,61,,{'media_keys': ['3_1501621242712891392']},"{'urls': [{'start': 161, 'end': 184, 'url': 'https://t.co/g2E7YDaVQx', 'expanded_url': 'https://twitter.com/goopdoods/status/1501621248773734406/photo/1', 'display_url': 'pic.twitter.com/g2E7YDaVQx'}], 'mentions': [{'start': 55, 'end': 70, 'username': 'ABigThingBadly', 'id': '6720402'}]}",2.0
+309,1501610445039411201,2022-03-09 17:26:43+00:00,True,[REDACTED] = nothing,0,0,12,,,,0.0
+310,1501610290823188488,2022-03-09 17:26:06+00:00,False,"what day is it mike⁉️
+
+interact for [REDACTED] https://t.co/dQX8qJwKmZ",57,39,203,,{'media_keys': ['3_1501610283923652613']},"{'urls': [{'start': 47, 'end': 70, 'url': 'https://t.co/dQX8qJwKmZ', 'expanded_url': 'https://twitter.com/goopdoods/status/1501610290823188488/photo/1', 'display_url': 'pic.twitter.com/dQX8qJwKmZ'}], 'annotations': [{'start': 15, 'end': 18, 'probability': 0.5402, 'type': 'Person', 'normalized_text': 'mike'}]}",0.0
+311,1501228058107584514,2022-03-08 16:07:15+00:00,False,"goop morning and happy international women’s day! 
+
+y’all want a twitter space tomorrow?? 
+🥺👉👈 https://t.co/FiH7Aqgbf1",23,15,114,,{'media_keys': ['3_1501228053543927813']},"{'urls': [{'start': 95, 'end': 118, 'url': 'https://t.co/FiH7Aqgbf1', 'expanded_url': 'https://twitter.com/goopdoods/status/1501228058107584514/photo/1', 'display_url': 'pic.twitter.com/FiH7Aqgbf1'}]}",1.0
+312,1500975210102759430,2022-03-07 23:22:31+00:00,False,"7777 on the 7th - it’s giveaway time. who’s feeling lucky? 🎰
+
+not a lambo, but still wanted to give something back as a thank you 💕 
+
+goop luck everyone! https://t.co/SaFO5kECGt",732,742,887,,{'media_keys': ['3_1500975202762739713']},"{'urls': [{'start': 154, 'end': 177, 'url': 'https://t.co/SaFO5kECGt', 'expanded_url': 'https://twitter.com/goopdoods/status/1500975210102759430/photo/1', 'display_url': 'pic.twitter.com/SaFO5kECGt'}]}",10.0
+313,1500843899291680770,2022-03-07 14:40:44+00:00,False,"gm
+
+poncho goop for the monday blues ☔️ https://t.co/6oYDQQupuZ",27,11,173,,{'media_keys': ['3_1500843894606606338']},"{'urls': [{'start': 40, 'end': 63, 'url': 'https://t.co/6oYDQQupuZ', 'expanded_url': 'https://twitter.com/goopdoods/status/1500843899291680770/photo/1', 'display_url': 'pic.twitter.com/6oYDQQupuZ'}]}",0.0
+314,1500629348352675840,2022-03-07 00:28:11+00:00,True,@andrwwang @shakeshack @DennysDiner hey lol,0,1,30,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'andrwwang', 'id': '1414785960773103616'}, {'start': 11, 'end': 22, 'username': 'shakeshack', 'id': '212255045'}, {'start': 23, 'end': 35, 'username': 'DennysDiner', 'id': '23112346'}]}",0.0
+315,1500625296365600769,2022-03-07 00:12:05+00:00,False,"😮
+
+10 people who like and rt will be disappointed because we don’t engagement farm 🙃💕 https://t.co/Jblmve9azV",204,55,362,,{'media_keys': ['3_1500625290434912262']},"{'urls': [{'start': 86, 'end': 109, 'url': 'https://t.co/Jblmve9azV', 'expanded_url': 'https://twitter.com/goopdoods/status/1500625296365600769/photo/1', 'display_url': 'pic.twitter.com/Jblmve9azV'}]}",1.0
+316,1500123830815240196,2022-03-05 14:59:26+00:00,False,"gm
+
+saturdays are for the goop couch 🛋 https://t.co/PxLxp7x91L",21,13,163,,{'media_keys': ['3_1500123827342352388']},"{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/PxLxp7x91L', 'expanded_url': 'https://twitter.com/goopdoods/status/1500123830815240196/photo/1', 'display_url': 'pic.twitter.com/PxLxp7x91L'}]}",7.0
+317,1499787546875908102,2022-03-04 16:43:10+00:00,False,"tgif
+
+let’s get weird
+
+interact with this tweet and we will give you nothing for doing so - absolutely nothing
+
+this isn’t reverse psychology. do not expect to get anything from interacting here 
+
+AMA in the swamp tonight with the founders, @toronto_person, and @daniel100eth! 🤝 https://t.co/TpNjU8zBeJ",97,56,296,,{'media_keys': ['3_1499787539510607878']},"{'urls': [{'start': 279, 'end': 302, 'url': 'https://t.co/TpNjU8zBeJ', 'expanded_url': 'https://twitter.com/goopdoods/status/1499787546875908102/photo/1', 'display_url': 'pic.twitter.com/TpNjU8zBeJ'}], 'mentions': [{'start': 241, 'end': 256, 'username': 'toronto_person', 'id': '1121479288035921920'}, {'start': 262, 'end': 275, 'username': 'daniel100eth', 'id': '1316779015777198088'}]}",7.0
+318,1499540961898074117,2022-03-04 00:23:20+00:00,False,"did you know? 
+by using @AzukiZen's ERC721A to implement the goop contract, we cut gas anywhere from 50-85% (depending on number of mints) by taking advantage of inefficiencies in the native ERC721 standard - all to ensure a smooth (and CHEAP‼️) mint for you goopers 💕 https://t.co/p972qqqFff",35,13,177,,{'media_keys': ['3_1499540955178930179']},"{'urls': [{'start': 269, 'end': 292, 'url': 'https://t.co/p972qqqFff', 'expanded_url': 'https://twitter.com/goopdoods/status/1499540961898074117/photo/1', 'display_url': 'pic.twitter.com/p972qqqFff'}], 'mentions': [{'start': 24, 'end': 33, 'username': 'AzukiZen', 'id': '1432583226707484676'}]}",2.0
+319,1499478511148544002,2022-03-03 20:15:10+00:00,False,cool opportunity to get gooplisted thanks to @TheShamdoo and the new @HeadDaoNFT marketplace! https://t.co/8mHMQRySSU,6,4,47,,,"{'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/8mHMQRySSU', 'expanded_url': 'https://twitter.com/HeadDaoNFT/status/1499458442150490114', 'display_url': 'twitter.com/HeadDaoNFT/sta…'}], 'mentions': [{'start': 45, 'end': 56, 'username': 'TheShamdoo', 'id': '1122211825452556288'}, {'start': 69, 'end': 80, 'username': 'HeadDaoNFT', 'id': '1449828133025157120'}]}",0.0
+320,1499411563874299906,2022-03-03 15:49:09+00:00,False,"after hearing community feedback, we’ve pushed our mint back to March 15.
+
+this will give us time to:
+- set up more collabs and continue growing organically
+- play more games in the swamp
+- gooplist a whole lot more of you 💕 https://t.co/g8pBm9h9Iv",54,36,254,,{'media_keys': ['3_1499411555733155841']},"{'urls': [{'start': 225, 'end': 248, 'url': 'https://t.co/g8pBm9h9Iv', 'expanded_url': 'https://twitter.com/goopdoods/status/1499411563874299906/photo/1', 'display_url': 'pic.twitter.com/g8pBm9h9Iv'}]}",18.0
+321,1499016512191016960,2022-03-02 13:39:21+00:00,True,@lance_ld @daniel100eth @nuclearnerds is this true @nuclearnerds,0,1,0,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'lance_ld', 'id': '577132696'}, {'start': 10, 'end': 23, 'username': 'daniel100eth', 'id': '1316779015777198088'}, {'start': 24, 'end': 37, 'username': 'nuclearnerds', 'id': '1421087839354343424'}, {'start': 51, 'end': 64, 'username': 'nuclearnerds', 'id': '1421087839354343424'}]}",0.0
+322,1498825159842611200,2022-03-02 00:58:59+00:00,False,"goopdoods will mint on march 8th, a week from today. 
+
+the mint link will ONLY be distributed from our twitter - discord has been very susceptible to scams so we’d like to avoid that altogether. 
+
+interact with this tweet for nothing ✨ https://t.co/VL5ClFwZj6",117,65,423,,{'media_keys': ['3_1498825154742337536']},"{'urls': [{'start': 236, 'end': 259, 'url': 'https://t.co/VL5ClFwZj6', 'expanded_url': 'https://twitter.com/goopdoods/status/1498825159842611200/photo/1', 'display_url': 'pic.twitter.com/VL5ClFwZj6'}], 'annotations': [{'start': 103, 'end': 109, 'probability': 0.5868, 'type': 'Product', 'normalized_text': 'twitter'}]}",4.0
+323,1498666993192480771,2022-03-01 14:30:29+00:00,False,heheheh who’s that little fella and what’s he doing perched up there https://t.co/wTLOw1frKr,45,29,241,,{'media_keys': ['3_1498666988058648583']},"{'urls': [{'start': 69, 'end': 92, 'url': 'https://t.co/wTLOw1frKr', 'expanded_url': 'https://twitter.com/goopdoods/status/1498666993192480771/photo/1', 'display_url': 'pic.twitter.com/wTLOw1frKr'}]}",2.0
+324,1498312691932450821,2022-02-28 15:02:37+00:00,False,"goooooop morning
+
+interact with this tweet for a chance at nothing 🌈💕 https://t.co/0SN5G34dob",170,122,482,,{'media_keys': ['3_1498312683820658700']},"{'urls': [{'start': 70, 'end': 93, 'url': 'https://t.co/0SN5G34dob', 'expanded_url': 'https://twitter.com/goopdoods/status/1498312691932450821/photo/1', 'display_url': 'pic.twitter.com/0SN5G34dob'}]}",6.0
+325,1497986060047069189,2022-02-27 17:24:42+00:00,False,"SITE LIVE 
+
+https://t.co/uhM0tm38hA
+
+MINT DATE ANNOUNCEMENT SOON 🤩",46,31,155,,,"{'urls': [{'start': 12, 'end': 35, 'url': 'https://t.co/uhM0tm38hA', 'expanded_url': 'http://goopdoods.io', 'display_url': 'goopdoods.io'}]}",2.0
+326,1497759202638446595,2022-02-27 02:23:15+00:00,False,"GOOPVAULT! 
+the GOOPVAULT will be used to fund our future goals; the vault will receive about $1M upon selling out (35% of primary sales) and 70% of all secondary royalties. we cannot wait to have it up and running for the community! https://t.co/vZpRLMwwsn",36,15,146,,{'media_keys': ['3_1497759198867865603']},"{'urls': [{'start': 234, 'end': 257, 'url': 'https://t.co/vZpRLMwwsn', 'expanded_url': 'https://twitter.com/goopdoods/status/1497759202638446595/photo/1', 'display_url': 'pic.twitter.com/vZpRLMwwsn'}]}",1.0
+327,1497700380695834627,2022-02-26 22:29:31+00:00,False,poncho goop 🌧😳 https://t.co/lTIWYMVQxa,54,31,257,,{'media_keys': ['3_1497700377013149699']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/lTIWYMVQxa', 'expanded_url': 'https://twitter.com/goopdoods/status/1497700380695834627/photo/1', 'display_url': 'pic.twitter.com/lTIWYMVQxa'}]}",1.0
+328,1497613221729079299,2022-02-26 16:43:11+00:00,False,"we said we’d give him gooplist spots on his space last week
+
+so we did
+
+good presale chance for anyone who wants it! https://t.co/xDXp7Vi75R",47,27,132,,,"{'urls': [{'start': 117, 'end': 140, 'url': 'https://t.co/xDXp7Vi75R', 'expanded_url': 'https://twitter.com/cooItimes/status/1497608207342223365', 'display_url': 'twitter.com/cooItimes/stat…'}]}",0.0
+329,1497576167372734464,2022-02-26 14:15:56+00:00,False,"sunburnt goop for today 
+
+carry on! https://t.co/Y3na4Wf4F4",34,16,190,,{'media_keys': ['3_1497576161328734212']},"{'urls': [{'start': 36, 'end': 59, 'url': 'https://t.co/Y3na4Wf4F4', 'expanded_url': 'https://twitter.com/goopdoods/status/1497576167372734464/photo/1', 'display_url': 'pic.twitter.com/Y3na4Wf4F4'}]}",1.0
+330,1497322486140219392,2022-02-25 21:27:54+00:00,True,@imonfoodstamps2 0.o,0,0,3,,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'imonfoodstamps2', 'id': '1457040919786659841'}]}",0.0
+331,1497210224368889862,2022-02-25 14:01:48+00:00,False,"goop morning everyone ☀️
+
+fan art by @Fabiomnluz https://t.co/UqToiBkd6h",35,20,181,,{'media_keys': ['3_1497210221030162446']},"{'urls': [{'start': 49, 'end': 72, 'url': 'https://t.co/UqToiBkd6h', 'expanded_url': 'https://twitter.com/goopdoods/status/1497210224368889862/photo/1', 'display_url': 'pic.twitter.com/UqToiBkd6h'}], 'mentions': [{'start': 37, 'end': 48, 'username': 'Fabiomnluz', 'id': '1422711212'}]}",0.0
+332,1496954718001803267,2022-02-24 21:06:31+00:00,True,"@Fabiomnluz holy… can we post this and credit you? 
+
+(and gooplist you 😉)",0,1,2,,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'Fabiomnluz', 'id': '1422711212'}]}",0.0
+333,1496953564471693324,2022-02-24 21:01:56+00:00,False,whole lotta… https://t.co/6T4MHZrbFj,71,49,325,,{'media_keys': ['3_1496953558129856519']},"{'urls': [{'start': 13, 'end': 36, 'url': 'https://t.co/6T4MHZrbFj', 'expanded_url': 'https://twitter.com/goopdoods/status/1496953564471693324/photo/1', 'display_url': 'pic.twitter.com/6T4MHZrbFj'}]}",1.0
+334,1496525525954842625,2022-02-23 16:41:04+00:00,False,"goop morning everyone, hope you enjoyed hearing us on @cooItimes space last night! 
+
+here’s some more generated goops from our latest test run 🤩🤩 
+
+carry on! https://t.co/6JoF1wYyB6",91,56,360,,{'media_keys': ['16_1496525514152030210']},"{'urls': [{'start': 158, 'end': 181, 'url': 'https://t.co/6JoF1wYyB6', 'expanded_url': 'https://twitter.com/goopdoods/status/1496525525954842625/photo/1', 'display_url': 'pic.twitter.com/6JoF1wYyB6'}], 'mentions': [{'start': 54, 'end': 64, 'username': 'cooItimes', 'id': '381127643'}]}",5.0
+335,1496291297929441285,2022-02-23 01:10:19+00:00,True,@UtdoggyDawg the ol half dox,0,1,2,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'UtdoggyDawg', 'id': '868566888720326656'}]}",0.0
+336,1496279077656932354,2022-02-23 00:21:46+00:00,True,@rorsplash we outcheaaaa,0,1,0,,,,0.0
+337,1496188942458265603,2022-02-22 18:23:36+00:00,False,"new trait alert: puke 🤮🤮🤮
+
+more gooplist giveaways in the swamp!
+https://t.co/98KbXdpwUy https://t.co/88bsGAHHD8",52,17,212,,{'media_keys': ['3_1496188938809233411']},"{'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/98KbXdpwUy', 'expanded_url': 'http://discord.gg/goopdoods', 'display_url': 'discord.gg/goopdoods'}, {'start': 89, 'end': 112, 'url': 'https://t.co/88bsGAHHD8', 'expanded_url': 'https://twitter.com/goopdoods/status/1496188942458265603/photo/1', 'display_url': 'pic.twitter.com/88bsGAHHD8'}]}",3.0
+338,1495960179367677953,2022-02-22 03:14:35+00:00,False,"way quicker than we expected.
+
+love u goopers 💕
+
+got a big list to fill… https://t.co/JozLKzCTQo",62,31,226,,{'media_keys': ['3_1495960175018229761']},"{'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/JozLKzCTQo', 'expanded_url': 'https://twitter.com/goopdoods/status/1495960179367677953/photo/1', 'display_url': 'pic.twitter.com/JozLKzCTQo'}]}",3.0
+339,1495897060717076481,2022-02-21 23:03:46+00:00,False,"we’ll be on around 7:55pm EST tomorrow! 
+
+make sure to tune in - we may drop some more news… https://t.co/aUaKWhGYqB",21,13,61,,,"{'urls': [{'start': 93, 'end': 116, 'url': 'https://t.co/aUaKWhGYqB', 'expanded_url': 'https://twitter.com/cooItimes/status/1495890506676682752', 'display_url': 'twitter.com/cooItimes/stat…'}]}",1.0
+340,1495883743432744964,2022-02-21 22:10:51+00:00,False,"we’ve kept quiet about this in trying to build an authentic community, but now we want to thank special goopers (and communities 👀)
+
+the GOOPLIST is real.
+
+don’t waste time grinding aimlessly - you don’t find the GOOPLIST, the GOOPLIST finds you.
+
+btw - mint will be mid-march. https://t.co/Mnd6WXBRmO",134,103,377,,{'media_keys': ['3_1495883738743558150']},"{'urls': [{'start': 278, 'end': 301, 'url': 'https://t.co/Mnd6WXBRmO', 'expanded_url': 'https://twitter.com/goopdoods/status/1495883743432744964/photo/1', 'display_url': 'pic.twitter.com/Mnd6WXBRmO'}]}",9.0
+341,1495473411262402573,2022-02-20 19:00:20+00:00,False,"doodz
+
+who’s tryna join the swamp tonight? 
+gonna open it up later 🐊 https://t.co/w9mDfqnAHb",61,34,259,,{'media_keys': ['16_1495473393013080070']},"{'urls': [{'start': 69, 'end': 92, 'url': 'https://t.co/w9mDfqnAHb', 'expanded_url': 'https://twitter.com/goopdoods/status/1495473411262402573/photo/1', 'display_url': 'pic.twitter.com/w9mDfqnAHb'}]}",6.0
+342,1495433502459838479,2022-02-20 16:21:45+00:00,False,"thrilled to announce @daniel100eth has officially joined the goopdoods team as our project advisor. 
+
+he’s gonna advise us fr‼️ https://t.co/B6Necry4re",25,28,156,,{'media_keys': ['3_1495433497107963905']},"{'urls': [{'start': 128, 'end': 151, 'url': 'https://t.co/B6Necry4re', 'expanded_url': 'https://twitter.com/goopdoods/status/1495433502459838479/photo/1', 'display_url': 'pic.twitter.com/B6Necry4re'}], 'annotations': [{'start': 100, 'end': 101, 'probability': 0.5634, 'type': 'Person', 'normalized_text': ''}], 'mentions': [{'start': 21, 'end': 34, 'username': 'daniel100eth', 'id': '1316779015777198088'}]}",1.0
+343,1495018583822417922,2022-02-19 12:53:01+00:00,False,"goop morning
+
+say it back https://t.co/cSE9wqDz80",41,162,275,,{'media_keys': ['3_1495018575500914694']},"{'urls': [{'start': 26, 'end': 49, 'url': 'https://t.co/cSE9wqDz80', 'expanded_url': 'https://twitter.com/goopdoods/status/1495018583822417922/photo/1', 'display_url': 'pic.twitter.com/cSE9wqDz80'}]}",0.0
+344,1494865136061931526,2022-02-19 02:43:16+00:00,False,RT @girldadNFT: rumbleeeee @goopdoods,4,0,0,,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'girldadNFT', 'id': '1350816981851664384'}, {'start': 27, 'end': 37, 'username': 'goopdoods', 'id': '1435251083949993984'}]}",0.0
+345,1494686076799234049,2022-02-18 14:51:45+00:00,False,"#NewProfilePic GOOPLESS DOOD
+
+carry on! https://t.co/KHIxFlDh65",51,37,221,,{'media_keys': ['3_1494686073867407360']},"{'urls': [{'start': 40, 'end': 63, 'url': 'https://t.co/KHIxFlDh65', 'expanded_url': 'https://twitter.com/goopdoods/status/1494686076799234049/photo/1', 'display_url': 'pic.twitter.com/KHIxFlDh65'}], 'hashtags': [{'start': 0, 'end': 14, 'tag': 'NewProfilePic'}]}",1.0
+346,1494442176046055424,2022-02-17 22:42:34+00:00,False,day n nite https://t.co/VHrKCnvmbV,68,35,223,,{'media_keys': ['16_1494442154780991490']},"{'urls': [{'start': 11, 'end': 34, 'url': 'https://t.co/VHrKCnvmbV', 'expanded_url': 'https://twitter.com/goopdoods/status/1494442176046055424/photo/1', 'display_url': 'pic.twitter.com/VHrKCnvmbV'}]}",0.0
+347,1494422336367435777,2022-02-17 21:23:44+00:00,False,"emoji goop by metarchitect#8843
+
+energy in the swamp is amazing.
+
+big announcement soon 🤔 https://t.co/ad7P1BfAbk",32,15,162,,{'media_keys': ['3_1494422333032960003']},"{'urls': [{'start': 90, 'end': 113, 'url': 'https://t.co/ad7P1BfAbk', 'expanded_url': 'https://twitter.com/goopdoods/status/1494422336367435777/photo/1', 'display_url': 'pic.twitter.com/ad7P1BfAbk'}]}",0.0
+348,1494354537171324935,2022-02-17 16:54:20+00:00,False,RT @shollallohs: My first NFT sale! A pretty surreal moment and has helped fuel that illustration 🔥 even more 😊,12,0,0,,,,0.0
+349,1494336868472659974,2022-02-17 15:44:07+00:00,False,"goop morning
+
+discord doubled yesterday even though it was closed for 23 hours. special shoutout to our @doodles fam for coming thru and vibing in the swamp
+
+good day to play. get outside!
+
+#LifeIsGoop",29,27,161,,,"{'hashtags': [{'start': 190, 'end': 201, 'tag': 'LifeIsGoop'}], 'mentions': [{'start': 104, 'end': 112, 'username': 'doodles', 'id': '1405701429646430212'}]}",0.0
+350,1494197603327746052,2022-02-17 06:30:44+00:00,True,"@KieranLevin_ @tropoFarmer can confirm we don’t want you grinding
+
+some of these discords have become hellscapes. the swamp is different",1,2,3,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'KieranLevin_', 'id': '1456620310527102976'}, {'start': 14, 'end': 26, 'username': 'tropoFarmer', 'id': '16273846'}]}",0.0
+351,1494184368755073031,2022-02-17 05:38:08+00:00,True,@tropoFarmer 🤔🤔🤔,0,5,17,,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'tropoFarmer', 'id': '16273846'}]}",0.0
+352,1494156173536370690,2022-02-17 03:46:06+00:00,False,"goop night everyone ❤️ more fun tomorrow
+
+p.s. drink some water before you go to bed https://t.co/LN5lG0vCnL",53,39,309,,{'media_keys': ['3_1494156170176700423']},"{'urls': [{'start': 85, 'end': 108, 'url': 'https://t.co/LN5lG0vCnL', 'expanded_url': 'https://twitter.com/goopdoods/status/1494156173536370690/photo/1', 'display_url': 'pic.twitter.com/LN5lG0vCnL'}]}",2.0
+353,1494031957570818050,2022-02-16 19:32:31+00:00,False,"discord closed again - happy to welcome another 1000+ goopers. 
+
+if you’re stuck on verify, just give it a sec - you made it into the swamp. 
+
+Asia: we got you with another link tonight 🤝
+
+#LifeIsGoop https://t.co/zIrZpasTZw",39,33,198,,{'media_keys': ['3_1494031945801601025']},"{'urls': [{'start': 201, 'end': 224, 'url': 'https://t.co/zIrZpasTZw', 'expanded_url': 'https://twitter.com/goopdoods/status/1494031957570818050/photo/1', 'display_url': 'pic.twitter.com/zIrZpasTZw'}], 'hashtags': [{'start': 189, 'end': 200, 'tag': 'LifeIsGoop'}]}",0.0
+354,1494013487470809091,2022-02-16 18:19:07+00:00,True,@cryptoceej69 @toronto_person link coming for Asia in the morning!! get some sleep - check back around 9-10am your time. goop night sweet dreams,0,1,1,,,"{'annotations': [{'start': 46, 'end': 49, 'probability': 0.7163, 'type': 'Place', 'normalized_text': 'Asia'}], 'mentions': [{'start': 0, 'end': 13, 'username': 'cryptoceej69', 'id': '928172793262260224'}, {'start': 14, 'end': 29, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",0.0
+355,1494011851503509504,2022-02-16 18:12:37+00:00,False,"here’s some gems from @toronto_person‘s Instagram - he’s been drawing goopdoods for years.
+
+give Andy a follow!
+
+(oh and - swamp reopening for a bit in around an hour. we’ll tweet a link for y’all like yesterday 🐊) https://t.co/pShRFCN055",40,30,168,,"{'media_keys': ['3_1494011824848711694', '3_1494011824857092098', '3_1494011824890695683', '3_1494011824865427460']}","{'urls': [{'start': 215, 'end': 238, 'url': 'https://t.co/pShRFCN055', 'expanded_url': 'https://twitter.com/goopdoods/status/1494011851503509504/photo/1', 'display_url': 'pic.twitter.com/pShRFCN055'}, {'start': 215, 'end': 238, 'url': 'https://t.co/pShRFCN055', 'expanded_url': 'https://twitter.com/goopdoods/status/1494011851503509504/photo/1', 'display_url': 'pic.twitter.com/pShRFCN055'}, {'start': 215, 'end': 238, 'url': 'https://t.co/pShRFCN055', 'expanded_url': 'https://twitter.com/goopdoods/status/1494011851503509504/photo/1', 'display_url': 'pic.twitter.com/pShRFCN055'}, {'start': 215, 'end': 238, 'url': 'https://t.co/pShRFCN055', 'expanded_url': 'https://twitter.com/goopdoods/status/1494011851503509504/photo/1', 'display_url': 'pic.twitter.com/pShRFCN055'}], 'annotations': [{'start': 40, 'end': 48, 'probability': 0.5641, 'type': 'Product', 'normalized_text': 'Instagram'}, {'start': 97, 'end': 100, 'probability': 0.7794, 'type': 'Person', 'normalized_text': 'Andy'}], 'mentions': [{'start': 22, 'end': 37, 'username': 'toronto_person', 'id': '1121479288035921920'}]}",3.0
+356,1493951185388449793,2022-02-16 14:11:33+00:00,True,@LimJocelyn2 we’ll have another window tonight for our eastern hemisphere friends - maybe around 10-11am tomorrow in Singapore. can’t wait to see you in the swamp!,2,3,5,,,"{'annotations': [{'start': 117, 'end': 125, 'probability': 0.9918, 'type': 'Place', 'normalized_text': 'Singapore'}]}",1.0
+357,1493950157792157701,2022-02-16 14:07:28+00:00,False,"goop morning
+
+this looks rare
+
+handing out our early roles this morning and then the discord will be opening back up for new members throughout the day! 
+
+#LifeIsGoop https://t.co/qtOOlQ7uUt",84,78,355,,{'media_keys': ['3_1493950154147352589']},"{'urls': [{'start': 167, 'end': 190, 'url': 'https://t.co/qtOOlQ7uUt', 'expanded_url': 'https://twitter.com/goopdoods/status/1493950157792157701/photo/1', 'display_url': 'pic.twitter.com/qtOOlQ7uUt'}], 'hashtags': [{'start': 155, 'end': 166, 'tag': 'LifeIsGoop'}]}",0.0
+358,1493805950117072899,2022-02-16 04:34:26+00:00,False,"goop night everyone 💕
+
+here’s some fan art by @LGredoire that we pulled from the swamp
+
+swamp expands tomorrow 🫂 https://t.co/N6M5fHsH5G",34,17,160,,{'media_keys': ['3_1493805946048552964']},"{'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/N6M5fHsH5G', 'expanded_url': 'https://twitter.com/goopdoods/status/1493805950117072899/photo/1', 'display_url': 'pic.twitter.com/N6M5fHsH5G'}], 'mentions': [{'start': 46, 'end': 56, 'username': 'LGredoire', 'id': '1393504883211386880'}]}",0.0
+359,1493733809912643585,2022-02-15 23:47:47+00:00,False,do people like the swamp,36,93,271,,,,2.0
+360,1493721696947384321,2022-02-15 22:59:39+00:00,False,"over 2500 of you joined in the first 30 minutes. 
+safe to say the swamp is closed for the day. 
+more boats &amp; art tomorrow 🛏❤️ https://t.co/Zk4PGFhNIi",23,24,176,,{'media_keys': ['3_1493721692195205123']},"{'urls': [{'start': 130, 'end': 153, 'url': 'https://t.co/Zk4PGFhNIi', 'expanded_url': 'https://twitter.com/goopdoods/status/1493721696947384321/photo/1', 'display_url': 'pic.twitter.com/Zk4PGFhNIi'}]}",0.0
+361,1493714406110343173,2022-02-15 22:30:40+00:00,False,"ok you mfers broke our verify bot
+
+fixing it now. the swamp awaits",20,45,193,,,,0.0
+362,1493701373157859331,2022-02-15 21:38:53+00:00,True,@CheesyKimbapeu we’re begging you to sleep,0,7,14,,,"{'mentions': [{'start': 0, 'end': 15, 'username': 'CheesyKimbapeu', 'id': '1418491853817532416'}]}",0.0
+363,1493701136108433415,2022-02-15 21:37:57+00:00,False,"we hear you - 100 filled way too quickly for any mobile users to have a chance. 
+
+next boat will be different
+
+do not lose sleep over this project 🙏",31,55,258,,,,1.0
+364,1493697487307161601,2022-02-15 21:23:27+00:00,False,"closed in under a minute
+
+more boats departing to the swamp soon, but we’ll stop spamming you for now. 
+
+here’s another dood while ya wait 💕 https://t.co/YAnHYGFlE7",38,53,224,,{'media_keys': ['3_1493697482055987203']},"{'urls': [{'start': 141, 'end': 164, 'url': 'https://t.co/YAnHYGFlE7', 'expanded_url': 'https://twitter.com/goopdoods/status/1493697487307161601/photo/1', 'display_url': 'pic.twitter.com/YAnHYGFlE7'}]}",1.0
+365,1493695467288473603,2022-02-15 21:15:25+00:00,False,new boat headed to the swamp departing at 4:20 EST 🥬,24,34,188,,,,0.0
+366,1493693411379277824,2022-02-15 21:07:15+00:00,True,@santadood sorry - we’re trying to keep it bot-proof,0,2,5,,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'santadood', 'id': '1434872739047772166'}]}",0.0
+367,1493686653394821130,2022-02-15 20:40:24+00:00,False,"first link filled in under 2 minutes (!!!) - will tweet another one shortly
+
+this isn’t necessarily for any WL, we just don’t want to open the flood gates all at once. you may get a special role tho… 👀",34,58,239,,,,1.0
+368,1493591067014443009,2022-02-15 14:20:34+00:00,False,"gm, who’s ready for the discord? 
+
+it’s quiet in the swamp 🐊
+
+#lifeisgoop",83,239,585,,,"{'hashtags': [{'start': 62, 'end': 73, 'tag': 'lifeisgoop'}]}",4.0
+369,1493382730616344580,2022-02-15 00:32:43+00:00,False,fuck it. goopdood. https://t.co/NUKwn2ko4b,166,127,699,,{'media_keys': ['3_1493382724421365762']},"{'urls': [{'start': 19, 'end': 42, 'url': 'https://t.co/NUKwn2ko4b', 'expanded_url': 'https://twitter.com/goopdoods/status/1493382730616344580/photo/1', 'display_url': 'pic.twitter.com/NUKwn2ko4b'}]}",7.0
+370,1493265509801988098,2022-02-14 16:46:55+00:00,False,"day 2 in the books… y’all crazy 
+
+we literally posted 1 gif 
+
+more art today, discord tomorrow 🤫😈 https://t.co/BU0ofEqJi1",124,126,554,,{'media_keys': ['3_1493265506320760838']},"{'urls': [{'start': 98, 'end': 121, 'url': 'https://t.co/BU0ofEqJi1', 'expanded_url': 'https://twitter.com/goopdoods/status/1493265509801988098/photo/1', 'display_url': 'pic.twitter.com/BU0ofEqJi1'}]}",3.0
+371,1492994209313394688,2022-02-13 22:48:52+00:00,False,"we have gotten permission from @2pmflow to use Azuki’s ERC721A contract for our mint
+
+f gas",39,49,321,,,"{'annotations': [{'start': 47, 'end': 61, 'probability': 0.3222, 'type': 'Product', 'normalized_text': 'Azuki’s ERC721A'}], 'mentions': [{'start': 31, 'end': 39, 'username': '2pmflow', 'id': '1441165034923565059'}]}",2.0
+372,1492913225226235912,2022-02-13 17:27:04+00:00,False,"day 1. 
+
+love you all &amp; can’t wait to get goopy 
+
+discord v soon 🤝💕 https://t.co/FbSWaLNK8U",68,69,336,,{'media_keys': ['3_1492913221241610241']},"{'urls': [{'start': 72, 'end': 95, 'url': 'https://t.co/FbSWaLNK8U', 'expanded_url': 'https://twitter.com/goopdoods/status/1492913225226235912/photo/1', 'display_url': 'pic.twitter.com/FbSWaLNK8U'}]}",2.0
+373,1492884420382138371,2022-02-13 15:32:36+00:00,True,https://t.co/nfKkgkMGfv,23,13,194,,{'media_keys': ['3_1492884417240522753']},"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/nfKkgkMGfv', 'expanded_url': 'https://twitter.com/goopdoods/status/1492884420382138371/photo/1', 'display_url': 'pic.twitter.com/nfKkgkMGfv'}]}",0.0
+374,1492870681863860225,2022-02-13 14:38:01+00:00,True,@itstylersays literally anyone,1,3,30,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'itstylersays', 'id': '2289922827'}]}",0.0
+375,1492870016630411267,2022-02-13 14:35:22+00:00,False,anyone who interacts with this tweet,262,311,949,,,,3.0
+376,1492597302149664778,2022-02-12 20:31:42+00:00,True,@SpicyNFT the goop gods agree,0,1,2,,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'SpicyNFT', 'id': '1424825775233114116'}]}",0.0
+377,1492580176504537089,2022-02-12 19:23:39+00:00,True,@itstylersays we on demon time now 😈😈,1,2,6,,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'itstylersays', 'id': '2289922827'}]}",0.0
+378,1492579456959107074,2022-02-12 19:20:47+00:00,True,@NonFungibleKong what’s a whitelist?,0,3,13,,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'NonFungibleKong', 'id': '1229595252757028866'}]}",0.0
+379,1492579378953428999,2022-02-12 19:20:29+00:00,True,@iApoorvAgarwal https://t.co/HSaE6b51Le,0,0,6,,{'media_keys': ['3_1492579375014948868']},"{'urls': [{'start': 16, 'end': 39, 'url': 'https://t.co/HSaE6b51Le', 'expanded_url': 'https://twitter.com/goopdoods/status/1492579378953428999/photo/1', 'display_url': 'pic.twitter.com/HSaE6b51Le'}], 'mentions': [{'start': 0, 'end': 15, 'username': 'iApoorvAgarwal', 'id': '731505418489356288'}]}",0.0
+380,1492576093286633479,2022-02-12 19:07:26+00:00,False,loading… https://t.co/lfgCpD2flU,222,143,807,,{'media_keys': ['16_1492575993600659464']},"{'urls': [{'start': 9, 'end': 32, 'url': 'https://t.co/lfgCpD2flU', 'expanded_url': 'https://twitter.com/goopdoods/status/1492576093286633479/photo/1', 'display_url': 'pic.twitter.com/lfgCpD2flU'}]}",18.0
