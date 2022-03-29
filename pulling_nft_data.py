@@ -3,6 +3,8 @@ import csv
 import numpy as np
 import pandas as pd
 
+#RUN THIS TO COLLECT CSV DATA
+
 #Open twitter handles of projects we are looking at
 with open('Projects.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
@@ -21,7 +23,7 @@ for screen_name in twitter_names_list:
     my_screen_and_id = pull_data_from_twitter.get_user_data(screen_name)
     screen_and_id_list.append(my_screen_and_id)
 
-#Put twitter
+#Put twitter info into csv
 col_names = ['screen_name', 'id', 'followers', 'following']
 df = pd.DataFrame(screen_and_id_list, columns=col_names)
 df.to_csv('Account_Info.csv')
