@@ -12,7 +12,7 @@ time between posts STILL NEED TO DO
 #Retweet if this_is_reply is TRUE
 def get_tweet_metrics(my_csv_location):
     #my_csv_location = the folder location along with the .csv of the tweet data that we are analyzing
-    with open(my_csv_location, 'r') as csv_file:
+    with open(my_csv_location, 'r', encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file)
         list_of_rows = list(csv_reader)
     list_of_rows = np.array(list_of_rows)
@@ -35,7 +35,8 @@ def get_tweet_metrics(my_csv_location):
     no_retweets_replies_count = np.sum(no_retweets_list[:,6].astype(int))
     no_retweets_likes_count = np.sum(no_retweets_list[:,7].astype(int))
     
-    hours_between_posts = time_between_posts(no_retweets_list[:, 2])
+    no_retweets_hours_between = time_between_posts(no_retweets_list[:, 2])
+    retweets_hours_between = time_between_posts(list_of_rows[1:][:, 2])
     
     df = pd.DataFrame()
     df['my_retweets'] = [no_retweets_retweet_count]
@@ -44,7 +45,8 @@ def get_tweet_metrics(my_csv_location):
     df['rt_replies'] = [retweets_replies_count]
     df['my_likes'] = [no_retweets_likes_count]
     df['rt_likes'] = [retweets_likes_count]
-    df['hrs_between'] = [hours_between_posts]
+    df['my_hrs_between'] = [no_retweets_hours_between]
+    df['rt_hrs_between'] = [retweets_hours_between]
     return df
 
 def time_between_posts(list_of_dates):
@@ -61,8 +63,6 @@ def time_between_posts(list_of_dates):
     
     return tot_time/len(list_of_dates)
 
-
-    
 
 #metrics = get_tweet_metrics('nft_data/cartoonsnft.csv')
 #print(metrics)
