@@ -48,7 +48,7 @@ def get_tweet_data(my_id_enter):
 
     df.to_csv(str(my_id_enter[0])+'.csv')    
 
-    
+
 
 def get_user_data(screen_name):
     """
@@ -69,6 +69,8 @@ def get_user_data(screen_name):
 
 
 #my_id = get_user_data('badccvoid')
+#print(my_id)
 
-#get_tweet_data(my_id)
 
+#thingy = get_tweet_data(my_id)
+#print(thingy)

@@ -4,10 +4,7 @@ import matplotlib.pyplot as plt
 import csv
 import pandas as pd
 from datetime import datetime
-"""
-vars to get:
-time between posts STILL NEED TO DO
-"""
+
 #Retweet if RT at beginning of text
 #Retweet if this_is_reply is TRUE
 def get_tweet_metrics(my_csv_location):
@@ -64,5 +61,5 @@ def time_between_posts(list_of_dates):
     return tot_time/len(list_of_dates)
 
 
-#metrics = get_tweet_metrics('nft_data/cartoonsnft.csv')
+#metrics = get_tweet_metrics('badccvoid.csv')
 #print(metrics)
