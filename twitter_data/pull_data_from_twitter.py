@@ -1,5 +1,5 @@
 import tweepy
-import config
+import twitter_data.config as config
 import pandas as pd
 
 
