@@ -62,6 +62,3 @@ def time_between_posts(list_of_dates):
 
 #metrics = get_tweet_metrics('badccvoid.csv')
 #print(metrics)
-path = "nft_tweets\*.csv"
-for fname in glob.glob(path):
-    print(fname)
