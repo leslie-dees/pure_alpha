@@ -6,7 +6,7 @@ import pandas as pd
 #RUN THIS TO COLLECT CSV DATA
 
 #Open twitter handles of projects we are looking at
-with open('Projects.csv', 'r') as csv_file:
+with open('twitter_data/Projects.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
     list_of_rows = list(csv_reader)
     

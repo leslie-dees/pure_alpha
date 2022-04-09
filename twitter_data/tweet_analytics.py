@@ -1,9 +1,8 @@
-from pickle import TRUE
 import numpy as np
-import matplotlib.pyplot as plt
 import csv
 import pandas as pd
 from datetime import datetime
+import glob
 
 #Retweet if RT at beginning of text
 #Retweet if this_is_reply is TRUE
@@ -63,3 +62,6 @@ def time_between_posts(list_of_dates):
 
 #metrics = get_tweet_metrics('badccvoid.csv')
 #print(metrics)
+path = "nft_tweets\*.csv"
+for fname in glob.glob(path):
+    print(fname)
