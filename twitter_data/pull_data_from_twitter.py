@@ -1,6 +1,8 @@
 import tweepy
 import config as config
 import pandas as pd
+import csv
+import numpy as np
 
 
 
@@ -63,14 +65,58 @@ def get_user_data(screen_name):
     """
     client = tweepy.Client(bearer_token=config.BEARER_TOKEN, wait_on_rate_limit = True)
     twitterid = client.get_user(username=screen_name, user_fields='public_metrics')
+    my_array = []
 
-    return [screen_name, twitterid.data.id, twitterid.data.public_metrics['followers_count'], twitterid.data.public_metrics['following_count']]
+    my_array.append(screen_name)
+    my_array.append(twitterid.data.id)
+    my_array.append(twitterid.data.public_metrics['followers_count'])
+    my_array.append(twitterid.data.public_metrics['following_count'])
+
+    
+
+    
 
 
+    return my_array
 
-my_id = get_user_data('ailoverse')
+def get_user_followers(screen_name):
+    client = tweepy.Client(bearer_token=config.BEARER_TOKEN, wait_on_rate_limit = True)
+    twitterid = client.get_user(username=screen_name)
+    my_id = twitterid.data.id
+    
+    all_follower_ids = []
+    for follower in tweepy.Paginator(client.get_users_followers, id = twitterid.data.id, max_results = 100).flatten(limit=1000):
+        this_twitter_follower_id = client.get_user(username=follower).data.id
+        all_follower_ids.append(this_twitter_follower_id)
+
+    
+def get_influencer_ids(path):
+    with open(path, 'r') as csv_file:
+        csv_reader = csv.reader(csv_file)
+        list_of_rows = list(csv_reader)
+    list_of_rows = np.array(list_of_rows)
+    twitter_handles_list = list_of_rows[1:]
+    twitter_names_list = []
+    for twitter_name in twitter_handles_list:
+        twitter_names_list.append(twitter_name[0][20:])
+
+    screen_and_id_list = []
+    for screen_name in twitter_names_list:
+        my_screen_and_id = get_user_data(screen_name)
+        screen_and_id_list.append(my_screen_and_id)
+
+    col_names = ['screen_name', 'id', 'followers', 'following']
+    df = pd.DataFrame(screen_and_id_list, columns = col_names)
+    df.to_csv('Influencer_id_whitelist.csv')
+path = 'twitter_data/Reputable_influencers.csv'
+
+
+#get_influencer_ids('twitter_data/Reputable_influencers.csv')
+#get_user_followers('ailoverse')
+
+#my_id = get_user_data('ailoverse')
 #print(my_id)
 
 
-thingy = get_tweet_data(my_id)
+#thingy = get_tweet_data(my_id)
 #print(thingy)
