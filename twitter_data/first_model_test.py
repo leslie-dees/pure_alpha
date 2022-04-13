@@ -13,7 +13,7 @@ y_data = my_data['Current FP (as of 3/17)']
 x_data = my_data.loc[:, my_data.columns !='Current FP (as of 3/17)']
 x_data = x_data.loc[:, x_data.columns != 'Twitter']
 
-alpha_tests = np.linspace(0.00000001, 0.001, 10)
+alpha_tests = [0.00001, 0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000]
 
 best_alpha = 0
 best_score = 0

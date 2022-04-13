@@ -60,5 +60,5 @@ def time_between_posts(list_of_dates):
     return tot_time/len(list_of_dates)
 
 
-#metrics = get_tweet_metrics('badccvoid.csv')
+#metrics = get_tweet_metrics('ailoverse.csv')
 #print(metrics)

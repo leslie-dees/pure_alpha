@@ -68,9 +68,9 @@ def get_user_data(screen_name):
 
 
 
-#my_id = get_user_data('badccvoid')
+my_id = get_user_data('ailoverse')
 #print(my_id)
 
 
-#thingy = get_tweet_data(my_id)
+thingy = get_tweet_data(my_id)
 #print(thingy)

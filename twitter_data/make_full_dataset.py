@@ -27,7 +27,7 @@ def make_full_dataset(path):
         nft_metadata = list(csv_reader)
     nft_metadata = np.array(nft_metadata)
 
-    useThisNFTdata = nft_metadata[:,[1, 4, 6, 7, 8]]
+    useThisNFTdata = nft_metadata[:,[1, 4, 6, 7]]
 
     colnames = useThisNFTdata[0][1:]
     final_data = []
@@ -54,4 +54,6 @@ def make_full_dataset(path):
     final_dataframe['Launch date'] = final_dataframe['Launch date'].map(dt.datetime.toordinal)
     return final_dataframe
 
-#my_data = make_full_dataset(path = "nft_tweets\*.csv")
+my_data = make_full_dataset(path = "nft_tweets\*.csv")
+
+print(my_data)
