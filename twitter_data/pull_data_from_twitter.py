@@ -72,23 +72,22 @@ def get_user_data(screen_name):
     my_array.append(twitterid.data.public_metrics['followers_count'])
     my_array.append(twitterid.data.public_metrics['following_count'])
 
-    
-
-    
-
-
     return my_array
 
-def get_user_followers(screen_name):
+def get_user_followers(my_id):
     client = tweepy.Client(bearer_token=config.BEARER_TOKEN, wait_on_rate_limit = True)
-    twitterid = client.get_user(username=screen_name)
-    my_id = twitterid.data.id
     
     all_follower_ids = []
-    for follower in tweepy.Paginator(client.get_users_followers, id = twitterid.data.id, max_results = 100).flatten(limit=1000):
+    for follower in tweepy.Paginator(client.get_users_followers, id = my_id, max_results = 100).flatten(limit=1000):
         this_twitter_follower_id = client.get_user(username=follower).data.id
         all_follower_ids.append(this_twitter_follower_id)
 
+def get_user_followings(my_id):
+    client = tweepy.Client(bearer_token=config.BEARER_TOKEN, wait_on_rate_limit=True)
+    all_following_ids = []
+    for following in tweepy.Paginator(client.get_users_following, id = my_id, max_results = 5000).flatten(limit = 3000):
+        all_following_ids.append(following.id)
+    return all_following_ids
     
 def get_influencer_ids(path):
     with open(path, 'r') as csv_file:
@@ -110,8 +109,26 @@ def get_influencer_ids(path):
     df.to_csv('Influencer_id_whitelist.csv')
 path = 'twitter_data/Reputable_influencers.csv'
 
+#get_influencer_ids(path)
+with open('Influencer_id_whitelist.csv', 'r') as csv_file:
+    csv_reader = csv.reader(csv_file)
+    list_of_rows = list(csv_reader)
+list_of_rows = np.array(list_of_rows)
+influencer_tot_list = list_of_rows[1:]
 
-#get_influencer_ids('twitter_data/Reputable_influencers.csv')
+for this_id in influencer_tot_list:
+    my_name = this_id[1]
+    my_id = this_id[2]
+    
+    my_following = get_user_followings(str(my_id))
+    my_followings_df = pd.DataFrame(my_following, columns = ['ids'])
+    my_followings_df.to_csv(my_name+'following.csv')
+    print(my_name)
+
+#my_following = get_user_followings('1020418150821744640')
+#my_followings_df = pd.DataFrame(my_following, columns = ['ids'])
+#my_followings_df.to_csv('BentoBoi_followings')
+#print(my_following)
 #get_user_followers('ailoverse')
 
 #my_id = get_user_data('ailoverse')
