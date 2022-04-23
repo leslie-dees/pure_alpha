@@ -26,7 +26,7 @@ with open('Account_Info.csv', 'r') as these_nfts:
 col_names = ['nft_name', 'influencer_name', 'is_influencer_following']
 
 total_nft_list = []
-for nfts in my_nfts[1:, 0][17:]:
+for nfts in my_nfts[1:, 0]:
     this_nft_list = []
     for influencer in my_influencers[1:, 0]:
         this_friendship = []
@@ -40,7 +40,7 @@ for nfts in my_nfts[1:, 0][17:]:
     this_nft_list = np.array(this_nft_list)
     nft_df = pd.DataFrame(this_nft_list, columns = col_names)
     nft_df.to_csv(str(nfts)+'_Followings.csv')
-
+    total_nft_list.append(this_nft_list)
 total_nft_list = np.array(total_nft_list)
 
 df = pd.DataFrame(total_nft_list, columns = col_names)
