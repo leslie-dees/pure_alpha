@@ -25,7 +25,7 @@ for alphas in alpha_tests:
     for i in range(100):
         x_train, x_test ,y_train, y_test = train_test_split(x_data, y_data, test_size=0.20)
 
-        clf = linear.Lasso(alpha = alphas, max_iter = 10000, fit_intercept=False, positive=True)
+        clf = linear.Lasso(alpha = alphas, max_iter = 10000, fit_intercept=False, positive=False)
         clf.fit(x_train, y_train)
         scores = clf.score(x_test, y_test)
         if (1 - scores) < min_score_dist:

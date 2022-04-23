@@ -1,0 +1,12 @@
+import csv
+
+import numpy as np
+import numpy as np
+
+with open('Account_Info.csv', 'r') as these_nfts:
+    csv_reader = csv.reader(these_nfts)
+    my_nfts = list(csv_reader)
+    my_nfts = np.array(my_nfts)
+    my_nfts = my_nfts[:, 1:]
+
+print(my_nfts[1:, 0][16:])
