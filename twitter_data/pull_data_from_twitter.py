@@ -85,7 +85,7 @@ def get_user_followers(my_id):
 def get_user_followings(my_id):
     client = tweepy.Client(bearer_token=config.BEARER_TOKEN, wait_on_rate_limit=True)
     all_following_ids = []
-    for following in tweepy.Paginator(client.get_users_following, id = my_id, max_results = 5000).flatten(limit = 3000):
+    for following in tweepy.Paginator(client.get_users_following, id = my_id, max_results = 1000).flatten(limit = 3000):
         all_following_ids.append(following.id)
     return all_following_ids
     
@@ -107,23 +107,7 @@ def get_influencer_ids(path):
     col_names = ['screen_name', 'id', 'followers', 'following']
     df = pd.DataFrame(screen_and_id_list, columns = col_names)
     df.to_csv('Influencer_id_whitelist.csv')
-path = 'twitter_data/Reputable_influencers.csv'
 
-#get_influencer_ids(path)
-with open('Influencer_id_whitelist.csv', 'r') as csv_file:
-    csv_reader = csv.reader(csv_file)
-    list_of_rows = list(csv_reader)
-list_of_rows = np.array(list_of_rows)
-influencer_tot_list = list_of_rows[1:]
-
-for this_id in influencer_tot_list:
-    my_name = this_id[1]
-    my_id = this_id[2]
-    
-    my_following = get_user_followings(str(my_id))
-    my_followings_df = pd.DataFrame(my_following, columns = ['ids'])
-    my_followings_df.to_csv(my_name+'following.csv')
-    print(my_name)
 
 #my_following = get_user_followings('1020418150821744640')
 #my_followings_df = pd.DataFrame(my_following, columns = ['ids'])

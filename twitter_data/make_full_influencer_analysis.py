@@ -20,9 +20,6 @@ with open('Account_Info.csv', 'r') as these_nfts:
     my_nfts = np.array(my_nfts)
     my_nfts = my_nfts[:, 1:]
 
-
-
-
 col_names = ['nft_name', 'influencer_name', 'is_influencer_following']
 
 total_nft_list = []
