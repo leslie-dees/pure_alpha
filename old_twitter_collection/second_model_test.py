@@ -4,21 +4,24 @@ from sklearn import linear_model as linear
 from sklearn.model_selection import train_test_split
 import warnings
 from sklearn.exceptions import ConvergenceWarning
+import csv
 
 warnings.simplefilter("ignore", category=ConvergenceWarning)
         
 
-my_data = make_full_dataset.make_full_dataset(path = "nft_tweets\*.csv")
-y_data = my_data['Current FP (as of 3/17)']
-x_data = my_data.loc[:, my_data.columns !='Current FP (as of 3/17)']
-x_data = x_data.loc[:, x_data.columns != 'Twitter']
-x_data = x_data.loc[:, x_data.columns != 'Launch date']
+my_path = input("Insert datapath: ")
 
-print(my_data)
+with open(my_path, 'r') as csv_file:
+    csv_reader = csv.reader()
+    list_of_rows = list(csv_reader)
+    list_of_rows = np.array(list_of_rows)
 
-x_train, x_test ,y_train, y_test = train_test_split(x_data, y_data, test_size=0.20)
+response_variable = list_of_rows[1, :]
+all_nft_parameters = list_of_rows[2:, :]
 
-clf = linear.Lasso(alpha = 1, max_iter= 100000, fit_intercept=False, positive = True)
+x_train, x_test ,y_train, y_test = train_test_split(all_nft_parameters, response_variable, test_size=0.20)
+
+clf = linear.Ridge(alpha = 1, max_iter= 100000, fit_intercept=False, positive = True)
 clf.fit(x_train, y_train)
 score = clf.score(x_test, y_test)
 print(score)

@@ -2,10 +2,10 @@ import numpy as np
 import csv
 import pandas as pd
 from datetime import datetime
-import glob
-from sqlalchemy import column
 import tweepy
 import config as config
+import discord_message_collection as dmc
+
 
 def create_influencer_list(self):
     #ONLY RUN THIS WHEN YOU NEED TO UPDATE INFLUENCER LIST
@@ -26,7 +26,7 @@ def create_influencer_list(self):
     df = pd.DataFrame(influencers_return, columns=['influencer_name', 'followers_count'])
     df[['followers_count']] = df[['followers_count']].apply(pd.to_numeric)
     max_followers = df['followers_count'].max()
-    print(type(max_followers))
+    
     df['regularized_followers'] = df['followers_count']/max_followers
     df.to_csv('Influencers_followers.csv')
 #create_influencer_list(1)
@@ -185,7 +185,7 @@ def influencer_data(nft_screen_name):
     return np.array(this_nft_array)
 
 #open twitter handles of projects we are looking at
-with open('twitter/Test_Projects.csv', 'r') as csv_file:
+with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
     list_of_rows = list(csv_reader)
     projects_list = np.array(list_of_rows)
@@ -201,11 +201,13 @@ with open('Account_Info.csv', 'r') as account_file:
 fullDataframe = pd.DataFrame(account_list[1:], columns=account_list[0])
 
 userDataCols = np.array(['screen_name', 'id', 'followers_count', 'following_count'])
+#fullDataframe['screen_name'].str.contains(my_name).any()
 
 for project in projects_list:
     my_name = project[1][20:]
     if fullDataframe['screen_name'].str.contains(my_name).any():
-        print("Dataframe contains "+my_name)
+        None
+
     else:
         print("Adding "+my_name+" to dataframe")
         #add basic nft data to dataframe
@@ -214,8 +216,13 @@ for project in projects_list:
 
         #add tweet metrics to dataframe
             #collect tweets from the time of this running
-        get_tweet_data(my_name, user_data[1])
-            #run tweet metrics
+        #ask if I need to collect tweet data
+        my_response = input("Should twitter data be collected? (y/n): ")
+        if my_response == 'y':
+            get_tweet_data(my_name, user_data[1])
+        if my_response =='n':
+            None
+        #run tweet metrics
         tweet_df = get_tweet_metrics('nft_tweets/'+str(my_name)+'.csv')
 
         #add time of collection to dataframe
@@ -227,12 +234,18 @@ for project in projects_list:
         influencer_df = pd.DataFrame([my_influencer_data], columns=['total_influencer_following', 'regularized_influencer_following'])
 
         new_nft_df = user_data_df.join(collection_time_df).join(tweet_df).join(influencer_df)
-        print(new_nft_df)
         
         #add mint price to dataframe
         #add discord metrics to dataframe
+        #total discord members
+        my_server_id = str(project[7])
+        member_count = dmc.get_approximate_member_count(my_server_id)
+        discord_data_df = pd.DataFrame([member_count], columns=['discord_member_count'])
+
+        new_nft_df = new_nft_df.join(discord_data_df)
+
         #add price of ETH at mint to dataframe
-        
+
         #add new dataframe to full dataframe
         fullDataframe = fullDataframe.append(new_nft_df)
         

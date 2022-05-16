@@ -1,17 +1,21 @@
 import numpy as np
-import make_full_dataset
 from sklearn import linear_model as linear
 from sklearn.model_selection import train_test_split
 import warnings
 from sklearn.exceptions import ConvergenceWarning
+import csv
 
 warnings.simplefilter("ignore", category=ConvergenceWarning)
-        
 
-my_data = make_full_dataset.make_full_dataset(path = "nft_tweets\*.csv")
-y_data = my_data['Current FP (as of 3/17)']
-x_data = my_data.loc[:, my_data.columns !='Current FP (as of 3/17)']
-x_data = x_data.loc[:, x_data.columns != 'Twitter']
+my_path = input("Insert datapath: ")
+
+with open(my_path, 'r') as csv_file:
+    csv_reader = csv.reader()
+    list_of_rows = list(csv_reader)
+    list_of_rows = np.array(list_of_rows)
+
+response_variable = list_of_rows[1, :]
+all_nft_parameters = list_of_rows[2:, :]
 
 alpha_tests = [0.00001, 0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000]
 
@@ -24,7 +28,7 @@ for alphas in alpha_tests:
     min_score = 10
     this_cod = 0
     for i in range(100):
-        x_train, x_test ,y_train, y_test = train_test_split(x_data, y_data, test_size=0.20)
+        x_train, x_test ,y_train, y_test = train_test_split(all_nft_parameters, response_variable, test_size=0.20)
 
         clf = linear.Lasso(alpha = alphas, max_iter = 10000, fit_intercept=False, positive=True)
         clf.fit(x_train, y_train)
