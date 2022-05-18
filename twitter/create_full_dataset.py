@@ -2,10 +2,11 @@ import numpy as np
 import csv
 import pandas as pd
 from datetime import datetime
+from datetime import timedelta
 import tweepy
 import config as config
 import discord_message_collection as dmc
-
+import pytz
 
 def create_influencer_list(self):
     #ONLY RUN THIS WHEN YOU NEED TO UPDATE INFLUENCER LIST
@@ -191,6 +192,8 @@ with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
     projects_list = np.array(list_of_rows)
     projects_list = projects_list[1:]
 
+
+
 #open existing list of account info
 with open('Account_Info.csv', 'r') as account_file:
     account_reader = csv.reader(account_file)
@@ -205,48 +208,71 @@ userDataCols = np.array(['screen_name', 'id', 'followers_count', 'following_coun
 
 for project in projects_list:
     my_name = project[1][20:]
+    my_date = project[3]
+    my_time = project[4]
+    if my_date == '':
+        print("Need to add time for "+str(project[0]))
+        continue
+    this_datetime_obj = datetime.strptime(my_date+my_time, '%m/%d/%Y%I:%M %p')
+    time_rn = datetime.today()
+
     if fullDataframe['screen_name'].str.contains(my_name).any():
         None
-
     else:
-        print("Adding "+my_name+" to dataframe")
-        #add basic nft data to dataframe
-        user_data = get_user_data(my_name)
-        user_data_df = pd.DataFrame([user_data], columns = userDataCols)
+        time_diff = this_datetime_obj - time_rn
+        if timedelta(hours=0) < time_diff < timedelta(hours=12):
+            print("Adding "+my_name+" to dataframe")
+            #add basic nft data to dataframe
+            user_data = get_user_data(my_name)
+            user_data_df = pd.DataFrame([user_data], columns = userDataCols)
 
-        #add tweet metrics to dataframe
-            #collect tweets from the time of this running
-        #ask if I need to collect tweet data
-        my_response = input("Should twitter data be collected? (y/n): ")
-        if my_response == 'y':
-            get_tweet_data(my_name, user_data[1])
-        if my_response =='n':
-            None
-        #run tweet metrics
-        tweet_df = get_tweet_metrics('nft_tweets/'+str(my_name)+'.csv')
+            #add tweet metrics to dataframe
+                #collect tweets from the time of this running
+            #ask if I need to collect tweet data
+            my_response = input("Should twitter data be collected? (y/n): ")
+            if my_response == 'y':
+                get_tweet_data(my_name, user_data[1])
+            if my_response =='n':
+                None
+            #run tweet metrics
+            tweet_df = get_tweet_metrics('nft_tweets/'+str(my_name)+'.csv')
 
-        #add time of collection to dataframe
-        collection_date = pd.to_datetime('now')
-        collection_time_df = pd.DataFrame([collection_date], columns=['collection_date'])
+            #add time of collection to dataframe
+            collection_date = pd.to_datetime('now')
+            collection_time_df = pd.DataFrame([collection_date], columns=['collection_date'])
 
-        #add influencer metrics to the dataframe
-        my_influencer_data = influencer_data(my_name)
-        influencer_df = pd.DataFrame([my_influencer_data], columns=['total_influencer_following', 'regularized_influencer_following'])
+            #add influencer metrics to the dataframe
+            my_influencer_data = influencer_data(my_name)
+            influencer_df = pd.DataFrame([my_influencer_data], columns=['total_influencer_following', 'regularized_influencer_following'])
 
-        new_nft_df = user_data_df.join(collection_time_df).join(tweet_df).join(influencer_df)
-        
-        #add mint price to dataframe
-        #add discord metrics to dataframe
-        #total discord members
-        my_server_id = str(project[7])
-        member_count = dmc.get_approximate_member_count(my_server_id)
-        discord_data_df = pd.DataFrame([member_count], columns=['discord_member_count'])
+            new_nft_df = user_data_df.join(collection_time_df).join(tweet_df).join(influencer_df)
+            
+            #add mint price to dataframe
+            #add discord metrics to dataframe
+            #total discord members
+            my_server_id = str(project[9])
+            member_count = dmc.get_approximate_member_count(my_server_id)
+            #time between posts for last 100 posts
+            my_general_channel_id = str(project[10])
+            minutes_between_activity = dmc.get_time_between_posts(my_general_channel_id)
+            #total online discord members
+            online_right_now = dmc.get_approximate_presence_count(my_server_id)
+            #ratio of online versus total members
+            ratio = online_right_now/member_count
+            
+            discord_data_df = pd.DataFrame([[member_count, online_right_now, ratio, minutes_between_activity]], columns=['discord_member_count', 'online_right_now', 'online_to_members_ratio', 'average_minutes_between_general_chat'])
 
-        new_nft_df = new_nft_df.join(discord_data_df)
+            new_nft_df = new_nft_df.join(discord_data_df)
 
-        #add price of ETH at mint to dataframe
+            #add price of ETH at mint to dataframe
 
-        #add new dataframe to full dataframe
-        fullDataframe = fullDataframe.append(new_nft_df)
+            #add new dataframe to full dataframe
+            fullDataframe = fullDataframe.append(new_nft_df)
+        else:
+            when_can_run = this_datetime_obj - timedelta(hours=12)
+            timezone = pytz.timezone('America/New_York')
+            run_at = when_can_run.astimezone(tz=timezone)
+
+            print("More than 12 hours until "+my_name+" drop, please run again at "+str(run_at)+' EST')
         
 fullDataframe.to_csv('Account_Info.csv', index=False)
