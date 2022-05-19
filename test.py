@@ -5,6 +5,7 @@ import csv
 import numpy as np
 import pytz
 
+<<<<<<< HEAD
 with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
     list_of_rows = list(csv_reader)
@@ -25,3 +26,6 @@ print(start_time)
 
 time_delta = start_time - time_rn
 print(time_delta)
+=======
+print("hello world")
+>>>>>>> 878fd4107cb7e57d83edf325114ac0d9d9a802d3
