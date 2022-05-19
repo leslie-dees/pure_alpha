@@ -30,6 +30,7 @@ def get_last_messages_from_channel(channel_id):
     m = [c['content'] for c in j]
     return m
 
+
 def get_time_between_posts(channel_id):
     #returns the average time between the last 100 posts in the channel in minutes
 
@@ -55,3 +56,5 @@ def get_time_between_posts(channel_id):
         time_diffs.append(diff_mins)
         
     return np.average(time_diffs)
+
+

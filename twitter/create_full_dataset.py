@@ -206,6 +206,9 @@ fullDataframe = pd.DataFrame(account_list[1:], columns=account_list[0])
 userDataCols = np.array(['screen_name', 'id', 'followers_count', 'following_count'])
 #fullDataframe['screen_name'].str.contains(my_name).any()
 
+#timezone used for date calculations
+timezone = pytz.timezone('America/New_York')
+
 for project in projects_list:
     my_name = project[1][20:]
     my_date = project[3]
@@ -213,8 +216,9 @@ for project in projects_list:
     if my_date == '':
         print("Need to add time for "+str(project[0]))
         continue
-    this_datetime_obj = datetime.strptime(my_date+my_time, '%m/%d/%Y%I:%M %p')
-    time_rn = datetime.today()
+    
+    this_datetime_obj = datetime.strptime(my_date+my_time, '%m/%d/%Y%I:%M %p').replace(tzinfo=timezone)
+    time_rn = datetime.now().astimezone(tz=timezone)
 
     if fullDataframe['screen_name'].str.contains(my_name).any():
         None
@@ -270,9 +274,9 @@ for project in projects_list:
             fullDataframe = fullDataframe.append(new_nft_df)
         else:
             when_can_run = this_datetime_obj - timedelta(hours=12)
-            timezone = pytz.timezone('America/New_York')
+            
             run_at = when_can_run.astimezone(tz=timezone)
-
-            print("More than 12 hours until "+my_name+" drop, please run again at "+str(run_at)+' EST')
+            hours_between = run_at - datetime.now(tz=timezone)
+            print("More than 12 hours until "+my_name+" drop, please run again in "+str(hours_between))
         
 fullDataframe.to_csv('Account_Info.csv', index=False)
