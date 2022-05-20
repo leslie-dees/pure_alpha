@@ -224,7 +224,7 @@ for project in projects_list:
         None
     else:
         time_diff = this_datetime_obj - time_rn
-        if timedelta(hours=0) < time_diff < timedelta(hours=12):
+        if time_diff < timedelta(hours=12):
             print("Adding "+my_name+" to dataframe")
             #add basic nft data to dataframe
             user_data = get_user_data(my_name)
@@ -253,20 +253,23 @@ for project in projects_list:
             
             #add mint price to dataframe
             #add discord metrics to dataframe
-            #total discord members
-            my_server_id = str(project[9])
-            member_count = dmc.get_approximate_member_count(my_server_id)
-            #time between posts for last 100 posts
-            my_general_channel_id = str(project[10])
-            minutes_between_activity = dmc.get_time_between_posts(my_general_channel_id)
-            #total online discord members
-            online_right_now = dmc.get_approximate_presence_count(my_server_id)
-            #ratio of online versus total members
-            ratio = online_right_now/member_count
-            
-            discord_data_df = pd.DataFrame([[member_count, online_right_now, ratio, minutes_between_activity]], columns=['discord_member_count', 'online_right_now', 'online_to_members_ratio', 'average_minutes_between_general_chat'])
+            if project[2] == 'Locked' or project[2] == 'Closed':
+                None
+            else:
+                #total discord members
+                my_server_id = str(project[9])
+                member_count = dmc.get_approximate_member_count(my_server_id)
+                #time between posts for last 100 posts
+                my_general_channel_id = str(project[10])
+                minutes_between_activity = dmc.get_time_between_posts(my_general_channel_id)
+                #total online discord members
+                online_right_now = dmc.get_approximate_presence_count(my_server_id)
+                #ratio of online versus total members
+                ratio = online_right_now/member_count
+                
+                discord_data_df = pd.DataFrame([[member_count, online_right_now, ratio, minutes_between_activity]], columns=['discord_member_count', 'online_right_now', 'online_to_members_ratio', 'average_minutes_between_general_chat'])
 
-            new_nft_df = new_nft_df.join(discord_data_df)
+                new_nft_df = new_nft_df.join(discord_data_df)
 
             #add price of ETH at mint to dataframe
 
