@@ -211,8 +211,9 @@ timezone = pytz.timezone('America/New_York')
 
 for project in projects_list:
     my_name = project[1][20:]
-    my_date = project[3]
-    my_time = project[4]
+    my_date = project[4]
+    my_time = project[5]
+
     if my_date == '':
         print("Need to add time for "+str(project[0]))
         continue
@@ -253,14 +254,24 @@ for project in projects_list:
             
             #add mint price to dataframe
             #add discord metrics to dataframe
-            if project[2] == 'Locked' or project[2] == 'Closed':
+            if project[3] == 'Closed':
                 None
-            else:
+            if project[3] == 'Locked':
+                my_server_id = str(project[12])
                 #total discord members
-                my_server_id = str(project[9])
+                member_count = dmc.get_approximate_member_count(my_server_id)
+                #total online discord members
+                online_right_now = dmc.get_approximate_presence_count(my_server_id)
+                #ratio of online versus total members
+                ratio = online_right_now/member_count
+                discord_data_df = pd.DataFrame([[member_count, online_right_now, ratio]], columns = ['discord_member_count', 'online_right_now', 'online_to_members_ratio'])
+                new_nft_df = new_nft_df.join(discord_data_df)
+            if project[3] == 'Open':
+                #total discord members
+                my_server_id = str(project[12])
                 member_count = dmc.get_approximate_member_count(my_server_id)
                 #time between posts for last 100 posts
-                my_general_channel_id = str(project[10])
+                my_general_channel_id = str(project[13])
                 minutes_between_activity = dmc.get_time_between_posts(my_general_channel_id)
                 #total online discord members
                 online_right_now = dmc.get_approximate_presence_count(my_server_id)
