@@ -234,6 +234,7 @@ for project in projects_list:
             #add tweet metrics to dataframe
                 #collect tweets from the time of this running
             #ask if I need to collect tweet data
+            print("JOIN THE DISCORD SERVER!!!")
             my_response = input("Should twitter data be collected? (y/n): ")
             if my_response == 'y':
                 get_tweet_data(my_name, user_data[1])
