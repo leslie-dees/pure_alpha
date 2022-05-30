@@ -193,7 +193,6 @@ with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
     projects_list = projects_list[1:]
 
 
-
 #open existing list of account info
 with open('Account_Info.csv', 'r') as account_file:
     account_reader = csv.reader(account_file)
@@ -219,6 +218,7 @@ for project in projects_list:
         continue
     
     this_datetime_obj = datetime.strptime(my_date+my_time, '%m/%d/%Y%I:%M %p').replace(tzinfo=timezone)
+    print(this_datetime_obj)
     time_rn = datetime.now().astimezone(tz=timezone)
 
     if fullDataframe['screen_name'].str.contains(my_name).any():

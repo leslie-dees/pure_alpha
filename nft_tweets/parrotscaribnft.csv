@@ -1,0 +1,489 @@
+,id,date,this_is_reply,text,retweets,replies,likes,quotes,attachments,entities
+0,1530616063070810113,2022-05-28 18:24:41+00:00,False,"RT @SenorCuervo2020: Check out my @parrotscaribnft !!
+Soooo chill! https://t.co/gHRFTrunE1",2,0,0,0,{'media_keys': ['7_1530600558108758018']},"{'mentions': [{'start': 3, 'end': 19, 'username': 'SenorCuervo2020', 'id': '3027562864'}, {'start': 34, 'end': 50, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 67, 'end': 90, 'url': 'https://t.co/gHRFTrunE1', 'expanded_url': 'https://twitter.com/SenorCuervo2020/status/1530600683338182658/video/1', 'display_url': 'pic.twitter.com/gHRFTrunE1', 'media_key': '7_1530600558108758018'}]}"
+1,1530616027406532608,2022-05-28 18:24:33+00:00,False,RT @_Cryptoknot: @SnoopDogg I think you would really like this project @parrotscaribnft  just minted out today. https://t.co/Sq7komeHxG,2,0,0,0,{'media_keys': ['7_1530607428902998017']},"{'mentions': [{'start': 3, 'end': 15, 'username': '_Cryptoknot', 'id': '758497881645060096'}, {'start': 17, 'end': 27, 'username': 'SnoopDogg', 'id': '3004231'}, {'start': 71, 'end': 87, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 112, 'end': 135, 'url': 'https://t.co/Sq7komeHxG', 'expanded_url': 'https://twitter.com/_Cryptoknot/status/1530607779861372930/video/1', 'display_url': 'pic.twitter.com/Sq7komeHxG', 'media_key': '7_1530607428902998017'}]}"
+2,1530615998696521733,2022-05-28 18:24:26+00:00,False,"RT @CKarwaaaa: Got another @parrotscaribnft these are 🔥🔥
+https://t.co/diXTrPj0Go https://t.co/MoQia3eoDo",2,0,0,0,{'media_keys': ['7_1530614866922418184']},"{'mentions': [{'start': 3, 'end': 13, 'username': 'CKarwaaaa', 'id': '1396839100062310402'}, {'start': 27, 'end': 43, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 57, 'end': 80, 'url': 'https://t.co/diXTrPj0Go', 'expanded_url': 'https://opensea.io/collection/parrots-of-the-carribean-v2', 'display_url': 'opensea.io/collection/par…'}, {'start': 81, 'end': 104, 'url': 'https://t.co/MoQia3eoDo', 'expanded_url': 'https://twitter.com/CKarwaaaa/status/1530615109181128704/video/1', 'display_url': 'pic.twitter.com/MoQia3eoDo', 'media_key': '7_1530614866922418184'}]}"
+3,1530597801335349248,2022-05-28 17:12:07+00:00,False,RT @Moizusman14: @parrotscaribnft  👀 https://t.co/4JoN5yTCse,2,0,0,0,{'media_keys': ['3_1530596607800008706']},"{'mentions': [{'start': 3, 'end': 15, 'username': 'Moizusman14', 'id': '1267947043538026501'}, {'start': 17, 'end': 33, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 37, 'end': 60, 'url': 'https://t.co/4JoN5yTCse', 'expanded_url': 'https://twitter.com/Moizusman14/status/1530596610681491458/photo/1', 'display_url': 'pic.twitter.com/4JoN5yTCse', 'media_key': '3_1530596607800008706'}]}"
+4,1530595846412292098,2022-05-28 17:04:21+00:00,False,"RT @NFTiura: Hello guys this is my parrots from @parrotscaribnft !
+I hope we can achieve the best goal together guys! https://t.co/wC47Dm7U…",4,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'NFTiura', 'id': '1455893515892887561'}, {'start': 48, 'end': 64, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+5,1530595712571932672,2022-05-28 17:03:49+00:00,False,RT @hoflips: Floor is lava!!!! Let’s goooo https://t.co/ln51gE8cuR @parrotscaribnft,3,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'hoflips', 'id': '106220898'}, {'start': 67, 'end': 83, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 43, 'end': 66, 'url': 'https://t.co/ln51gE8cuR', 'expanded_url': 'https://opensea.io/collection/parrots-of-the-carribean-v2', 'display_url': 'opensea.io/collection/par…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1530180831616151556/e-6RRaFK?format=jpg&name=orig', 'width': 1280, 'height': 319}, {'url': 'https://pbs.twimg.com/news_img/1530180831616151556/e-6RRaFK?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Parrots of the Carribean V2 - Collection | OpenSea', 'description': ""We are a community of 555 Parrots on a quest to assemble the most tightly knit crew in the NFT space for a grand quest. If you're ready for the adventure, Let's Sail!"", 'unwound_url': 'https://opensea.io/collection/parrots-of-the-carribean-v2'}]}"
+6,1530595672411582464,2022-05-28 17:03:40+00:00,False,"RT @DavidDoff_: Just got my second one @parrotscaribnft , Ahoy! Birdish and Let's Sail Together 🦜⛵ 555 #POTC are ready to sail (Turn the Vo…",5,0,0,0,,"{'hashtags': [{'start': 103, 'end': 108, 'tag': 'POTC'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'DavidDoff_', 'id': '1473441940611862532'}, {'start': 39, 'end': 55, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+7,1530587134930845698,2022-05-28 16:29:44+00:00,False,RT @natzfragholic: @machomack413 @parrotscaribnft yoooowwwwwww laser eye!!! https://t.co/wW8tgjKQt7,7,0,0,0,{'media_keys': ['7_1530585203886145536']},"{'mentions': [{'start': 3, 'end': 17, 'username': 'natzfragholic', 'id': '1460919777568845825'}, {'start': 19, 'end': 32, 'username': 'machomack413', 'id': '1462419749170814977'}, {'start': 33, 'end': 49, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/wW8tgjKQt7', 'expanded_url': 'https://twitter.com/natzfragholic/status/1530585276086906880/video/1', 'display_url': 'pic.twitter.com/wW8tgjKQt7', 'media_key': '7_1530585203886145536'}]}"
+8,1530585319313182720,2022-05-28 16:22:31+00:00,False,RT @coach51450: Just Mint this cool @parrotscaribnft Thanks @AbsoluteSaltETH for the heads up https://t.co/BD6uL5DQsx,7,0,0,0,{'media_keys': ['7_1530585025661517826']},"{'mentions': [{'start': 3, 'end': 14, 'username': 'coach51450', 'id': '806910760982953984'}, {'start': 36, 'end': 52, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 60, 'end': 76, 'username': 'AbsoluteSaltETH', 'id': '247405093'}], 'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/BD6uL5DQsx', 'expanded_url': 'https://twitter.com/coach51450/status/1530585070884601857/video/1', 'display_url': 'pic.twitter.com/BD6uL5DQsx', 'media_key': '7_1530585025661517826'}]}"
+9,1530584663093297154,2022-05-28 16:19:55+00:00,False,"RT @tbpt13: @parrotscaribnft Got my parrot. Mp4, animated, and utility to boot? Best get in now folks. It won't be this low forever https:/…",10,0,0,0,,"{'mentions': [{'start': 3, 'end': 10, 'username': 'tbpt13', 'id': '1479968039206637572'}, {'start': 12, 'end': 28, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+10,1530583383109165057,2022-05-28 16:14:50+00:00,False,"RT @Jnipzz: Absolutely stoked with my @parrotscaribnft, big big future ahead of us! 🚀 https://t.co/QhTSM4ItW3",7,0,0,0,{'media_keys': ['3_1530577239766495232']},"{'mentions': [{'start': 3, 'end': 10, 'username': 'Jnipzz', 'id': '505884492'}, {'start': 38, 'end': 54, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 86, 'end': 109, 'url': 'https://t.co/QhTSM4ItW3', 'expanded_url': 'https://twitter.com/Jnipzz/status/1530577245055483904/photo/1', 'display_url': 'pic.twitter.com/QhTSM4ItW3', 'media_key': '3_1530577239766495232'}]}"
+11,1530583360464101378,2022-05-28 16:14:44+00:00,False,"RT @0xSKREAK: Got my @parrotscaribnft super cool animated pfp with dope music 
+
+Only 555 supply and the team is super active they are build…",5,0,0,0,,"{'mentions': [{'start': 3, 'end': 12, 'username': '0xSKREAK', 'id': '1488943702215204868'}, {'start': 21, 'end': 37, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+12,1530583332622409728,2022-05-28 16:14:38+00:00,False,"RT @machomack413: We officially took sail @parrotscaribnft 
+
+Low supply &amp; great utility 
+
+Team over delivering 
+
+&amp; a great community ♥️
+
+Co…",9,0,0,0,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'machomack413', 'id': '1462419749170814977'}, {'start': 42, 'end': 58, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+13,1530583310682009608,2022-05-28 16:14:32+00:00,False,RT @booogsterr: Had to scoop me a parrot 😎 got me lookin like an aloha sheriff 🤠 @parrotscaribnft https://t.co/CkAIALgtRw,4,0,0,0,{'media_keys': ['3_1530578352490291200']},"{'mentions': [{'start': 3, 'end': 14, 'username': 'booogsterr', 'id': '1506720846446055432'}, {'start': 81, 'end': 97, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 98, 'end': 121, 'url': 'https://t.co/CkAIALgtRw', 'expanded_url': 'https://twitter.com/booogsterr/status/1530578356122664960/photo/1', 'display_url': 'pic.twitter.com/CkAIALgtRw', 'media_key': '3_1530578352490291200'}]}"
+14,1530583281460203520,2022-05-28 16:14:25+00:00,False,RT @CKarwaaaa: @parrotscaribnft we like the parrots 🦜 https://t.co/rFvJp01C4B,4,0,0,0,{'media_keys': ['3_1530582376690196480']},"{'mentions': [{'start': 3, 'end': 13, 'username': 'CKarwaaaa', 'id': '1396839100062310402'}, {'start': 15, 'end': 31, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 54, 'end': 77, 'url': 'https://t.co/rFvJp01C4B', 'expanded_url': 'https://twitter.com/CKarwaaaa/status/1530582521880125440/photo/1', 'display_url': 'pic.twitter.com/rFvJp01C4B', 'media_key': '3_1530582376690196480'}]}"
+15,1530583268227264513,2022-05-28 16:14:22+00:00,False,"RT @dan9nft: Probably something? Only 555 supply
+@parrotscaribnft https://t.co/SwNsz7NeOQ https://t.co/KQiqr1y28Z",6,0,0,0,{'media_keys': ['7_1530582982053928961']},"{'mentions': [{'start': 3, 'end': 11, 'username': 'dan9nft', 'id': '1423248313185308674'}, {'start': 49, 'end': 65, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 66, 'end': 89, 'url': 'https://t.co/SwNsz7NeOQ', 'expanded_url': 'https://twitter.com/Llamaverse_/status/1529854879702958080', 'display_url': 'twitter.com/Llamaverse_/st…'}]}"
+16,1530576649133215745,2022-05-28 15:48:04+00:00,False,RT @memestocksonly: Managed to mint a @parrotscaribnft! My parrot is cooooolin!!!! #Parrotsfollowparrots https://t.co/fKvJ5s7hw9,9,0,0,0,{'media_keys': ['3_1530576371482824706']},"{'hashtags': [{'start': 83, 'end': 104, 'tag': 'Parrotsfollowparrots'}], 'mentions': [{'start': 3, 'end': 18, 'username': 'memestocksonly', 'id': '1352041414608248834'}, {'start': 38, 'end': 54, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 105, 'end': 128, 'url': 'https://t.co/fKvJ5s7hw9', 'expanded_url': 'https://twitter.com/memestocksonly/status/1530576548952166401/photo/1', 'display_url': 'pic.twitter.com/fKvJ5s7hw9', 'media_key': '3_1530576371482824706'}]}"
+17,1530576591016939521,2022-05-28 15:47:50+00:00,False,RT @anionoina: My rarest out of my 3 Parrots! Happy to be part of the fam! @parrotscaribnft https://t.co/gFkBLPLtr2,7,0,0,0,{'media_keys': ['7_1530576008839036928']},"{'mentions': [{'start': 3, 'end': 13, 'username': 'anionoina', 'id': '1474707956168024064'}, {'start': 75, 'end': 91, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 92, 'end': 115, 'url': 'https://t.co/gFkBLPLtr2', 'expanded_url': 'https://twitter.com/anionoina/status/1530576158814875650/video/1', 'display_url': 'pic.twitter.com/gFkBLPLtr2', 'media_key': '7_1530576008839036928'}]}"
+18,1530575996105199616,2022-05-28 15:45:28+00:00,False,"RT @natzfragholic: @parrotscaribnft great community and amazing founder
+proud to hold 3 parrots https://t.co/zDu4zkZYIR",8,0,0,0,{'media_keys': ['7_1530549886097424386']},"{'mentions': [{'start': 3, 'end': 17, 'username': 'natzfragholic', 'id': '1460919777568845825'}, {'start': 19, 'end': 35, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 96, 'end': 119, 'url': 'https://t.co/zDu4zkZYIR', 'expanded_url': 'https://twitter.com/natzfragholic/status/1530549991840022529/video/1', 'display_url': 'pic.twitter.com/zDu4zkZYIR', 'media_key': '7_1530549886097424386'}]}"
+19,1530575946889285638,2022-05-28 15:45:17+00:00,False,RT @Katantf: Just minted @parrotscaribnft !!! LGF🔥 https://t.co/5pxzf0dxer,7,0,0,0,{'media_keys': ['3_1530565520948285440']},"{'mentions': [{'start': 3, 'end': 11, 'username': 'Katantf', 'id': '1511425379151622154'}, {'start': 25, 'end': 41, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 51, 'end': 74, 'url': 'https://t.co/5pxzf0dxer', 'expanded_url': 'https://twitter.com/Katantf/status/1530565526333759489/photo/1', 'display_url': 'pic.twitter.com/5pxzf0dxer', 'media_key': '3_1530565520948285440'}]}"
+20,1530575893587959809,2022-05-28 15:45:04+00:00,False,RT @elwetardo: Slay! @parrotscaribnft https://t.co/atjyAClB6w,6,0,0,0,{'media_keys': ['3_1530570289616039942']},"{'mentions': [{'start': 3, 'end': 13, 'username': 'elwetardo', 'id': '4741339057'}, {'start': 21, 'end': 37, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/atjyAClB6w', 'expanded_url': 'https://twitter.com/elwetardo/status/1530570323548024833/photo/1', 'display_url': 'pic.twitter.com/atjyAClB6w', 'media_key': '3_1530570289616039942'}]}"
+21,1530575858536153088,2022-05-28 15:44:56+00:00,False,"RT @mats_slyngstad: Just minted this fellah 🦜🏴‍☠️
+
+@parrotscaribnft https://t.co/gAguHSZZrT",8,0,0,0,{'media_keys': ['3_1530574966516813824']},"{'mentions': [{'start': 3, 'end': 18, 'username': 'mats_slyngstad', 'id': '1472939245430091779'}, {'start': 51, 'end': 67, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 68, 'end': 91, 'url': 'https://t.co/gAguHSZZrT', 'expanded_url': 'https://twitter.com/mats_slyngstad/status/1530574972795641857/photo/1', 'display_url': 'pic.twitter.com/gAguHSZZrT', 'media_key': '3_1530574966516813824'}]}"
+22,1530571010549891072,2022-05-28 15:25:40+00:00,False,"SOLD OUT &lt;3
+
+So our journey begins 🏝️ https://t.co/2PV3p1939f",28,9,49,3,{'media_keys': ['3_1530570990543044608']},"{'urls': [{'start': 41, 'end': 64, 'url': 'https://t.co/2PV3p1939f', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1530571010549891072/photo/1', 'display_url': 'pic.twitter.com/2PV3p1939f', 'media_key': '3_1530570990543044608'}]}"
+23,1530567372913926145,2022-05-28 15:11:12+00:00,False,RT @jtgymaddict: Gone full-on degen with @AbsoluteSaltETH on @parrotscaribnft - The $SPIT integration with the upcoming marketplace make th…,8,0,0,0,,"{'cashtags': [{'start': 84, 'end': 89, 'tag': 'SPIT'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'jtgymaddict', 'id': '261417962'}, {'start': 41, 'end': 57, 'username': 'AbsoluteSaltETH', 'id': '247405093'}, {'start': 61, 'end': 77, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+24,1530536625444474880,2022-05-28 13:09:02+00:00,False,RT @Ry4aaan: @parrotscaribnft public mint today 👀👀 https://t.co/zF4al2ZYtl https://t.co/AbsveqGlym,2,0,0,0,{'media_keys': ['16_1530503581740195842']},"{'mentions': [{'start': 3, 'end': 11, 'username': 'Ry4aaan', 'id': '273120550'}, {'start': 13, 'end': 29, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 51, 'end': 74, 'url': 'https://t.co/zF4al2ZYtl', 'expanded_url': 'https://discord.gg/parrotsofthecaribbean', 'display_url': 'discord.gg/parrotsoftheca…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1525128796294131717/bjPDCZuo?format=jpg&name=orig', 'width': 256, 'height': 256}, {'url': 'https://pbs.twimg.com/news_img/1525128796294131717/bjPDCZuo?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Discord - A New Way to Chat with Friends & Communities', 'description': 'Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.', 'unwound_url': 'https://discord.com/invite/parrotsofthecaribbean'}, {'start': 75, 'end': 98, 'url': 'https://t.co/AbsveqGlym', 'expanded_url': 'https://twitter.com/Ry4aaan/status/1530503593333297154/photo/1', 'display_url': 'pic.twitter.com/AbsveqGlym', 'media_key': '16_1530503581740195842'}]}"
+25,1530491563498930179,2022-05-28 10:09:58+00:00,False,RT @hoflips: Just minted my @parrotscaribnft let’s goooooo!!! Animated and got its own soundtrack too such a cool surprise !birdish https:/…,4,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'hoflips', 'id': '106220898'}, {'start': 28, 'end': 44, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+26,1530491546474258435,2022-05-28 10:09:54+00:00,False,"RT @_Cryptoknot: Super birdish on @parrotscaribnft I decided to pick up an extra 2 
+What there building 
+Who there partners with
+And an inc…",5,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': '_Cryptoknot', 'id': '758497881645060096'}, {'start': 34, 'end': 50, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+27,1530329225424683010,2022-05-27 23:24:54+00:00,False,"RT @dwar_bot: Just minted @parrotscaribnft first giveaway for their holders 2 whitelist spot for @cubexnft 
+
+- 555 supply
+
+some utilities:…",11,0,0,0,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'dwar_bot', 'id': '1407187967588765697'}, {'start': 26, 'end': 42, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 97, 'end': 106, 'username': 'cubexnft', 'id': '1497758039163691015'}]}"
+28,1530324405154365440,2022-05-27 23:05:44+00:00,False,"RT @_Cryptoknot: @iamevaflow @parrotscaribnft Ive got 3, There amazing and love the music my dude :)
+Feeling Birdish. https://t.co/fBC8sY7b…",3,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': '_Cryptoknot', 'id': '758497881645060096'}, {'start': 17, 'end': 28, 'username': 'iamevaflow', 'id': '832051436'}, {'start': 29, 'end': 45, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+29,1530316350727520257,2022-05-27 22:33:44+00:00,False,"RT @iamevaflow: I did a dope Music + PFP collaboration with Parrots Of The Caribbean @parrotscaribnft 
+
+555 parrots @ 0.1 ETH minting now 🤗…",6,0,0,0,,"{'annotations': [{'start': 60, 'end': 83, 'probability': 0.4978, 'type': 'Other', 'normalized_text': 'Parrots Of The Caribbean'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'iamevaflow', 'id': '832051436'}, {'start': 85, 'end': 101, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+30,1530226910864744448,2022-05-27 16:38:20+00:00,False,"RT @akosijiiing: @parrotscaribnft 
+
+Got my Parrot 🥳 Love the music 🎶
+!birdish
+!sail https://t.co/GbtXZGCih8",11,0,0,0,{'media_keys': ['7_1530219617066491904']},"{'mentions': [{'start': 3, 'end': 15, 'username': 'akosijiiing', 'id': '1065268347309305856'}, {'start': 17, 'end': 33, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 84, 'end': 107, 'url': 'https://t.co/GbtXZGCih8', 'expanded_url': 'https://twitter.com/akosijiiing/status/1530220513108168704/video/1', 'display_url': 'pic.twitter.com/GbtXZGCih8', 'media_key': '7_1530219617066491904'}]}"
+31,1530224472493641728,2022-05-27 16:28:39+00:00,False,"RT @bellyyNFT: WHAT DO YOU THINK ABOUT MY @parrotscaribnft ? 👀
+animated + music dang what a surprise. https://t.co/mfSjllFcqx",9,0,0,0,{'media_keys': ['7_1530219668257898497']},"{'mentions': [{'start': 3, 'end': 13, 'username': 'bellyyNFT', 'id': '1489130753489207296'}, {'start': 42, 'end': 58, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 102, 'end': 125, 'url': 'https://t.co/mfSjllFcqx', 'expanded_url': 'https://twitter.com/bellyyNFT/status/1530220054079340544/video/1', 'display_url': 'pic.twitter.com/mfSjllFcqx', 'media_key': '7_1530219668257898497'}]}"
+32,1530214544265682948,2022-05-27 15:49:12+00:00,False,"RT @0xManawari2: Got my parrot! @parrotscaribnft 
+
+Love how the music matches the background. https://t.co/THOCf0briM",10,0,0,0,{'media_keys': ['7_1530207866753126400']},"{'mentions': [{'start': 3, 'end': 15, 'username': '0xManawari2', 'id': '1453652226686078977'}, {'start': 32, 'end': 48, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/THOCf0briM', 'expanded_url': 'https://twitter.com/0xManawari2/status/1530207901226131458/video/1', 'display_url': 'pic.twitter.com/THOCf0briM', 'media_key': '7_1530207866753126400'}]}"
+33,1530206649159491585,2022-05-27 15:17:49+00:00,False,"RT @sunrisenfts: So happy with my @parrotscaribnft!!
+Team suddenly announced it's fully animated and has music ON mint day! How wild is tha…",11,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'sunrisenfts', 'id': '1518480137045479425'}, {'start': 34, 'end': 50, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+34,1530202555036360704,2022-05-27 15:01:33+00:00,False,"MINT IS LIVE 🏝️
+
+JamListed members are now able to mint on our website!
+
+Mint Page: https://t.co/k0vJnFoLQo
+
+Happy Minting 🙂",13,0,26,1,,"{'urls': [{'start': 84, 'end': 107, 'url': 'https://t.co/k0vJnFoLQo', 'expanded_url': 'https://parrotsofthecaribbean.com/mint', 'display_url': 'parrotsofthecaribbean.com/mint'}]}"
+35,1530189977438629888,2022-05-27 14:11:34+00:00,False,"⏰JAMLIST MINT IN 1 HOUR⏰
+
+Official Opensea Link:
+https://t.co/IL5JvCvpDp
+
+Check your wallet is verified here:
+https://t.co/HMk9lSjbcj",23,11,35,1,,"{'urls': [{'start': 49, 'end': 72, 'url': 'https://t.co/IL5JvCvpDp', 'expanded_url': 'https://opensea.io/collection/parrots-of-the-carribean-v2', 'display_url': 'opensea.io/collection/par…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1530180831616151556/e-6RRaFK?format=jpg&name=orig', 'width': 1280, 'height': 319}, {'url': 'https://pbs.twimg.com/news_img/1530180831616151556/e-6RRaFK?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Parrots of the Carribean V2 - Collection | OpenSea', 'description': ""We are a community of 555 Parrots on a quest to assemble the most tightly knit crew in the NFT space for a grand quest. If you're ready for the adventure, Let's Sail!"", 'unwound_url': 'https://opensea.io/collection/parrots-of-the-carribean-v2'}, {'start': 110, 'end': 133, 'url': 'https://t.co/HMk9lSjbcj', 'expanded_url': 'https://parrotsofthecaribbean.com/verify', 'display_url': 'parrotsofthecaribbean.com/verify'}]}"
+36,1530112670569054209,2022-05-27 09:04:23+00:00,False,"RT @NFT_JTB: 6 Hours Till Mint ⏰
+
+PAGMI 🏝
+
+@parrotscaribnft https://t.co/3iWFohjR2s",31,0,0,0,{'media_keys': ['16_1530112587102314496']},"{'mentions': [{'start': 3, 'end': 11, 'username': 'NFT_JTB', 'id': '1448055796152025092'}, {'start': 43, 'end': 59, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 60, 'end': 83, 'url': 'https://t.co/3iWFohjR2s', 'expanded_url': 'https://twitter.com/NFT_JTB/status/1530112593662189568/photo/1', 'display_url': 'pic.twitter.com/3iWFohjR2s', 'media_key': '16_1530112587102314496'}]}"
+37,1529882237814063109,2022-05-26 17:48:43+00:00,False,RT @youseffth: Once in a while you come across a project that captivates you. I stumbled upon @parrotscaribnft the other day and listened t…,8,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'youseffth', 'id': '1497857779217883140'}, {'start': 94, 'end': 110, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+38,1529857030181232640,2022-05-26 16:08:34+00:00,False,"RT @Llamaverse_: 🤝@parrotscaribnft x @Llamaverse_🤝
+
+We're excited to be partnering with @parrotscaribnft!
+
+10% of their marketplace will be…",64,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'Llamaverse_', 'id': '1445462402577809408'}, {'start': 18, 'end': 34, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 37, 'end': 49, 'username': 'Llamaverse_', 'id': '1445462402577809408'}, {'start': 88, 'end': 104, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+39,1529839778350235649,2022-05-26 15:00:00+00:00,False,"🧭24 Hours Until Mint🧭
+
+After months of hard work, we're finally ready to set !Sail 🌊
+
+We still have a few MASSIVE announcements to drop before mint 🤫
+
+RT + Like ❤️ https://t.co/DurCZrQoqV",64,27,82,2,{'media_keys': ['16_1529766726958817281']},"{'urls': [{'start': 164, 'end': 187, 'url': 'https://t.co/DurCZrQoqV', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1529839778350235649/photo/1', 'display_url': 'pic.twitter.com/DurCZrQoqV', 'media_key': '16_1529766726958817281'}]}"
+40,1529751068812488705,2022-05-26 09:07:30+00:00,False,"RT @DavidDoff_: Tomorrow is the mint day 😆😍 can't wait to mint my cute parrot 🦜 ⛵, let's sail together! @parrotscaribnft https://t.co/L7Btz…",6,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'DavidDoff_', 'id': '1473441940611862532'}, {'start': 104, 'end': 120, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+41,1529534242950156289,2022-05-25 18:45:55+00:00,False,"RT @Ranga_Starwolf: Look at these parrot pixel art !! Aren't they the coolest!
+Check out @parrotscaribnft guys
+Loving the art and their roa…",8,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'Ranga_Starwolf', 'id': '946390996979302401'}, {'start': 89, 'end': 105, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+42,1529505192877637632,2022-05-25 16:50:29+00:00,False,"RT @legionhive: Glad to be a part of the #POTC fam!
+We sailing fast and steady⛵ as the mint day is closing in 😍 I am really thankful that I…",7,0,0,0,,"{'hashtags': [{'start': 41, 'end': 46, 'tag': 'POTC'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'legionhive', 'id': '3311270382'}]}"
+43,1529044426936434688,2022-05-24 10:19:34+00:00,False,"RT @parrotscaribnft: 🍹3 Days To Mint 🍹
+
+Looks like the crew is ready to set !sail 
+
+Last couple of days to get noticed 💬 
+
+🌊🌊⛴🌊🌊 https://t.…",39,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+44,1529038937213349891,2022-05-24 09:57:45+00:00,False,"🍹3 Days To Mint 🍹
+
+Looks like the crew is ready to set !sail 
+
+Last couple of days to get noticed 💬 
+
+🌊🌊⛴🌊🌊 https://t.co/jswhJmiXaa",39,22,85,1,{'media_keys': ['7_1529038451156430848']},"{'urls': [{'start': 108, 'end': 131, 'url': 'https://t.co/jswhJmiXaa', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1529038937213349891/video/1', 'display_url': 'pic.twitter.com/jswhJmiXaa', 'media_key': '7_1529038451156430848'}]}"
+45,1528651401185972226,2022-05-23 08:17:49+00:00,False,"🏝 4 Days to Mint 🏝
+
+We’re feeling !Birdish… anyone else? 💬
+
+🦜 📈 🦜 📈 🦜 📈 🦜",95,92,162,7,,
+46,1528420906145652738,2022-05-22 17:01:55+00:00,False,"RT @LVCollabs: 🌴 TIME TO SET SAIL! 🌴
+
+Giving away 3 WL spots for @parrotscaribnft!
+
+To enter:
+1⃣Follow @LVCollabs &amp; @parrotscaribnft
+2⃣Tag…",628,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'LVCollabs', 'id': '1505691484670070787'}, {'start': 65, 'end': 81, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 103, 'end': 113, 'username': 'LVCollabs', 'id': '1505691484670070787'}, {'start': 120, 'end': 136, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+47,1528420642017665025,2022-05-22 17:00:52+00:00,False,"RT @BullandBearNFT: 🐂🐻Bull and Bear Club x Parrots of the Carribean🦜
+
+3x Jamlist (WL) Giveaway🏝️
+
+1️⃣ Follow @BullandBearNFT &amp; @parrotscari…",1466,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'BullandBearNFT', 'id': '1409978389356765184'}, {'start': 109, 'end': 124, 'username': 'BullandBearNFT', 'id': '1409978389356765184'}]}"
+48,1527970463888117762,2022-05-21 11:12:01+00:00,False,"RT @RaritySniperNFT: Parrots Of The Caribbean X Rarity Sniper 🦜
+ 
+We've partnered with @ParrotsCaribNFT to be their Exclusive Rarity Partne…",1145,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'RaritySniperNFT', 'id': '1416070452372459523'}, {'start': 87, 'end': 103, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+49,1526843436405596161,2022-05-18 08:33:37+00:00,False,"RT @parrotscaribnft: 🌴 10 DAYS TILL MINT 🌴
+
+Not long now and things are heating up 🔆
+
+3x Jamlist (WL) Giveaway 
+
+To Enter:
+1️⃣ RT + LIKE…",223,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+50,1526559073952485376,2022-05-17 13:43:39+00:00,False,"🌴 10 DAYS TILL MINT 🌴
+
+Not long now and things are heating up 🔆
+
+3x Jamlist (WL) Giveaway 
+
+To Enter:
+1️⃣ RT + LIKE 
+2️⃣ Follow @parrotscaribnft
+3️⃣ Tag 3 Friends
+
+Make sure to join https://t.co/UiIcfyDFW6
+
+24Hrs ⏰ https://t.co/oByUqdo6OZ",223,326,250,0,{'media_keys': ['16_1526559063647129600']},"{'mentions': [{'start': 128, 'end': 144, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}], 'urls': [{'start': 182, 'end': 205, 'url': 'https://t.co/UiIcfyDFW6', 'expanded_url': 'http://discord.gg/parrotsofthecaribbean', 'display_url': 'discord.gg/parrotsoftheca…'}, {'start': 215, 'end': 238, 'url': 'https://t.co/oByUqdo6OZ', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1526559073952485376/photo/1', 'display_url': 'pic.twitter.com/oByUqdo6OZ', 'media_key': '16_1526559063647129600'}]}"
+51,1526086180202323968,2022-05-16 06:24:33+00:00,False,"RT @WabiSabiNFT: 🍭Wabi Sabi Collective x Parrots of the Carribean🦜
+
+We’ve partnered with @parrotscaribnft to giveaway 2WL spots to their Ge…",629,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'WabiSabiNFT', 'id': '1484199942390689793'}, {'start': 89, 'end': 105, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+52,1526054920209694720,2022-05-16 04:20:20+00:00,False,"RT @PRJCTGiveaway: Project Whitelist x Parrots of the Caribbean🦜
+
+1x POTC WHITELIST GIVEAWAY! (ONLY 555 SUPPLY!)
+
+To Enter:
+🟣Follow 
+@PRJCT…",630,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'PRJCTGiveaway', 'id': '1511127063356481540'}]}"
+53,1525469560664641537,2022-05-14 13:34:19+00:00,False,"RT @ChubbyJiras: 🦖 Chubby Jiras 🤝 Parrots of the Caribbean 🦜
+
+Only 555 NFT Supply!🏝️
+
+🎉WHITELIST GIVEAWAY🎉
+3x WL for Parrots of the Caribbe…",1606,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'ChubbyJiras', 'id': '1516018370839199750'}]}"
+54,1525080228758003713,2022-05-13 11:47:15+00:00,False,"🌴 TIME TO SET SAIL 🌴
+
+🌊🌊🛳🌊🌊
+
+Discord is now open and mint starting in two weeks! Who still needs Jamlist?
+
+3x Jamlist on this tweet 🎁
+
+🏝 Like + RT + Follow
+🏝 Tag 3 Frens
+🏝 Join https://t.co/UiIcfyDFW6
+
+Winners in 24 hrs https://t.co/HlhSBYJx1Y",684,502,589,6,{'media_keys': ['3_1525080226824441857']},"{'urls': [{'start': 177, 'end': 200, 'url': 'https://t.co/UiIcfyDFW6', 'expanded_url': 'http://discord.gg/parrotsofthecaribbean', 'display_url': 'discord.gg/parrotsoftheca…'}, {'start': 220, 'end': 243, 'url': 'https://t.co/HlhSBYJx1Y', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1525080228758003713/photo/1', 'display_url': 'pic.twitter.com/HlhSBYJx1Y', 'media_key': '3_1525080226824441857'}]}"
+55,1525045718272118784,2022-05-13 09:30:07+00:00,False,"RT @qklxszq: 🎉HUGE WL GIVEAWAY🎉
+
+I've partnered with @parrotscaribnft to giveaway some spots to their Genesis collection.
+
+Only 555 NFT Sup…",1170,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'qklxszq', 'id': '245216772'}, {'start': 53, 'end': 69, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+56,1525035361566609409,2022-05-13 08:48:58+00:00,False,"RT @littlejiras: 🎉WL GIVEAWAY🎉
+
+We’ve partnered with @parrotscaribnft to giveaway some spots to their Genesis collection.
+
+Only 555 NFT Sup…",1241,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'littlejiras', 'id': '1503398698331607048'}, {'start': 53, 'end': 69, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+57,1524531388216754183,2022-05-11 23:26:22+00:00,False,"RT @AlphaGangX: 1x Parrots Of The Caribbean Whitelist Giveaway 🎉
+
+To Enter:
+1️⃣ Follow
+@AlphaGangX
+@parrotscaribnft 
+@AlphaGang_X_
+2️⃣ Like…",836,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'AlphaGangX', 'id': '1501903411855437829'}, {'start': 87, 'end': 98, 'username': 'AlphaGangX', 'id': '1501903411855437829'}, {'start': 99, 'end': 115, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 117, 'end': 130, 'username': 'AlphaGang_X_', 'id': '1521524212225224709'}]}"
+58,1524321976193540096,2022-05-11 09:34:14+00:00,False,"RT @honey1_rat: 🎉WL GIVEAWAY🎉
+
+We’ve partnered with @parrotscaribnft to giveaway some spots to their Genesis collection.
+
+Only 555 NFT Supp…",1110,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'honey1_rat', 'id': '1490581242055884800'}, {'start': 52, 'end': 68, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+59,1523981944429727745,2022-05-10 11:03:04+00:00,False,"RT @NubbiesNFT: 🎉🎉GIVEAWAY!!!🎉🎉
+NUBBIES X Parrots Of The Caribbean
+
+We've partnered with @parrotscaribnft to give away 
+2 x WL Spots for th…",1160,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'NubbiesNFT', 'id': '1483008308097449985'}, {'start': 89, 'end': 105, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+60,1523981866155626498,2022-05-10 11:02:45+00:00,False,"RT @Dres_Empire: Dre's Empire x Parrots of Caribbean
+
+🎁@parrotscaribnft have given us 4x wl spots to giveaway on discord and 1x on twitter🎁…",647,0,0,0,,"{'annotations': [{'start': 132, 'end': 138, 'probability': 0.6707, 'type': 'Product', 'normalized_text': 'twitter'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'Dres_Empire', 'id': '1025639025606979584'}, {'start': 55, 'end': 71, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+61,1523605320945307648,2022-05-09 10:06:30+00:00,False,"GM Parrot Fam 💖
+
+50 Likes = Discord Link 🏝️ 
+
+Let's have a great day!",28,22,91,0,,
+62,1523251614471290880,2022-05-08 10:41:00+00:00,False,"Who wants to join our locked discord? 🏝️
+
+Limited invite link posted in 20 minutes🔔
+
+RT + LIKE 💙",72,31,115,0,,
+63,1523244208965922816,2022-05-08 10:11:34+00:00,False,"RT @SkyVerseNFT: 🌴Parrots Of The Caribbean x YSkyVerse🌴
+
+We've partnered with @parrotscaribnft to give away 3x Jamlist Spots for their limi…",2391,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'SkyVerseNFT', 'id': '1478578865307934723'}, {'start': 78, 'end': 94, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+64,1523053919802331136,2022-05-07 21:35:26+00:00,False,"RT @TheHaQa: ☀️WL GIVEAWAY☀️
+
+Im excited to be giving away 2 WL spots for Parrots of the Caribbean's Genesis NFT Collection✨
+
+Only 555 NFT…",898,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'TheHaQa', 'id': '1492576975139053569'}]}"
+65,1523052136267153408,2022-05-07 21:28:20+00:00,False,"RT @PacaGiveaway: 🎉WL GIVEAWAY🎉
+
+We’ve partnered with @parrotscaribnft to giveaway some spots to their Genesis collection.
+
+Only 555 NFT Su…",1231,0,0,0,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'PacaGiveaway', 'id': '1509169138681487378'}, {'start': 54, 'end': 70, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+66,1523012873697570821,2022-05-07 18:52:19+00:00,False,"RT @MVHQCollabs: We at @Metaverse_HQ have partnered with @parrotscaribnft! 🦜
+
+We’re giving away 2 AL spots for @parrotscaribnft 🏝️
+
+To ente…",1180,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'MVHQCollabs', 'id': '1513741564572487681'}, {'start': 23, 'end': 36, 'username': 'Metaverse_HQ', 'id': '1355454765573033984'}, {'start': 57, 'end': 73, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 111, 'end': 127, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+67,1522976234858291200,2022-05-07 16:26:44+00:00,False,"AMA Live with @Zooversenft 🐯
+
+Tune in to learn more about our project 🏝
+
+https://t.co/6WLJ3bzUma
+
+RT + Like for JamList consideration ❤️",48,21,64,1,,"{'mentions': [{'start': 14, 'end': 26, 'username': 'Zooversenft', 'id': '1469341737952980997'}], 'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/6WLJ3bzUma', 'expanded_url': 'https://twitter.com/i/spaces/1mnGedovQqoKX', 'display_url': 'twitter.com/i/spaces/1mnGe…'}]}"
+68,1522592831558279170,2022-05-06 15:03:14+00:00,False,"RT @Loomiheads: 🎉WL GIVEAWAY🎉
+
+Thanks to our friends at @parrotscaribnft we are giving away 2 WL for their limited 555 supply NFT!
+
+1️⃣ Fol…",2410,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'Loomiheads', 'id': '1503455468546498562'}, {'start': 56, 'end': 72, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+69,1522503065085136896,2022-05-06 09:06:32+00:00,False,"RT @ScavengersNFT: 🎉WL GIVEAWAY🎉
+
+Super Early and 555 NFT Supply!🏝️
+
+2 WL for @parrotscaribnft 
+
+1️⃣Follow @ScavengersNFT &amp; @parrotscaribnf…",1986,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'ScavengersNFT', 'id': '1460889064366768128'}, {'start': 78, 'end': 94, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 107, 'end': 121, 'username': 'ScavengersNFT', 'id': '1460889064366768128'}]}"
+70,1521988046534569984,2022-05-04 23:00:02+00:00,False,"🏝️ The Ship Has Landed… QUICK 🏝️
+
+Jump on board while you can! Setting sail any moment now ⏰ 
+
+Psst… 
+Little birdy told me RTs are considered for Jamlist(WL) 🎁
+
+https://t.co/dUe6Lnr04e",87,32,91,3,,"{'urls': [{'start': 161, 'end': 184, 'url': 'https://t.co/dUe6Lnr04e', 'expanded_url': 'https://discord.gg/djg585zK', 'display_url': 'discord.gg/djg585zK'}]}"
+71,1521973213068210176,2022-05-04 22:01:05+00:00,False,"🏝️60 Minutes of MADNESS🏝️
+
+Firstly, in 60 minutes we’re opening the discord to recruit new crew mates for a very short time! 🗝️
+
+🎁Secondly, We’re giving away 2x JamList (WL) on this tweet! Results in 60 minutes!🎁
+
+To enter:
+❤️ + RT + Tag Frens https://t.co/qcjPm3qrb3",217,213,241,0,{'media_keys': ['3_1521973198526595078']},"{'urls': [{'start': 244, 'end': 267, 'url': 'https://t.co/qcjPm3qrb3', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1521973213068210176/photo/1', 'display_url': 'pic.twitter.com/qcjPm3qrb3', 'media_key': '3_1521973198526595078'}]}"
+72,1521793329893101569,2022-05-04 10:06:18+00:00,False,"RT @HameerHussain: 🏝️ SPECIAL WL GIVEAWAY 🏝️
+
+3×  WL spots for @ParrotsCaribNFT
+
+To enter 👇 (Must) 
+- FOLLOW:
+@HameerHussain &amp; @ParrotsCari…",1577,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'HameerHussain', 'id': '1429303255591444488'}, {'start': 63, 'end': 79, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 110, 'end': 124, 'username': 'HameerHussain', 'id': '1429303255591444488'}]}"
+73,1521790557764341761,2022-05-04 09:55:17+00:00,False,"Time to reward our noti crew🦜🔔
+
+Link posted in 5 minutes!
+
+All engagement considered for boarding 🌊",46,30,85,0,,
+74,1521467164988956672,2022-05-03 12:30:14+00:00,False,"Discord Link Time 🏝️ Who want's to hop on board? 
+
+Link posted in 15 Minutes 🔔 We also look at comments for potential parrots 👀",25,52,72,0,,
+75,1521281446433988608,2022-05-03 00:12:15+00:00,False,"The ship approaches... it will be here in... 30 minutes?! 🦜
+
+Notis on 🔔
+
+All engagement considered for boarding 🌊",34,22,78,0,,
+76,1521033857071562752,2022-05-02 07:48:25+00:00,False,"RT @parrotscaribnft: It happened so quick we couldn’t even post in time! Thank you so much for 10K followers!
+
+Huge milestone and we’re onl…",370,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+77,1521031643007442944,2022-05-02 07:39:37+00:00,False,"It happened so quick we couldn’t even post in time! Thank you so much for 10K followers!
+
+Huge milestone and we’re only just getting started🏝
+
+Time to give back: 
+
+🎁100 Likes = 100 Invite Link🎁
+
+☀️5 random people who engage get WL☀️
+
+Turn 🔔 on https://t.co/OYc0Uqc7jy",370,284,512,2,{'media_keys': ['3_1521030659044790272']},"{'urls': [{'start': 244, 'end': 267, 'url': 'https://t.co/OYc0Uqc7jy', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1521031643007442944/photo/1', 'display_url': 'pic.twitter.com/OYc0Uqc7jy', 'media_key': '3_1521030659044790272'}]}"
+78,1520814738845966337,2022-05-01 17:17:43+00:00,False,"RT @LastSamuraisNFT: 🏮We got 2x @parrotscaribnft WL to giveaway!
+
+🥷More for our holders in Discord
+
+🦜A 555 NFT supply collection! 
+
+To Ente…",954,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'LastSamuraisNFT', 'id': '1442626584205275138'}, {'start': 32, 'end': 48, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+79,1520805810393300998,2022-05-01 16:42:15+00:00,False,"Invite link for early parrots in 30 minutes... notis on 🔔
+
+All engagement will also be considered for ship access 🌊",36,25,80,0,,
+80,1520365206039404544,2022-04-30 11:31:26+00:00,False,"RT @ZooverseFriends: 🌴Parrots Of The Caribbean x Zooverse 🌴
+
+Something is brewing.. 👀
+
+3 x Jamlist GA for @parrotscaribnft
+
+- Follow @parro…",2535,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'ZooverseFriends', 'id': '1505870205481897993'}, {'start': 106, 'end': 122, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+81,1520351060682022912,2022-04-30 10:35:14+00:00,False,"RT @TheApeList_: 🎉 WL GIVEAWAY 🎉
+
+We are giving away 2x whitelist for Parrots Of The Caribbean!
+
+To Enter: 
+
+➡️ Follow both @TheApeList_ &amp;…",2206,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'TheApeList_', 'id': '1482933506984620039'}, {'start': 124, 'end': 136, 'username': 'TheApeList_', 'id': '1482933506984620039'}]}"
+82,1520161698677772288,2022-04-29 22:02:46+00:00,False,"RT @DystoApez: Parrots Of The Caribbean🦜x Dysto Apez 🦧
+
+🎉3x Whitelist 🎉
+
+TO ENTER:
+1⃣ Follow 
+@parrotscaribnft
+ + 
+@DystoApez
++ 
+@DystoApez…",509,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'DystoApez', 'id': '1461475458579636230'}, {'start': 94, 'end': 110, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}, {'start': 115, 'end': 125, 'username': 'DystoApez', 'id': '1461475458579636230'}]}"
+83,1520126288547258370,2022-04-29 19:42:04+00:00,False,"RT @HokeHustles: 🎉Gmoney x Parrots 3x WL Giveaway🎉
+
+✅ 555 Supply
+✅ Super early
+✅ Ambitious team building
+
+To enter🦜
+- Follow @HokeHustles &amp;…",1009,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'HokeHustles', 'id': '1003630057141817345'}, {'start': 125, 'end': 137, 'username': 'HokeHustles', 'id': '1003630057141817345'}]}"
+84,1520104316526383111,2022-04-29 18:14:45+00:00,False,"RT @devilsnarefizz: 🎉Fizz x Parrots🎉
+
+Missed the boat on small supply projects? Don't miss this one! 🦜
+
+Super Early and 555 NFT Supply!🏝️…",808,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'devilsnarefizz', 'id': '570095990'}]}"
+85,1520020041189793793,2022-04-29 12:39:53+00:00,False,"Discord link in 20 minutes 🔔 Early parrots are always ready
+
+All interaction will also be considered 🦜",38,45,81,0,,
+86,1519282105112535041,2022-04-27 11:47:35+00:00,False,"RT @AbsoluteSaltETH: 🎉AbsoluteSalt x Parrots🎉
+
+Not doing many giveaways nowadays but had to show some love!🏝
+
+Super early, 555 supply, grea…",1285,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'AbsoluteSaltETH', 'id': '247405093'}]}"
+87,1519253785293565954,2022-04-27 09:55:03+00:00,True,@loserr111 Just DM us already ;),0,0,0,0,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'loserr111', 'id': '1487470841885442050'}]}"
+88,1519253038069960708,2022-04-27 09:52:05+00:00,True,@NFTfanart_ If you pour me a glass I'll send you a disc link :o,0,1,0,0,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'NFTfanart_', 'id': '1496815130126041099'}]}"
+89,1519252860529221632,2022-04-27 09:51:22+00:00,True,"@0xStoneyStark You seem like a true parrot...
+DM us ;) there's an invite waiting for you",0,0,1,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': '0xStoneyStark', 'id': '1450748952836407305'}]}"
+90,1519252445905539073,2022-04-27 09:49:44+00:00,True,"@yuji_big KAKKKKKAOOWWWWWW
+Translation - ""DM US... You're in ;)""",0,1,1,0,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'yuji_big', 'id': '1504986864574353410'}]}"
+91,1519252185476964360,2022-04-27 09:48:42+00:00,False,"RT @parrotscaribnft: Discord Link Time 🏝️ Who want's to hop on board? 
+
+15 Minutes 🔔 We also consider comments for potential parrots 👀",36,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+92,1519252099346874368,2022-04-27 09:48:21+00:00,True,@claggs_eth @NftPazz88 Dm us 😂 you're in,0,1,3,0,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'claggs_eth', 'id': '1467585905720389633'}, {'start': 12, 'end': 22, 'username': 'NftPazz88', 'id': '1468534523600470016'}]}"
+93,1519251279066943488,2022-04-27 09:45:05+00:00,False,"Discord Link Time 🏝️ Who want's to hop on board? 
+
+15 Minutes 🔔 We also consider comments for potential parrots 👀",36,96,99,0,,
+94,1519222482267430917,2022-04-27 07:50:40+00:00,False,"RT @NFT_JTB: 🎉WL GIVEAWAY🎉
+
+Meet the team! Time to giveaway some JamList to you beauties🏝 
+
+3x JamList Spots (WL) 🗺 
+10x Discord Invites 🗝…",554,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'NFT_JTB', 'id': '1448055796152025092'}]}"
+95,1518935604989693952,2022-04-26 12:50:43+00:00,False,"RT @cpt_jourdan: @parrotscaribnft .
+
+We're just beginning 🌴🦜",28,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'cpt_jourdan', 'id': '1518634906032693249'}, {'start': 17, 'end': 33, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+96,1518905368058998786,2022-04-26 10:50:34+00:00,False,"RT @parrotscaribnft: 25x Discord Link in 25 Mins... 🏝️
+
+Who's got notif's on 🔔",27,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+97,1518901760764653568,2022-04-26 10:36:14+00:00,False,"25x Discord Link in 25 Mins... 🏝️
+
+Who's got notif's on 🔔",27,25,81,0,,
+98,1518748171396071425,2022-04-26 00:25:55+00:00,False,"10 Early Parrots in 30 minutes 🦜
+
+Notis on 🔔",28,20,59,0,,
+99,1518358177775067136,2022-04-24 22:36:13+00:00,True,"Jamlist Winners 🏆
+• @Psychoshroom0
+• @KateGre82285704
+• @MarthaRam06
+
+DM us for your invite!
+
+Other invite link winners will be DMed!",1,0,4,0,,"{'mentions': [{'start': 20, 'end': 34, 'username': 'Psychoshroom0', 'id': '1486814589048303617'}, {'start': 37, 'end': 53, 'username': 'KateGre82285704', 'id': '1498050958982406148'}, {'start': 56, 'end': 68, 'username': 'MarthaRam06', 'id': '1427470180834185233'}]}"
+100,1518278423126462470,2022-04-24 17:19:18+00:00,True,🔔,3,4,22,0,,
+101,1518278271892393984,2022-04-24 17:18:42+00:00,False,"50 early parrots in 20 minutes... 
+
+the ship approaches in the foggy distance 🦜",48,32,102,1,,
+102,1518262708289908736,2022-04-24 16:16:52+00:00,False,"The Big 5000!!! Thank you to every single one of you ❤ 
+
+50 likes = 50 Discord Invite 🌴( notis on 🔔)
+
+…and all interaction will be considered for WL 🦜 https://t.co/Zob5zpAQ7C",123,83,202,1,{'media_keys': ['3_1518262705857212416']},"{'urls': [{'start': 151, 'end': 174, 'url': 'https://t.co/Zob5zpAQ7C', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1518262708289908736/photo/1', 'display_url': 'pic.twitter.com/Zob5zpAQ7C', 'media_key': '3_1518262705857212416'}]}"
+103,1518170586371010561,2022-04-24 10:10:48+00:00,False,"RT @parrotscaribnft: 🎉WL GIVEAWAY🎉
+
+We’re having a blast! Time to spread the love🏝 
+
+3x JamList Spots (WL) 🗺 
+10x Discord Invites 🗝
+
+1️⃣ Fo…",909,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+104,1518144429294456832,2022-04-24 08:26:52+00:00,False,"RT @nftboi_: 🎉 Parrots of the Carribbean WL GIVEAWAY🎉
+
+We’re having a blast! Time to spread the love🏝 
+
+3x JamList Spots (WL) 🗺 
+10x Discor…",432,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'nftboi_', 'id': '1447265265134223360'}]}"
+105,1518010822349529091,2022-04-23 23:35:57+00:00,False,10 Early Parrots in 20 minutes 🦜 notis on 🔔,22,19,59,0,,
+106,1517972250955235328,2022-04-23 21:02:41+00:00,False,"🎉WL GIVEAWAY🎉
+
+We’re having a blast! Time to spread the love🏝 
+
+3x JamList Spots (WL) 🗺 
+10x Discord Invites 🗝
+
+1️⃣ Follow @parrotscaribnft
+2️⃣ Like and RT
+3️⃣Tag 3 Frens
+
+24hr ⏰ https://t.co/wEpuiWf4BK",909,1496,879,4,{'media_keys': ['16_1517972213550432257']},"{'urls': [{'start': 179, 'end': 202, 'url': 'https://t.co/wEpuiWf4BK', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1517972250955235328/photo/1', 'display_url': 'pic.twitter.com/wEpuiWf4BK', 'media_key': '16_1517972213550432257'}], 'mentions': [{'start': 123, 'end': 139, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+107,1517804292991860738,2022-04-23 09:55:17+00:00,False,"Discord invite link being posted in 5 minutes! 🦜 
+
+Notifications on and be quick, it won’t last long!🔔",9,3,33,0,,
+108,1517673860908425218,2022-04-23 01:17:00+00:00,False,10 more early parrots... who's got notis on? 🔔,11,29,57,0,,
+109,1517544432110870529,2022-04-22 16:42:41+00:00,False,"Invite link in 20 minutes... notis on 🔔
+all interaction will be considered for jamlist",45,30,75,0,,
+110,1517534628575428611,2022-04-22 16:03:44+00:00,False,"RT @Dres_Empire: Dre's Empire x Parrots of Caribbean 🦜
+
+@ParrotsCaribNFT have given us 15x WL spots to giveaway on our discord.
+
+555 NFT Su…",1170,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'Dres_Empire', 'id': '1025639025606979584'}, {'start': 56, 'end': 72, 'username': 'parrotscaribnft', 'id': '1472008697278783489'}]}"
+111,1517313125720150017,2022-04-22 01:23:34+00:00,False,Happy to collab with @Ascendants_nft ! https://t.co/0a0zPNgbTS,31,17,63,0,,"{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/0a0zPNgbTS', 'expanded_url': 'https://twitter.com/Ascendants_nft/status/1517113627081281536', 'display_url': 'twitter.com/Ascendants_nft…'}], 'mentions': [{'start': 21, 'end': 36, 'username': 'Ascendants_nft', 'id': '1479470306565795840'}]}"
+112,1517265023663493120,2022-04-21 22:12:25+00:00,False,25 Parrots discord invite at 30 likes on this tweet... get ready 🦜 notis on 🔔,15,14,73,0,,
+113,1517113886373199873,2022-04-21 12:11:51+00:00,False,"RT @Ascendants_nft: 🎉WL GIVEAWAY🎉
+
+Missed the boat on GodJira and ZooVerse Genesis? Don't miss this one! 🦜
+
+Super Early and 555 NFT Supply!…",1697,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'Ascendants_nft', 'id': '1479470306565795840'}]}"
+114,1516853070432452614,2022-04-20 18:55:28+00:00,False,"The Parrot Crew is feeling generous...
+When this post gets 40 likes, we'll drop a 25x Discord Link 🦜
+
+Drop a like and notif's on!❤️🔔",26,9,71,0,,
+115,1516544651355906048,2022-04-19 22:29:55+00:00,True,"Winners 🏆
+• @ttv_kamigaku
+• @kaibaibo21
+• @AstaNFT
+• @Sindere87696495
+• @bukes14
+• @nikolai_sosa
+• @Chripeosa
+
+DM us!",2,4,14,0,,"{'mentions': [{'start': 12, 'end': 25, 'username': 'ttv_kamigaku', 'id': '635615302'}, {'start': 28, 'end': 39, 'username': 'kaibaibo21', 'id': '1465931575091245062'}, {'start': 42, 'end': 50, 'username': 'AstaNFT', 'id': '1338152503800721410'}, {'start': 53, 'end': 69, 'username': 'Sindere87696495', 'id': '1444908589299109892'}, {'start': 72, 'end': 80, 'username': 'bukes14', 'id': '1393434026698969089'}, {'start': 83, 'end': 96, 'username': 'nikolai_sosa', 'id': '1475402846644453381'}, {'start': 99, 'end': 109, 'username': 'Chripeosa', 'id': '1430646990996709380'}]}"
+116,1516169808164933632,2022-04-18 21:40:25+00:00,False,"Early bird gets the worm... Only 555 Parrots can board the ship 🌴
+
+❤ + RT for a chance at early WL https://t.co/sK1HfDuXJh",676,271,718,1,{'media_keys': ['16_1516169794860593159']},"{'urls': [{'start': 99, 'end': 122, 'url': 'https://t.co/sK1HfDuXJh', 'expanded_url': 'https://twitter.com/parrotscaribnft/status/1516169808164933632/photo/1', 'display_url': 'pic.twitter.com/sK1HfDuXJh', 'media_key': '16_1516169794860593159'}]}"
