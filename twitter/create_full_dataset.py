@@ -1,12 +1,12 @@
 import numpy as np
 import csv
 import pandas as pd
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta
 import tweepy
 import config as config
 import discord_message_collection as dmc
 import pytz
+from Historic_Crypto import HistoricalData
 
 def create_influencer_list(self):
     #ONLY RUN THIS WHEN YOU NEED TO UPDATE INFLUENCER LIST
@@ -185,6 +185,31 @@ def influencer_data(nft_screen_name):
     this_nft_array = [total_following, regularized_following]
     return np.array(this_nft_array)
 
+def get_moving_average_crypto(mint_time):
+    one_week_back = mint_time - timedelta(days = 7)
+    #five_days_back = mint_time  - timedelta(days = 5)
+    #three_days_back = mint_time - timedelta(days = 3)
+    #one_day_back = mint_time - timedelta(days = 1)
+
+    str_time_week = one_week_back.strftime('%Y-%m-%d-%H-%M')
+    strMintTime = mint_time.strftime('%Y-%m-%d-%H-%M')
+    #str_time_five = five_days_back.strftime('%Y-%m-%d-%H-%M')
+    #str_time_three = three_days_back.strftime('%Y-%m-%d-%H-%M')
+    #str_time_one = one_day_back.strftime('%Y-%m-%d-%H-%M')
+    
+    data_week = HistoricalData('ETH-USD', 900, start_date = str_time_week, end_date = strMintTime, verbose = False).retrieve_data()
+    data_five = data_week.drop(index=data_week.index[:192], axis=0, inplace = False)
+    data_three = data_five.drop(index=data_five.index[:192], axis=0, inplace = False)
+    data_one = data_three.drop(index=data_three.index[:192], axis=0, inplace = False)    
+
+    averageEthPriceWeek = data_week["close"].mean()
+    averageEthPriceFive = data_five["close"].mean()
+    averageEthPriceThree = data_three["close"].mean()
+    averageEthPriceOne = data_one["close"].mean()
+
+    return pd.DataFrame([np.array([averageEthPriceOne, averageEthPriceThree, averageEthPriceFive, averageEthPriceWeek])], columns=["MAOne", "MAThree", "MAFive", "MAWeek"])
+
+
 #open twitter handles of projects we are looking at
 with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
@@ -284,7 +309,12 @@ for project in projects_list:
                 new_nft_df = new_nft_df.join(discord_data_df)
 
             #add price of ETH at mint to dataframe
-
+            if time_diff < timedelta(hours=0):
+                movingAverageEth = get_moving_average_crypto(time_rn)
+            if time_diff > timedelta(hours=0):
+                movingAverageEth = get_moving_average_crypto(this_datetime_obj)
+            movingAverageEth_df = pd.DataFrame(movingAverageEth, columns=['MAOne','MAThree','MAFive','MAWeek'])
+            new_nft_df = new_nft_df.join(movingAverageEth)
             #add new dataframe to full dataframe
             fullDataframe = fullDataframe.append(new_nft_df)
         else:
