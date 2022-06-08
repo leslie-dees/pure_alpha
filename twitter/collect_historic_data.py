@@ -187,7 +187,7 @@ with open('Projects - Historic Data.csv', 'r') as csv_file:
     projects_list = np.array(list_of_rows)
     projects_list = projects_list[1:]
 
-projects_list = projects_list[9:12]
+projects_list = projects_list[30:33]
 
 #open existing list of account info
 with open('Historic_Info.csv', 'r') as account_file:
