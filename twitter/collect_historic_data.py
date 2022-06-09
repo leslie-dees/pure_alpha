@@ -205,7 +205,8 @@ userDataCols = np.array(['screen_name', 'id', 'followers_count', 'following_coun
 timezone = pytz.timezone('America/New_York')
 
 for project in projects_list:
-    my_name = project[1][20:]
+    index_of_dot_com = project[1].index('.com')+5
+    my_name = project[1][index_of_dot_com:]
     my_date = project[3]
     my_time = '12:00 AM'
 
