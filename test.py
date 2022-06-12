@@ -7,7 +7,7 @@ request_json = r5.json()
 keys = request_json['collection']
 eth_price = keys['payment_tokens'][0]['usd_price'] #this is insane! We instantly have eth price from this call
 
-
+stats = keys['stats']
 this_info = keys['stats']['count']
 this_other_info = keys['stats']['total_supply']
 
