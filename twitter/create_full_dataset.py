@@ -211,7 +211,7 @@ def get_moving_average_crypto(mint_time):
 
 
 #open twitter handles of projects we are looking at
-with open('Projects - Upcoming Projects.csv', 'r') as csv_file:
+with open('Projects - Upcoming Projects (ETH).csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
     list_of_rows = list(csv_reader)
     projects_list = np.array(list_of_rows)
