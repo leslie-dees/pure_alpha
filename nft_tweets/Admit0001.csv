@@ -1,0 +1,91 @@
+,id,date,this_is_reply,text,retweets,replies,likes,quotes,attachments,entities
+0,1536792687344463873,2022-06-14 19:28:23+00:00,False,"RT @_aozai: This past week changed my life forever. I’ve made many profitable trades, However one trade yielded me over 51,000% ROI. Now Im…",11,0,0,0,,"{'mentions': [{'start': 3, 'end': 10, 'username': '_aozai', 'id': '1480302525165223955'}]}"
+1,1535662698158956545,2022-06-11 16:38:13+00:00,False,RT @overpricedjpegs: Our new #OPJ episode with tastemaker and culture shifter @gmoneyNFT is now live. We’re unpacking his @Admit0001 launch…,13,0,0,0,,"{'hashtags': [{'start': 29, 'end': 33, 'tag': 'OPJ'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'overpricedjpegs', 'id': '1459260156844265472'}, {'start': 78, 'end': 88, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 122, 'end': 132, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+2,1535414132253466625,2022-06-11 00:10:30+00:00,True,@gmoneyNFT Web0001,0,5,27,0,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+3,1535242483000434688,2022-06-10 12:48:26+00:00,False,"Admit One with @gmoneyNFT featuring special guest @coryvanlew. 
+
+CVL sits with GM at his Miami studio to discuss his upbringing, the inspiration for his Covid series, and his new Nifty Gateway drop.
+
+🎟 https://t.co/7o2yu1eQkw",14,7,75,1,,"{'urls': [{'start': 202, 'end': 225, 'url': 'https://t.co/7o2yu1eQkw', 'expanded_url': 'https://youtu.be/BrJuwwG1kJE', 'display_url': 'youtu.be/BrJuwwG1kJE'}], 'annotations': [{'start': 89, 'end': 93, 'probability': 0.7966, 'type': 'Place', 'normalized_text': 'Miami'}], 'mentions': [{'start': 15, 'end': 25, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 50, 'end': 61, 'username': 'coryvanlew', 'id': '257754471'}]}"
+4,1534988760747630592,2022-06-09 20:00:13+00:00,True,@andr3w @stefanikus69 @gmoneyNFT Technically it's #0100 ser 🫡,0,0,8,0,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'andr3w', 'id': '4911583324'}, {'start': 8, 'end': 21, 'username': 'stefanikus69', 'id': '1349046438093844480'}, {'start': 22, 'end': 32, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+5,1534916972650983425,2022-06-09 15:14:58+00:00,True,@Loopifyyy @gmoneyNFT 🎟🤝732,0,3,28,0,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'Loopifyyy', 'id': '868760548674072576'}, {'start': 11, 'end': 21, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+6,1534749915217137664,2022-06-09 04:11:08+00:00,True,@gmoneyNFT @AnthonyHopkins 🎟,2,8,62,0,,"{'mentions': [{'start': 0, 'end': 10, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 11, 'end': 26, 'username': 'AnthonyHopkins', 'id': '782973815496192000'}]}"
+7,1534723736925921283,2022-06-09 02:27:07+00:00,False,RT @gmoneyNFT: fun fact:  about 10% of @Admit0001 volume has happened through the https://t.co/3foketWrDu front end.  If those sellers had…,25,0,0,0,,"{'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/3foketWrDu', 'expanded_url': 'http://gmoney.market', 'display_url': 'gmoney.market'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 39, 'end': 49, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+8,1534658305187991553,2022-06-08 22:07:07+00:00,False,"RT @unicorndao_xxx: 🪄 ~$1m in nfts dropped to web3 women on @gmoneyNFT @Admit0001 drop
+
+G is a great ally to women in the nft space 
+🐐
+
+4et…",22,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'unicorndao_xxx', 'id': '1498192719990120450'}, {'start': 60, 'end': 70, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 71, 'end': 81, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+9,1534611929972580356,2022-06-08 19:02:50+00:00,False,"RT @stefanikus69: Compiling a list of all @Admit0001 club members so we can find each other more easily here on Twitter!
+
+Drop a 🎟️ below s…",11,0,0,0,,"{'annotations': [{'start': 112, 'end': 118, 'probability': 0.7779, 'type': 'Product', 'normalized_text': 'Twitter'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'stefanikus69', 'id': '1349046438093844480'}, {'start': 42, 'end': 52, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+10,1534611292144603137,2022-06-08 19:00:18+00:00,False,"RT @levychain: 🎙️NEW EP //
+
+@gmoneyNFT joined the pod to share why free NFTs are the perfect hack for building a web3 community.
+
+He also s…",33,0,0,0,,"{'annotations': [{'start': 73, 'end': 76, 'probability': 0.4359, 'type': 'Person', 'normalized_text': 'NFTs'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'levychain', 'id': '2351123413'}, {'start': 28, 'end': 38, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+11,1534611251371704321,2022-06-08 19:00:08+00:00,False,"RT @MariaShen: NFTs can put you on an allow-list.
+
+@gmoney enabled anyone who held one of his POAPs to mint an @Admit0001 NFT. ""698 spots a…",1,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'MariaShen', 'id': '27134030'}, {'start': 51, 'end': 58, 'username': 'GMoney', 'id': '334533'}, {'start': 111, 'end': 121, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+12,1534367660657594371,2022-06-08 02:52:12+00:00,False,RT @_BrandonDoyle_: Just bought an @Admit0001 NFT. Few people have done more in/for the web3 space than @gmoneyNFT. Can't wait to see what…,18,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': '_BrandonDoyle_', 'id': '17794461'}, {'start': 35, 'end': 45, 'username': 'Admit0001', 'id': '1526654180206723072'}, {'start': 104, 'end': 114, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+13,1534367481300520960,2022-06-08 02:51:29+00:00,False,"RT @itsdanataylor: Didn’t get a chance last week. But thank you to @gmoneyNFT for inviting me to be apart of your community 🖤💋
+
+Cc: @Admit0…",7,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'itsdanataylor', 'id': '2181369787'}, {'start': 67, 'end': 77, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+14,1534367061891227652,2022-06-08 02:49:49+00:00,False,"RT @MicaelBarilaro: My pleasure to join @gmoneyNFT with @Admit0001 🎟 - for the culture, let’s build 🔧",4,0,0,0,,"{'mentions': [{'start': 3, 'end': 18, 'username': 'MicaelBarilaro', 'id': '104291539'}, {'start': 40, 'end': 50, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 56, 'end': 66, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+15,1534311498893471744,2022-06-07 23:09:02+00:00,False,RT @MikePearso36: @levychain @gmoneyNFT @Admit0001 A1 discord is a quality place to hang out i know that.  🙌🏼,3,0,0,0,,"{'mentions': [{'start': 3, 'end': 16, 'username': 'MikePearso36', 'id': '2827237678'}, {'start': 18, 'end': 28, 'username': 'levychain', 'id': '2351123413'}, {'start': 29, 'end': 39, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}, {'start': 40, 'end': 50, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+16,1534032085526134785,2022-06-07 04:38:44+00:00,False,"Who’s ready to get their game on? One Admit One member will receive a free @BoredBox_ NFT purchased and gifted to us from @BoredElonMusk. For members in the Discord only.
+
+https://t.co/0cSQQlvTzG",21,16,114,1,,"{'urls': [{'start': 172, 'end': 195, 'url': 'https://t.co/0cSQQlvTzG', 'expanded_url': 'https://www.youtube.com/watch?v=mYzXTgt8lvc', 'display_url': 'youtube.com/watch?v=mYzXTg…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1534032128140267520/oD-O1yWj?format=jpg&name=orig', 'width': 1280, 'height': 720}, {'url': 'https://pbs.twimg.com/news_img/1534032128140267520/oD-O1yWj?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Bored Elon Musk Answers Your Questions', 'description': 'Today we have pseudonymous, hyper-parody persona Bored Elon Musk. Known for tweeting out great invention ideas with a prominent voice covering technology, ga...', 'unwound_url': 'https://www.youtube.com/watch?v=mYzXTgt8lvc'}], 'mentions': [{'start': 75, 'end': 85, 'username': 'BoredBox_', 'id': '1485643553309032449'}, {'start': 122, 'end': 136, 'username': 'BoredElonMusk', 'id': '1666038950'}]}"
+17,1532527087709462552,2022-06-03 00:58:25+00:00,False,"RT @wayfco: Utility is 🔑
+
+Admit 0001, Week 0001, Number 0001
+
+@Admit0001 https://t.co/NRwhzl7mMV",18,0,0,0,{'media_keys': ['3_1532502327231275009']},"{'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/NRwhzl7mMV', 'expanded_url': 'https://twitter.com/wayfco/status/1532502330637111296/photo/1', 'display_url': 'pic.twitter.com/NRwhzl7mMV', 'media_key': '3_1532502327231275009'}], 'mentions': [{'start': 3, 'end': 10, 'username': 'wayfco', 'id': '1485448349360680963'}, {'start': 62, 'end': 72, 'username': 'Admit0001', 'id': '1526654180206723072'}]}"
+18,1532001633483345920,2022-06-01 14:10:27+00:00,False,"RT @farokh: Here is the latest episode of GM NFTs with special guest @gmoneyNFT available on all platforms! ☀️ 
+
+Spotify: https://t.co/stPN…",9,0,0,0,,"{'annotations': [{'start': 42, 'end': 48, 'probability': 0.5581, 'type': 'Other', 'normalized_text': 'GM NFTs'}, {'start': 113, 'end': 119, 'probability': 0.628, 'type': 'Product', 'normalized_text': 'Spotify'}], 'mentions': [{'start': 3, 'end': 10, 'username': 'farokh', 'id': '3369243892'}, {'start': 69, 'end': 79, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+19,1531639481912139777,2022-05-31 14:11:23+00:00,False,RT @gmoneyNFT: https://t.co/hM6bnq8Q8l,26,0,0,0,,"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/hM6bnq8Q8l', 'expanded_url': 'https://twitter.com/i/spaces/1vAGRkqabMYJl', 'display_url': 'twitter.com/i/spaces/1vAGR…'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+20,1530972840492687360,2022-05-29 18:02:23+00:00,False,"One of the goals of Admit One is to connect our members with new projects &amp; uses of technology. We’ll be featuring key projects that showcase this.
+
+Verified members in Discord can win an allow list spot for 1 of a limited 82 editions from @Welcome_to_Nor
+
+https://t.co/LQyFLRfU54",20,11,136,4,,"{'urls': [{'start': 261, 'end': 284, 'url': 'https://t.co/LQyFLRfU54', 'expanded_url': 'https://youtu.be/rCK823ZBARA', 'display_url': 'youtu.be/rCK823ZBARA'}], 'annotations': [{'start': 20, 'end': 28, 'probability': 0.3398, 'type': 'Other', 'normalized_text': 'Admit One'}], 'mentions': [{'start': 244, 'end': 259, 'username': 'Welcome_to_Nor', 'id': '1481673452612247555'}]}"
+21,1530691228119048192,2022-05-28 23:23:22+00:00,False,"*PLEASE NOTE – There are fake Admit One twitter accounts, websites, and collections popping up*
+
+All remaining tokens are now in reserve for future distribution by gmoney. Any sites, messages, or pop-ups mints are fake. As always stay safe!",36,14,144,3,,"{'annotations': [{'start': 40, 'end': 46, 'probability': 0.6186, 'type': 'Product', 'normalized_text': 'twitter'}]}"
+22,1530644265046626306,2022-05-28 20:16:45+00:00,False,"RT @gmoneyNFT: I am both humbled and honored by the response from the community.  I'll be honest, when I released this NFT, I really didn't…",99,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+23,1530640071451459584,2022-05-28 20:00:05+00:00,False,"Admit One minting is now complete!
+
+Thanks to everybody who has supported @gmoneyNFT and congrats for showing up. Admit One is the key to unlock all things gmoney. 
+
+If you haven’t already, please read:
+
+https://t.co/IppQPYWRHi",22,17,153,2,,"{'urls': [{'start': 204, 'end': 227, 'url': 'https://t.co/IppQPYWRHi', 'expanded_url': 'http://g.money/manifesto', 'display_url': 'g.money/manifesto'}], 'mentions': [{'start': 74, 'end': 84, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+24,1530396349425934339,2022-05-28 03:51:37+00:00,False,"RT @KingPixelPush: @Admit0001 @gmoneyNFT 
+ #AdmitOne follow thread.... let's do this yah?",10,0,0,0,,"{'hashtags': [{'start': 43, 'end': 52, 'tag': 'AdmitOne'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'KingPixelPush', 'id': '15685578'}, {'start': 19, 'end': 29, 'username': 'Admit0001', 'id': '1526654180206723072'}, {'start': 30, 'end': 40, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+25,1530277672345010177,2022-05-27 20:00:02+00:00,False,"Final 24 hours for POAP holders to claim their mint.
+
+If you haven’t already, please check the Admit One Claim Checker for eligibility.
+
+https://t.co/AJVgeRsDK1",12,33,117,2,,"{'urls': [{'start': 137, 'end': 160, 'url': 'https://t.co/AJVgeRsDK1', 'expanded_url': 'http://g.money', 'display_url': 'g.money'}], 'annotations': [{'start': 19, 'end': 22, 'probability': 0.5602, 'type': 'Organization', 'normalized_text': 'POAP'}]}"
+26,1529915903202185239,2022-05-26 20:02:30+00:00,False,"RT @gmoneyNFT: Second allowlist live now.
+
+You have 48 hours.
+
+https://t.co/yqTPzoSl7e",86,0,0,0,,"{'urls': [{'start': 63, 'end': 86, 'url': 'https://t.co/yqTPzoSl7e', 'expanded_url': 'https://g.money', 'display_url': 'g.money'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+27,1529907972268228608,2022-05-26 19:30:59+00:00,False,"RT @gmoneyNFT: Admit One is available on the gmoney market.
+
+No marketplace fees on natively listed NFTs. Consolidated feed across all mark…",50,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"
+28,1529901388825772032,2022-05-26 19:04:49+00:00,False,"Welcome new Admit One members!
+
+Curated Invitees have minted 205 of the 302 spots so far.
+
+Here’s what to expect over the next 48hrs:
+
+POAP Allow list mint starts at 4 PM EST today. 698 spots await 1,251 eligible POAP holders.
+
+https://t.co/HROHF2gKa3",33,55,251,5,,"{'urls': [{'start': 228, 'end': 251, 'url': 'https://t.co/HROHF2gKa3', 'expanded_url': 'https://g.money/', 'display_url': 'g.money'}]}"
+29,1529552973642272768,2022-05-25 20:00:21+00:00,False,"RT @gmoneyNFT: Today marks the beginning of the next stage of my journey.
+
+Please go to https://t.co/yqTPzoSl7e to learn more about the com…",171,0,0,0,,"{'urls': [{'start': 88, 'end': 111, 'url': 'https://t.co/yqTPzoSl7e', 'expanded_url': 'https://g.money', 'display_url': 'g.money'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'gmoneyNFT', 'id': '1311393885806100481'}]}"

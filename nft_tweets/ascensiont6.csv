@@ -1,0 +1,248 @@
+,id,date,this_is_reply,text,retweets,replies,likes,quotes,attachments,entities
+0,1536078543217643521,2022-06-12 20:10:38+00:00,False,"MINT + MARKETING AMA with @Radiance_United @RadhatterNFT  in 2 hours!
+
+Live in our DISCORD: https://t.co/pZP8AynHdW",11,3,19,0,,"{'mentions': [{'start': 26, 'end': 42, 'username': 'Radiance_United', 'id': '1515881540852453379'}, {'start': 43, 'end': 56, 'username': 'RadhatterNFT', 'id': '21320411'}], 'urls': [{'start': 92, 'end': 115, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}]}"
+1,1535672988359708672,2022-06-11 17:19:06+00:00,False,"CRAB GAMES at 8PM BST
+ETH + More prizes to be won! 👀
+Don't miss it! https://t.co/pZP8AynHdW",2,0,9,0,,"{'urls': [{'start': 68, 'end': 91, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}]}"
+2,1534975203922657304,2022-06-09 19:06:21+00:00,False,"INSIDE T6 - THE BRAND. AMA STARTING NOW IN DISCORD.
+https://t.co/pZP8AynHdW",4,0,16,3,,"{'urls': [{'start': 52, 'end': 75, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}]}"
+3,1534807512599482372,2022-06-09 08:00:01+00:00,False,"THE ASCENSION FESTIVAL IS OPEN! 🔥
+
+ Join our discord to take part, win prizes and be part of the TRIPLE SIX family! 💎💫
+
+https://t.co/pZP8AynHdW https://t.co/nuHZL6Ufjr",16,1,30,2,{'media_keys': ['3_1534779165169356800']},"{'annotations': [{'start': 0, 'end': 21, 'probability': 0.4314, 'type': 'Other', 'normalized_text': 'THE ASCENSION FESTIVAL'}], 'urls': [{'start': 120, 'end': 143, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}, {'start': 144, 'end': 167, 'url': 'https://t.co/nuHZL6Ufjr', 'expanded_url': 'https://twitter.com/AscensionT6/status/1534807512599482372/photo/1', 'display_url': 'pic.twitter.com/nuHZL6Ufjr', 'media_key': '3_1534779165169356800'}]}"
+4,1534774132247863296,2022-06-09 05:47:22+00:00,False,"BURNING IS LIVE. 🔥🔥🔥
+https://t.co/8iWloCnLi3 https://t.co/RJRtLx8jzw",23,1,31,0,{'media_keys': ['3_1534773828022321154']},"{'urls': [{'start': 21, 'end': 44, 'url': 'https://t.co/8iWloCnLi3', 'expanded_url': 'http://triplesix.xyz/burning', 'display_url': 'triplesix.xyz/burning', 'images': [{'url': 'https://pbs.twimg.com/news_img/1534774136916086785/G8zLnz1L?format=jpg&name=orig', 'width': 1000, 'height': 1000}, {'url': 'https://pbs.twimg.com/news_img/1534774136916086785/G8zLnz1L?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'ASCENSION', 'unwound_url': 'https://triplesix.xyz/burning'}, {'start': 45, 'end': 68, 'url': 'https://t.co/RJRtLx8jzw', 'expanded_url': 'https://twitter.com/AscensionT6/status/1534774132247863296/photo/1', 'display_url': 'pic.twitter.com/RJRtLx8jzw', 'media_key': '3_1534773828022321154'}]}"
+5,1534729359344513024,2022-06-09 02:49:27+00:00,False,"CHAOS.
+https://t.co/H4ZgkVzF3R https://t.co/v7ZrGPpFkb",23,6,44,1,{'media_keys': ['3_1534729353258536964']},"{'urls': [{'start': 7, 'end': 30, 'url': 'https://t.co/H4ZgkVzF3R', 'expanded_url': 'http://triplesix.xyz', 'display_url': 'triplesix.xyz'}, {'start': 31, 'end': 54, 'url': 'https://t.co/v7ZrGPpFkb', 'expanded_url': 'https://twitter.com/AscensionT6/status/1534729359344513024/photo/1', 'display_url': 'pic.twitter.com/v7ZrGPpFkb', 'media_key': '3_1534729353258536964'}]}"
+6,1534313386250469381,2022-06-07 23:16:32+00:00,True,@0xSmithhart It seems to be working for us!,0,0,0,0,,"{'mentions': [{'start': 0, 'end': 12, 'username': '0xSmithhart', 'id': '1471378619100385280'}]}"
+7,1534149524188450817,2022-06-07 12:25:24+00:00,False,"The light appears to be getting closer… It’s almost time to ascend… 
+
+https://t.co/cjxdnux8bI https://t.co/LF1qZZkKwH",37,4,56,0,{'media_keys': ['3_1534149517511213056']},"{'urls': [{'start': 70, 'end': 93, 'url': 'https://t.co/cjxdnux8bI', 'expanded_url': 'https://www.premint.xyz/ascensionpublic/', 'display_url': 'premint.xyz/ascensionpubli…'}, {'start': 94, 'end': 117, 'url': 'https://t.co/LF1qZZkKwH', 'expanded_url': 'https://twitter.com/AscensionT6/status/1534149524188450817/photo/1', 'display_url': 'pic.twitter.com/LF1qZZkKwH', 'media_key': '3_1534149517511213056'}]}"
+8,1534145470120984577,2022-06-07 12:09:17+00:00,False,"RT @HomieGsNFT: 🎁GIVEAWAY 🎁
+@AscensionT6 was kind enough to give Homies 20x WL spots!
+We are giving away 5x on Twitter and 15x in our Disco…",27,0,0,0,,"{'annotations': [{'start': 113, 'end': 119, 'probability': 0.755, 'type': 'Product', 'normalized_text': 'Twitter'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'HomieGsNFT', 'id': '1399328424221573120'}, {'start': 28, 'end': 40, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+9,1533926153500631040,2022-06-06 21:37:48+00:00,False,"MINT PRICES: 
+MOLTEN: AIRDROP
+DIAMOND: 0.01
+GOLD: 0.025
+SILVER: 0.035
+WL: 0.055
+PUBLIC: 0.065
+
+More information in our Discord, including physicals in production ready for launch: https://t.co/pZP8AynHdW https://t.co/8SX4uyW81j",37,8,59,2,{'media_keys': ['3_1533925296071757825']},"{'urls': [{'start': 180, 'end': 203, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}, {'start': 204, 'end': 227, 'url': 'https://t.co/8SX4uyW81j', 'expanded_url': 'https://twitter.com/AscensionT6/status/1533926153500631040/photo/1', 'display_url': 'pic.twitter.com/8SX4uyW81j', 'media_key': '3_1533925296071757825'}]}"
+10,1533587210183708672,2022-06-05 23:10:58+00:00,False,"RT @triplesixjewels: Already lots of submitted wallets for @AscensionT6 
+Don't miss out.
+
+https://t.co/DZFc4Pk1QK
+https://t.co/A0V98G5U0H h…",44,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 59, 'end': 71, 'username': 'AscensionT6', 'id': '1490905933408575488'}], 'urls': [{'start': 90, 'end': 113, 'url': 'https://t.co/DZFc4Pk1QK', 'expanded_url': 'https://www.premint.xyz/ascension/', 'display_url': 'premint.xyz/ascension/'}, {'start': 114, 'end': 137, 'url': 'https://t.co/A0V98G5U0H', 'expanded_url': 'https://www.premint.xyz/ascensionpublic/', 'display_url': 'premint.xyz/ascensionpubli…'}]}"
+11,1533226872439459840,2022-06-04 23:19:07+00:00,False,"Wallet submission for PUBLIC:
+https://t.co/cjxdnux8bI",13,0,23,0,,"{'urls': [{'start': 30, 'end': 53, 'url': 'https://t.co/cjxdnux8bI', 'expanded_url': 'https://www.premint.xyz/ascensionpublic/', 'display_url': 'premint.xyz/ascensionpubli…'}]}"
+12,1533226057381433344,2022-06-04 23:15:52+00:00,False,"Wallet submission for LIQUID METAL holders:
+https://t.co/H1DmPvIvtp",11,0,18,0,,"{'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/H1DmPvIvtp', 'expanded_url': 'https://www.premint.xyz/ascension/', 'display_url': 'premint.xyz/ascension/'}]}"
+13,1533116374431694849,2022-06-04 16:00:02+00:00,False,AMA Summary 02/06 - MINT DATE REVEAL! 💫💎 - It's almost time... 👀 https://t.co/Pjthnn3Xb6,10,1,20,1,{'media_keys': ['3_1533114901853573121']},"{'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/Pjthnn3Xb6', 'expanded_url': 'https://twitter.com/AscensionT6/status/1533116374431694849/photo/1', 'display_url': 'pic.twitter.com/Pjthnn3Xb6', 'media_key': '3_1533114901853573121'}]}"
+14,1532529134181687323,2022-06-03 01:06:33+00:00,False,14TH JUNE. WE ASCEND.,34,4,65,1,,
+15,1532442053157830669,2022-06-02 19:20:31+00:00,False,"We are hosting an AMA tonight in our Discord at 10pm BST. We will be giving lots of updates on our progress, and officially announcing the MINT DATE along with other exciting details! 👀
+
+Don’t miss it! https://t.co/pZP8AynHdW https://t.co/zm5EA6EDMN",13,0,25,3,{'media_keys': ['3_1532442047633842177']},"{'urls': [{'start': 202, 'end': 225, 'url': 'https://t.co/pZP8AynHdW', 'expanded_url': 'http://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}, {'start': 226, 'end': 249, 'url': 'https://t.co/zm5EA6EDMN', 'expanded_url': 'https://twitter.com/AscensionT6/status/1532442053157830669/photo/1', 'display_url': 'pic.twitter.com/zm5EA6EDMN', 'media_key': '3_1532442047633842177'}]}"
+16,1532021652770496520,2022-06-01 15:30:00+00:00,False,"There were 3 goddesses who presided over the birth and life of humans. Each person's destiny was thought of as a thread - spun, measured, and cut by the three Fates; Clotho, Lachesis, and Atropos.
+
+Can you control your own fate? 🌩 https://t.co/WO35YrVRvI",11,0,25,0,{'media_keys': ['3_1531559044300808192']},"{'urls': [{'start': 231, 'end': 254, 'url': 'https://t.co/WO35YrVRvI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1532021652770496520/photo/1', 'display_url': 'pic.twitter.com/WO35YrVRvI', 'media_key': '3_1531559044300808192'}]}"
+17,1531714765273415682,2022-05-31 19:10:32+00:00,False,Not long now… 👀 https://t.co/H4ZgkVzF3R https://t.co/cuNeYHDR1e,39,15,67,3,{'media_keys': ['3_1531714760785412100']},"{'urls': [{'start': 16, 'end': 39, 'url': 'https://t.co/H4ZgkVzF3R', 'expanded_url': 'http://triplesix.xyz', 'display_url': 'triplesix.xyz'}, {'start': 40, 'end': 63, 'url': 'https://t.co/cuNeYHDR1e', 'expanded_url': 'https://twitter.com/AscensionT6/status/1531714765273415682/photo/1', 'display_url': 'pic.twitter.com/cuNeYHDR1e', 'media_key': '3_1531714760785412100'}]}"
+18,1531637874285854722,2022-05-31 14:05:00+00:00,True,"@triplesixjewels one key focus is high quality, bespoke jewellery. Through ASCENSION, we translate our passion for high fashion into web3! 
+
+What is your favourite type of accessory? 💫",9,5,20,1,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+19,1531568668290650113,2022-05-31 09:30:00+00:00,False,'The non-physical part of a person which is the seat of emotions and character.',0,0,8,0,,
+20,1531239039298375681,2022-05-30 11:40:10+00:00,False,"Have you started collecting your $SPIRITS to use in THE UNDERWORLD?! 👀
+
+Join our discord here: https://t.co/abZeuLDDhR",3,0,8,1,,"{'urls': [{'start': 95, 'end': 118, 'url': 'https://t.co/abZeuLDDhR', 'expanded_url': 'https://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}]}"
+21,1530671529800892417,2022-05-28 22:05:05+00:00,False,"RT @triplesixjewels: Will you? 
+https://t.co/69ran31LKP https://t.co/PrqQDhCaRm",20,0,0,0,{'media_keys': ['3_1530671272488710144']},"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/69ran31LKP', 'expanded_url': 'http://triplesix.xyz', 'display_url': 'triplesix.xyz'}, {'start': 56, 'end': 79, 'url': 'https://t.co/PrqQDhCaRm', 'expanded_url': 'https://twitter.com/triplesixjewels/status/1530671280336162822/photo/1', 'display_url': 'pic.twitter.com/PrqQDhCaRm', 'media_key': '3_1530671272488710144'}]}"
+22,1530662698748235776,2022-05-28 21:30:00+00:00,False,"We are proud to announce we are working on a long term partnership with HELIOT EMIL! 👀
+
+They recently showed at Paris Fashion Week. More information on this can be read here, in an article by @voguemagazine .
+https://t.co/kUuQqGKQ54 https://t.co/8kpV45afoe",33,5,48,2,"{'media_keys': ['3_1530599601455124480', '3_1530599601451016193']}","{'annotations': [{'start': 72, 'end': 82, 'probability': 0.7033, 'type': 'Person', 'normalized_text': 'HELIOT EMIL'}, {'start': 113, 'end': 130, 'probability': 0.7303, 'type': 'Other', 'normalized_text': 'Paris Fashion Week'}], 'mentions': [{'start': 192, 'end': 206, 'username': 'voguemagazine', 'id': '136361303'}], 'urls': [{'start': 209, 'end': 232, 'url': 'https://t.co/kUuQqGKQ54', 'expanded_url': 'https://www.vogue.com/article/heliot-emil-shows-fall-2022-ready-to-wear-in-paris', 'display_url': 'vogue.com/article/heliot…'}, {'start': 233, 'end': 256, 'url': 'https://t.co/8kpV45afoe', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530662698748235776/photo/1', 'display_url': 'pic.twitter.com/8kpV45afoe', 'media_key': '3_1530599601455124480'}, {'start': 233, 'end': 256, 'url': 'https://t.co/8kpV45afoe', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530662698748235776/photo/1', 'display_url': 'pic.twitter.com/8kpV45afoe', 'media_key': '3_1530599601451016193'}]}"
+23,1530609853944635392,2022-05-28 18:00:01+00:00,False,"'spiritual or immaterial part of a human being or animal, regarded as immortal.' - how will you 'spend' your time in THE UNDERWORLD? 🔥🪙",2,0,14,0,,
+24,1530505663507574785,2022-05-28 11:06:00+00:00,False,"BURNING MECHANIC - Through BURNING your LIQUID METALS &amp; DRONES you will acquire rarer traits/accessories for your ASCENSION pfp! 💎💫
+
+Will you burn and allow fate to decide how you will shine in THE UNDERWORLD?! 🔥 https://t.co/pawOsMOpQI",9,1,21,0,"{'media_keys': ['3_1530137565013192704', '3_1530137565009006592', '3_1530137565004701697', '3_1530137565009002498']}","{'urls': [{'start': 217, 'end': 240, 'url': 'https://t.co/pawOsMOpQI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530505663507574785/photo/1', 'display_url': 'pic.twitter.com/pawOsMOpQI', 'media_key': '3_1530137565013192704'}, {'start': 217, 'end': 240, 'url': 'https://t.co/pawOsMOpQI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530505663507574785/photo/1', 'display_url': 'pic.twitter.com/pawOsMOpQI', 'media_key': '3_1530137565009006592'}, {'start': 217, 'end': 240, 'url': 'https://t.co/pawOsMOpQI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530505663507574785/photo/1', 'display_url': 'pic.twitter.com/pawOsMOpQI', 'media_key': '3_1530137565004701697'}, {'start': 217, 'end': 240, 'url': 'https://t.co/pawOsMOpQI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530505663507574785/photo/1', 'display_url': 'pic.twitter.com/pawOsMOpQI', 'media_key': '3_1530137565009002498'}]}"
+25,1530203422993022977,2022-05-27 15:05:00+00:00,False,"Remember, holding LIQUID METAL guarantees WL for ASCENSION! 👀
+
+How many metals are currently you holding? 💎
+
+What is your highest rarity? 💫 https://t.co/6IRKEDtKky",16,8,31,1,{'media_keys': ['7_1529788109159800832']},"{'urls': [{'start': 140, 'end': 163, 'url': 'https://t.co/6IRKEDtKky', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530203422993022977/video/1', 'display_url': 'pic.twitter.com/6IRKEDtKky', 'media_key': '7_1529788109159800832'}]}"
+26,1530141766753689602,2022-05-27 11:00:00+00:00,False,"Through ASCENSION, @triplesixjewels we are bridging the gap between web2 &amp; web3, bringing you a high fashion focused, hyper-realistic, 1-of-1 pfp collection - in collaboration with talented artist @thisiscraves.
+
+Holding a piece will give you access to our PHYGITAL marketplace 👀 https://t.co/YKuNXu6pPV",9,3,23,3,"{'media_keys': ['3_1529755161081663489', '3_1529755161068961794', '3_1529755337833725954', '3_1529755553181929472']}","{'mentions': [{'start': 19, 'end': 35, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 201, 'end': 214, 'username': 'thisiscraves', 'id': '206811043'}], 'urls': [{'start': 284, 'end': 307, 'url': 'https://t.co/YKuNXu6pPV', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530141766753689602/photo/1', 'display_url': 'pic.twitter.com/YKuNXu6pPV', 'media_key': '3_1529755161081663489'}, {'start': 284, 'end': 307, 'url': 'https://t.co/YKuNXu6pPV', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530141766753689602/photo/1', 'display_url': 'pic.twitter.com/YKuNXu6pPV', 'media_key': '3_1529755161068961794'}, {'start': 284, 'end': 307, 'url': 'https://t.co/YKuNXu6pPV', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530141766753689602/photo/1', 'display_url': 'pic.twitter.com/YKuNXu6pPV', 'media_key': '3_1529755337833725954'}, {'start': 284, 'end': 307, 'url': 'https://t.co/YKuNXu6pPV', 'expanded_url': 'https://twitter.com/AscensionT6/status/1530141766753689602/photo/1', 'display_url': 'pic.twitter.com/YKuNXu6pPV', 'media_key': '3_1529755553181929472'}]}"
+27,1530088917793353729,2022-05-27 07:30:00+00:00,False,‘The action of rising to an important position or higher level.’,3,0,12,0,,
+28,1529419243560779776,2022-05-25 11:08:57+00:00,True,"PRIZES AS BELOW 👀👇🏼
+
+1st - GOLD DRONE, 125 $SPIRITS + Level up(3)
+2nd - 50 $SPIRITS + Level up (2)
+3rd- 25 $SPIRITS + Level up (1)
+
+ALL contestants - 5 $SPIRITS
+
+Feel free to join us! 💎💫
+Who is going to claim that top spot?! https://t.co/bbzOdHlgbC",1,0,7,0,{'media_keys': ['3_1529419188124663808']},"{'urls': [{'start': 225, 'end': 248, 'url': 'https://t.co/bbzOdHlgbC', 'expanded_url': 'https://twitter.com/AscensionT6/status/1529419243560779776/photo/1', 'display_url': 'pic.twitter.com/bbzOdHlgbC', 'media_key': '3_1529419188124663808'}]}"
+29,1529404910311075845,2022-05-25 10:12:00+00:00,False,"GM everyone! 💎💫
+
+Who wants to win some prizes?! 👀 
+
+We will be hosting two SMASHKARTS tournaments tomorrow within our discord server (times stated below) 
+
+1) 26 May 2022 17:00 BST 
+2) 26 May 2022 23:00 BST
+
+(Every contestant wins a prize!)
+
+Join here - https://t.co/abZeuLm1Th https://t.co/dhHibw4oeI",4,1,7,1,{'media_keys': ['3_1529398174468780032']},"{'urls': [{'start': 254, 'end': 277, 'url': 'https://t.co/abZeuLm1Th', 'expanded_url': 'https://discord.gg/triplesixjewels', 'display_url': 'discord.gg/triplesixjewels'}, {'start': 278, 'end': 301, 'url': 'https://t.co/dhHibw4oeI', 'expanded_url': 'https://twitter.com/AscensionT6/status/1529404910311075845/photo/1', 'display_url': 'pic.twitter.com/dhHibw4oeI', 'media_key': '3_1529398174468780032'}]}"
+30,1526348498743992322,2022-05-16 23:46:54+00:00,False,RT @triplesixjewels: Now verified on @opensea! Perfect timing leading up to the @AscensionT6 launch! Massive thanks to our community for al…,29,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 37, 'end': 45, 'username': 'opensea', 'id': '946213559213555712'}, {'start': 80, 'end': 92, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+31,1525961876370243585,2022-05-15 22:10:36+00:00,False,"RT @YetiTownNFT: 📢 Following our Cave talks, we've collabed with @triplesixjewels for their project @AscensionT6 🔥
+
+🎁 = 5 spots
+
+To Enter:…",28,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'YetiTownNFT', 'id': '1450116620630695943'}, {'start': 65, 'end': 81, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 100, 'end': 112, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+32,1525949761001771008,2022-05-15 21:22:28+00:00,False,RT @triplesixjewels: And we’re back! https://t.co/R8qSJxbVnB,8,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 37, 'end': 60, 'url': 'https://t.co/R8qSJxbVnB', 'expanded_url': 'https://twitter.com/i/spaces/1nAKEYyBMakKL', 'display_url': 'twitter.com/i/spaces/1nAKE…'}]}"
+33,1525945418672119813,2022-05-15 21:05:13+00:00,False,RT @YetiTownNFT: Hosting Cave talks with @triplesixjewels ! https://t.co/6OzQYzBJmI,13,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'YetiTownNFT', 'id': '1450116620630695943'}, {'start': 41, 'end': 57, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 60, 'end': 83, 'url': 'https://t.co/6OzQYzBJmI', 'expanded_url': 'https://twitter.com/i/spaces/1yoKMWjLmNDJQ', 'display_url': 'twitter.com/i/spaces/1yoKM…'}]}"
+34,1525665624348889088,2022-05-15 02:33:24+00:00,False,"RT @FurusMintClub: 💫@FurusMintClub X @triplesixjewels 💫 
+
+🎁 = 5 spots
+📢 We've collabed with @triplesixjewels for their project @AscensionT6…",65,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'FurusMintClub', 'id': '1441147592662872065'}, {'start': 20, 'end': 34, 'username': 'FurusMintClub', 'id': '1441147592662872065'}, {'start': 37, 'end': 53, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 92, 'end': 108, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 127, 'end': 139, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+35,1525571135462596610,2022-05-14 20:17:57+00:00,False,"RT @YetiTownNFT: We’ll be hosting @GliderT6 and @Indegenuity from @triplesixjewels for our 3rd Cave talks tomorrow!
+
+Sunday 10pm BST/2pm PS…",19,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'YetiTownNFT', 'id': '1450116620630695943'}, {'start': 34, 'end': 43, 'username': 'GliderT6', 'id': '1111880481811939328'}, {'start': 48, 'end': 60, 'username': 'Indegenuity', 'id': '1447625889689346052'}, {'start': 66, 'end': 82, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+36,1525307977619709952,2022-05-14 02:52:15+00:00,True,"@DustyCollects @KcorbT6 @triplesixjewels Some people want the art in it, others don't - We will do both! ⚔️",0,0,1,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'DustyCollects', 'id': '1384014879082745864'}, {'start': 15, 'end': 23, 'username': 'KcorbT6', 'id': '1026588248989200386'}, {'start': 24, 'end': 40, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+37,1524800227990970369,2022-05-12 17:14:38+00:00,False,"RT @FurusMintClub: Set a reminder for our upcoming Space! https://t.co/q0eQ1xyCPC
+
+Today we will have the team from Triple Six discussing t…",8,0,0,0,,"{'annotations': [{'start': 116, 'end': 125, 'probability': 0.4581, 'type': 'Organization', 'normalized_text': 'Triple Six'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'FurusMintClub', 'id': '1441147592662872065'}], 'urls': [{'start': 58, 'end': 81, 'url': 'https://t.co/q0eQ1xyCPC', 'expanded_url': 'https://twitter.com/i/spaces/1ynJOZOnzWqGR', 'display_url': 'twitter.com/i/spaces/1ynJO…'}]}"
+38,1524559316753297408,2022-05-12 01:17:20+00:00,False,RT @triplesixjewels: OUR NEW WEBSITE IS LIVE. https://t.co/Yj3feCKr8i,21,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 46, 'end': 69, 'url': 'https://t.co/Yj3feCKr8i', 'expanded_url': 'https://triplesix.xyz/', 'display_url': 'triplesix.xyz'}]}"
+39,1523781680359960576,2022-05-09 21:47:17+00:00,False,"RT @triplesixjewels: NEW ANNOUNCEMENT. 
+LEVEL UP. CLAIM $SPIRIT. GET WHITELISTED.
+https://t.co/Wt9zNrjS3D https://t.co/b9dIIzY2Up",17,0,0,0,{'media_keys': ['3_1523781338733727744']},"{'cashtags': [{'start': 56, 'end': 63, 'tag': 'SPIRIT'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/Wt9zNrjS3D', 'expanded_url': 'https://linktr.ee/triplesixnft', 'display_url': 'linktr.ee/triplesixnft'}, {'start': 106, 'end': 129, 'url': 'https://t.co/b9dIIzY2Up', 'expanded_url': 'https://twitter.com/triplesixjewels/status/1523781623694589952/photo/1', 'display_url': 'pic.twitter.com/b9dIIzY2Up', 'media_key': '3_1523781338733727744'}]}"
+40,1522529029177413635,2022-05-06 10:49:42+00:00,False,"ASCENSION 🌙
+https://t.co/VJeVXUjwaw https://t.co/xeJJfXpfGx",23,4,55,0,{'media_keys': ['16_1522529000270274561']},"{'urls': [{'start': 12, 'end': 35, 'url': 'https://t.co/VJeVXUjwaw', 'expanded_url': 'http://linktr.ee/triplesixnft', 'display_url': 'linktr.ee/triplesixnft'}, {'start': 36, 'end': 59, 'url': 'https://t.co/xeJJfXpfGx', 'expanded_url': 'https://twitter.com/AscensionT6/status/1522529029177413635/photo/1', 'display_url': 'pic.twitter.com/xeJJfXpfGx', 'media_key': '16_1522529000270274561'}]}"
+41,1522528353500241921,2022-05-06 10:47:01+00:00,True,@triplesixjewels 👀 https://t.co/ZLZMGs8Vnx,5,1,12,0,{'media_keys': ['3_1522528349893050369']},"{'mentions': [{'start': 0, 'end': 16, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 19, 'end': 42, 'url': 'https://t.co/ZLZMGs8Vnx', 'expanded_url': 'https://twitter.com/AscensionT6/status/1522528353500241921/photo/1', 'display_url': 'pic.twitter.com/ZLZMGs8Vnx', 'media_key': '3_1522528349893050369'}]}"
+42,1522527861927825411,2022-05-06 10:45:04+00:00,False,"RT @triplesixjewels: GIVEAWAY TIME 🏆 
+We are giving away 5x LIQUID METAL (which also grants you WHITELIST for @AscensionT6 )
+
+- FOLLOW @Asc…",139,0,0,0,,"{'annotations': [{'start': 58, 'end': 72, 'probability': 0.7522, 'type': 'Product', 'normalized_text': '5x LIQUID METAL'}], 'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 110, 'end': 122, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+43,1520501634136170499,2022-04-30 20:33:33+00:00,True,Learn more about @T_REXGLOBAL and his creative process on this @HYPEBEAST video. https://t.co/dqQNfHrqEq,4,1,12,0,,"{'mentions': [{'start': 17, 'end': 29, 'username': 'T_REXGLOBAL', 'id': '83077687'}, {'start': 63, 'end': 73, 'username': 'HYPEBEAST', 'id': '18286505'}], 'urls': [{'start': 81, 'end': 104, 'url': 'https://t.co/dqQNfHrqEq', 'expanded_url': 'https://www.youtube.com/watch?v=AMJ19WueT1w', 'display_url': 'youtube.com/watch?v=AMJ19W…'}]}"
+44,1520501630583689217,2022-04-30 20:33:32+00:00,True,"@AscensionT6 in partnership with @T_REXGLOBAL. Will you get your hands on an extremely rare 1 of 1 T-REX piece? 👀
+
+Join now - https://t.co/pZMmhmQ37I https://t.co/qW52PbH7eX",34,10,103,0,{'media_keys': ['3_1520497265487532032']},"{'mentions': [{'start': 0, 'end': 12, 'username': 'AscensionT6', 'id': '1490905933408575488'}, {'start': 33, 'end': 45, 'username': 'T_REXGLOBAL', 'id': '83077687'}], 'urls': [{'start': 126, 'end': 149, 'url': 'https://t.co/pZMmhmQ37I', 'expanded_url': 'https://linktr.ee/triplesixnft', 'display_url': 'linktr.ee/triplesixnft'}, {'start': 150, 'end': 173, 'url': 'https://t.co/qW52PbH7eX', 'expanded_url': 'https://twitter.com/AscensionT6/status/1520501630583689217/photo/1', 'display_url': 'pic.twitter.com/qW52PbH7eX', 'media_key': '3_1520497265487532032'}]}"
+45,1520206197747556353,2022-04-30 00:59:36+00:00,True,@DeyBwah @triplesixjewels ⚔️💎,0,0,3,0,,"{'mentions': [{'start': 9, 'end': 25, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+46,1520160394064666624,2022-04-29 21:57:35+00:00,False,"Are you looking forward to claiming your $SOULS? 👀🔗
+
+Join now - https://t.co/WJrWolbuCU https://t.co/5nApdfzjoN",69,18,136,5,{'media_keys': ['3_1520160386619744257']},"{'cashtags': [{'start': 41, 'end': 47, 'tag': 'SOULS'}], 'urls': [{'start': 64, 'end': 87, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}, {'start': 88, 'end': 111, 'url': 'https://t.co/5nApdfzjoN', 'expanded_url': 'https://twitter.com/AscensionT6/status/1520160394064666624/photo/1', 'display_url': 'pic.twitter.com/5nApdfzjoN', 'media_key': '3_1520160386619744257'}]}"
+47,1519251860347142146,2022-04-27 09:47:24+00:00,False,RT @triplesixjewels: What’s your favourite clothing brand at the moment? 🤔,8,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+48,1519231579389837312,2022-04-27 08:26:49+00:00,False,"I don’t think you’re ready… 🔗
+https://t.co/WJrWolbuCU https://t.co/mICa1qnuf4",43,5,85,2,{'media_keys': ['3_1519231573593370625']},"{'urls': [{'start': 30, 'end': 53, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}, {'start': 54, 'end': 77, 'url': 'https://t.co/mICa1qnuf4', 'expanded_url': 'https://twitter.com/AscensionT6/status/1519231579389837312/photo/1', 'display_url': 'pic.twitter.com/mICa1qnuf4', 'media_key': '3_1519231573593370625'}]}"
+49,1519040781390123015,2022-04-26 19:48:39+00:00,False,RT @Indegenuity: Triple Six Ascension pieces are art https://t.co/Z1x1H07Wly,33,0,0,0,"{'media_keys': ['3_1518759212054163459', '3_1518759212062498820', '3_1518759212062588928', '3_1518759212075077632']}","{'mentions': [{'start': 3, 'end': 15, 'username': 'Indegenuity', 'id': '1447625889689346052'}], 'urls': [{'start': 53, 'end': 76, 'url': 'https://t.co/Z1x1H07Wly', 'expanded_url': 'https://twitter.com/Indegenuity/status/1518759214512066560/photo/1', 'display_url': 'pic.twitter.com/Z1x1H07Wly', 'media_key': '3_1518759212054163459'}, {'start': 53, 'end': 76, 'url': 'https://t.co/Z1x1H07Wly', 'expanded_url': 'https://twitter.com/Indegenuity/status/1518759214512066560/photo/1', 'display_url': 'pic.twitter.com/Z1x1H07Wly', 'media_key': '3_1518759212062498820'}, {'start': 53, 'end': 76, 'url': 'https://t.co/Z1x1H07Wly', 'expanded_url': 'https://twitter.com/Indegenuity/status/1518759214512066560/photo/1', 'display_url': 'pic.twitter.com/Z1x1H07Wly', 'media_key': '3_1518759212062588928'}, {'start': 53, 'end': 76, 'url': 'https://t.co/Z1x1H07Wly', 'expanded_url': 'https://twitter.com/Indegenuity/status/1518759214512066560/photo/1', 'display_url': 'pic.twitter.com/Z1x1H07Wly', 'media_key': '3_1518759212075077632'}]}"
+50,1518764207776350208,2022-04-26 01:29:39+00:00,False,"PHYGITAL. 🔗⚙️
+https://t.co/WJrWolbuCU https://t.co/R3qfEmZyVO",31,8,73,0,{'media_keys': ['3_1518764204274163712']},"{'urls': [{'start': 14, 'end': 37, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}, {'start': 38, 'end': 61, 'url': 'https://t.co/R3qfEmZyVO', 'expanded_url': 'https://twitter.com/AscensionT6/status/1518764207776350208/photo/1', 'display_url': 'pic.twitter.com/R3qfEmZyVO', 'media_key': '3_1518764204274163712'}]}"
+51,1518729831739019266,2022-04-25 23:13:03+00:00,False,"RT @ATSNFT: Join us for our #MEGASPACES on Monday evening! 
+
+We will be giving out at-least $5000 worth of prizes live including: 🎉
+
+🔥 NFT’…",338,0,0,0,,"{'hashtags': [{'start': 28, 'end': 39, 'tag': 'MEGASPACES'}], 'mentions': [{'start': 3, 'end': 10, 'username': 'ATSNFT', 'id': '1477488953867468808'}]}"
+52,1518545257268449281,2022-04-25 10:59:37+00:00,True,@Inter_Chains099 @GliderT6 @triplesixjewels Free for holders.,0,1,1,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'Inter_Chains099', 'id': '934563084558991360'}, {'start': 17, 'end': 26, 'username': 'GliderT6', 'id': '1111880481811939328'}, {'start': 27, 'end': 43, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+53,1518420366670110728,2022-04-25 02:43:20+00:00,False,"Working on some physical patterns 👀 We aim to set the standard for phygital + fashion in Web3. 
+
+https://t.co/WJrWolbuCU https://t.co/W7a70y485B",35,5,68,2,{'media_keys': ['3_1518420359934001153']},"{'urls': [{'start': 97, 'end': 120, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}, {'start': 121, 'end': 144, 'url': 'https://t.co/W7a70y485B', 'expanded_url': 'https://twitter.com/AscensionT6/status/1518420366670110728/photo/1', 'display_url': 'pic.twitter.com/W7a70y485B', 'media_key': '3_1518420359934001153'}]}"
+54,1517429715526635521,2022-04-22 09:06:51+00:00,False,"RT @triplesixjewels: ALPHAX x TRIPLE SIX AMA on the 22nd April at 2pm BST!
+
+Can’t wait to see you all there! 💫@AlphaX____ @AscensionT6 http…",28,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+55,1516883529061343237,2022-04-20 20:56:30+00:00,False,"RT @triplesixjewels: In addition to this, we are proud to announce that all @rugburners holders who burn LIQUID METALS for their @Ascension…",18,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 76, 'end': 87, 'username': 'rugburners', 'id': '1468650417546358787'}]}"
+56,1516883477198737412,2022-04-20 20:56:17+00:00,False,"RT @triplesixjewels: We would like to give our thanks to @fucking_alfa, @the6969eth, and the @rugburners community, for building a strong p…",62,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 57, 'end': 70, 'username': 'fucking_alfa', 'id': '1437185404189372419'}, {'start': 72, 'end': 83, 'username': 'the6969eth', 'id': '1453539020269522946'}, {'start': 93, 'end': 104, 'username': 'rugburners', 'id': '1468650417546358787'}]}"
+57,1516511306291032070,2022-04-19 20:17:25+00:00,False,RT @rugburners: Do you even burn bro?,31,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'rugburners', 'id': '1468650417546358787'}]}"
+58,1516508363294654477,2022-04-19 20:05:43+00:00,False,What could this be? 👀🔥 @fucking_alfa https://t.co/sQwzjCSz3s,36,12,79,2,{'media_keys': ['3_1516508358928474122']},"{'mentions': [{'start': 23, 'end': 36, 'username': 'fucking_alfa', 'id': '1437185404189372419'}], 'urls': [{'start': 37, 'end': 60, 'url': 'https://t.co/sQwzjCSz3s', 'expanded_url': 'https://twitter.com/AscensionT6/status/1516508363294654477/photo/1', 'display_url': 'pic.twitter.com/sQwzjCSz3s', 'media_key': '3_1516508358928474122'}]}"
+59,1516149122868387841,2022-04-18 20:18:14+00:00,True,@omega_alpha_nft @triplesixjewels @LegatoFP 👀👀,0,0,2,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'omega_alpha_nft', 'id': '1463734117875527682'}, {'start': 17, 'end': 33, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 34, 'end': 43, 'username': 'LegatoFP', 'id': '1360045286329110529'}]}"
+60,1515883004278804484,2022-04-18 02:40:46+00:00,False,"RT @triplesixjewels: The @AscensionT6 contract is complete. Whitelisting now. 🔗💫
+
+https://t.co/Nd0iVS0wXu",59,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 25, 'end': 37, 'username': 'AscensionT6', 'id': '1490905933408575488'}], 'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/Nd0iVS0wXu', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}]}"
+61,1514073133283790854,2022-04-13 02:48:59+00:00,True,@LAVINETHEGOAT Sent you a dm!,0,0,1,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'LAVINETHEGOAT', 'id': '1330607993608658947'}]}"
+62,1514072531040362499,2022-04-13 02:46:36+00:00,False,"Do you have the KEY to ASCEND? 🔒
+https://t.co/WJrWolbuCU",19,6,39,0,,"{'urls': [{'start': 33, 'end': 56, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}]}"
+63,1513698069279354880,2022-04-12 01:58:37+00:00,False,RT @triplesixjewels: Which item(s) of clothing are you trying to add to your IRL wardrobe? 👀,18,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+64,1513261580888252419,2022-04-10 21:04:10+00:00,False,Animation 1 👀 who wants one? https://t.co/WjIJRzZVpe,88,29,207,2,{'media_keys': ['7_1513261543370207240']},"{'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/WjIJRzZVpe', 'expanded_url': 'https://twitter.com/AscensionT6/status/1513261580888252419/video/1', 'display_url': 'pic.twitter.com/WjIJRzZVpe', 'media_key': '7_1513261543370207240'}]}"
+65,1512985252033142785,2022-04-10 02:46:08+00:00,False,RT @GliderT6: Been so busy building… so excited to show everyone what we’ve been putting together 💫🌃,35,0,0,0,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'GliderT6', 'id': '1111880481811939328'}]}"
+66,1510461387000143874,2022-04-03 03:37:12+00:00,True,@triplesixjewels @rugburners @GliderT6 🔥🔥🔥,1,0,11,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 17, 'end': 28, 'username': 'rugburners', 'id': '1468650417546358787'}, {'start': 29, 'end': 38, 'username': 'GliderT6', 'id': '1111880481811939328'}]}"
+67,1510461344969019392,2022-04-03 03:37:02+00:00,False,RT @triplesixjewels: We are excited to announce our new partnership with @rugburners! 🔥We are building a long term partnership to expand ea…,68,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 73, 'end': 84, 'username': 'rugburners', 'id': '1468650417546358787'}]}"
+68,1507462310834900992,2022-03-25 20:59:56+00:00,False,RT @GliderT6: Web3 me looking like... 👀💫 https://t.co/emkblLxlcc,32,0,0,0,{'media_keys': ['3_1507461603234562050']},"{'mentions': [{'start': 3, 'end': 12, 'username': 'GliderT6', 'id': '1111880481811939328'}], 'urls': [{'start': 41, 'end': 64, 'url': 'https://t.co/emkblLxlcc', 'expanded_url': 'https://twitter.com/GliderT6/status/1507461997629165573/photo/1', 'display_url': 'pic.twitter.com/emkblLxlcc', 'media_key': '3_1507461603234562050'}]}"
+69,1506732306676994061,2022-03-23 20:39:10+00:00,False,RT @triplesixjewels: Let us see your DRONES and their LEVELS! 👀,14,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+70,1506407039370768384,2022-03-22 23:06:40+00:00,False,👀💫 https://t.co/N5YOSH4gSx,35,7,120,1,{'media_keys': ['3_1506406908219043841']},"{'urls': [{'start': 3, 'end': 26, 'url': 'https://t.co/N5YOSH4gSx', 'expanded_url': 'https://twitter.com/AscensionT6/status/1506407039370768384/photo/1', 'display_url': 'pic.twitter.com/N5YOSH4gSx', 'media_key': '3_1506406908219043841'}]}"
+71,1506048361308344326,2022-03-21 23:21:25+00:00,False,"RT @triplesixjewels: DRONES by TRIPLE SIX ARE LIVE, so it is GIVEAWAY TIME! 🏆
+We are giving away 1 DIAMOND DRONE!
+
+- Like and Retweet
+- Fol…",240,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+72,1506011262139830274,2022-03-21 20:53:59+00:00,False,RT @triplesixjewels: Our new DRONE free mint launch is now live. Drones add vital utility to the TRIPLE SIX Ecosystem through two of three…,20,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+73,1505285489007509514,2022-03-19 20:50:02+00:00,True,"@triplesixjewels Winners 🏆 (15/15)
+• @Kinson_Cheung
+• @NFT_gek
+• @plukas13
+• @Koboldbob1
+• @berzerker_eth
+
+✔️ https://t.co/D7YPDRLvR7 
+
+I will DM you to confirm! Please DM me if yours are disabled!",1,1,6,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 37, 'end': 51, 'username': 'Kinson_Cheung', 'id': '284620651'}, {'start': 54, 'end': 62, 'username': 'NFT_gek', 'id': '980266920606928901'}, {'start': 65, 'end': 74, 'username': 'plukas13', 'id': '1097476862702424065'}, {'start': 77, 'end': 88, 'username': 'Koboldbob1', 'id': '1480654786387193857'}, {'start': 91, 'end': 105, 'username': 'berzerker_eth', 'id': '1473837187938541574'}], 'urls': [{'start': 110, 'end': 133, 'url': 'https://t.co/D7YPDRLvR7', 'expanded_url': 'https://twitterpicker.com/d/frsvrs5x', 'display_url': 'twitterpicker.com/d/frsvrs5x'}]}"
+74,1505285069199527945,2022-03-19 20:48:21+00:00,True,"@triplesixjewels Winners 🏆 (10/15)
+• @juiceten95
+• @Pandah_xD
+• @Ahhuat95
+• @0xRennnnard
+• @Sooraz14192381
+• @CryptoHUA
+• @AvaIanche15
+• @BenNFT888
+• @DJVHCIJ
+• @Echo_Bravo4025
+
+✔️ https://t.co/Aio0jQphI5 
+
+I will DM you to confirm! Please DM me if you have them disabled!",1,0,9,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 51, 'end': 61, 'username': 'Pandah_xD', 'id': '2429580423'}, {'start': 64, 'end': 73, 'username': 'Ahhuat95', 'id': '3112542133'}, {'start': 76, 'end': 88, 'username': '0xRennnnard', 'id': '1432439385753067528'}, {'start': 91, 'end': 106, 'username': 'Sooraz14192381', 'id': '1488263726033555460'}, {'start': 122, 'end': 134, 'username': 'AvaIanche15', 'id': '1429037234175373317'}, {'start': 137, 'end': 147, 'username': 'BenNFT888', 'id': '1426371269365157889'}, {'start': 150, 'end': 158, 'username': 'DJVHCIJ', 'id': '1188866237662547971'}, {'start': 161, 'end': 176, 'username': 'Echo_Bravo4025', 'id': '1435955044323663872'}], 'urls': [{'start': 181, 'end': 204, 'url': 'https://t.co/Aio0jQphI5', 'expanded_url': 'https://twitterpicker.com/d/ww6v5cd7', 'display_url': 'twitterpicker.com/d/ww6v5cd7'}]}"
+75,1504863139103490050,2022-03-18 16:51:46+00:00,False,"GIVEAWAY TIME! 🏆
+We are giving away 15 WHITELIST SLOTS for ASCENSION! 
+
+- Like and Retweet
+- Follow @AscensionT6 and @triplesixjewels 
+- Tag 3 Friends that should know about ASCENSION! 🚀
+
+Ends in 24 hours
+https://t.co/WJrWolbuCU https://t.co/X78QGoOWRq",208,196,266,6,{'media_keys': ['3_1504863133810282507']},"{'mentions': [{'start': 100, 'end': 112, 'username': 'AscensionT6', 'id': '1490905933408575488'}, {'start': 117, 'end': 133, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 205, 'end': 228, 'url': 'https://t.co/WJrWolbuCU', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}, {'start': 229, 'end': 252, 'url': 'https://t.co/X78QGoOWRq', 'expanded_url': 'https://twitter.com/AscensionT6/status/1504863139103490050/photo/1', 'display_url': 'pic.twitter.com/X78QGoOWRq', 'media_key': '3_1504863133810282507'}]}"
+76,1504578146565345284,2022-03-17 21:59:18+00:00,False,RT @DeyBwah: Triple Six AMA starting in 3 minutes! https://t.co/tVbMMEhrWo,29,0,0,0,,"{'urls': [{'start': 51, 'end': 74, 'url': 'https://t.co/tVbMMEhrWo', 'expanded_url': 'https://twitter.com/i/spaces/1lPKqmZoBzMKb', 'display_url': 'twitter.com/i/spaces/1lPKq…'}]}"
+77,1504561309983068164,2022-03-17 20:52:24+00:00,False,"RT @triplesixjewels: AMA LIVE at 6PM EST.. so it's GIVEAWAY TIME! 🏆
+
+- Like and Retweet
+- Follow @triplesixjewels and @AscensionT6 
+- Tag 3…",393,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 97, 'end': 113, 'username': 'triplesixjewels', 'id': '1374015845727342592'}, {'start': 118, 'end': 130, 'username': 'AscensionT6', 'id': '1490905933408575488'}]}"
+78,1504265600658554884,2022-03-17 01:17:21+00:00,False,RT @triplesixjewels: AMA at 10pm GMT - 17th March. See you then!,26,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+79,1503760290667802641,2022-03-15 15:49:26+00:00,False,PEARLESCENT 🤍 https://t.co/N7kwAWGEtg,49,14,139,4,{'media_keys': ['3_1503760283730423828']},"{'urls': [{'start': 14, 'end': 37, 'url': 'https://t.co/N7kwAWGEtg', 'expanded_url': 'https://twitter.com/AscensionT6/status/1503760290667802641/photo/1', 'display_url': 'pic.twitter.com/N7kwAWGEtg', 'media_key': '3_1503760283730423828'}]}"
+80,1503501580666126339,2022-03-14 22:41:25+00:00,False,THE WHITEPAPER IS LIVE. https://t.co/IFTiANfjNF,60,8,116,6,,"{'urls': [{'start': 24, 'end': 47, 'url': 'https://t.co/IFTiANfjNF', 'expanded_url': 'https://mirror.xyz/triplesixjewels.eth/Zm6Ok96mT_4RFY79yn49SbCIqmt2XMWYUahooxv1Ch0', 'display_url': 'mirror.xyz/triplesixjewel…'}]}"
+81,1503396949302652934,2022-03-14 15:45:39+00:00,True,@FatboyGooberETH The unfortunate truth!,0,0,2,0,,"{'mentions': [{'start': 0, 'end': 16, 'username': 'FatboyGooberETH', 'id': '1348513971754602496'}]}"
+82,1503388599949086723,2022-03-14 15:12:28+00:00,True,@finitecycles Fuelling the ship 🚀💫,0,2,2,0,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'finitecycles', 'id': '1485712110164324354'}]}"
+83,1503386017977491461,2022-03-14 15:02:12+00:00,False,Whitepaper pending… 🤍,58,13,139,1,,
+84,1502812697586540552,2022-03-13 01:04:02+00:00,False,RT @triplesixjewels: SDDD666 https://t.co/lNKnemPi6M,41,0,0,0,{'media_keys': ['3_1502795976485998596']},"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/lNKnemPi6M', 'expanded_url': 'https://twitter.com/triplesixjewels/status/1502796018278182916/photo/1', 'display_url': 'pic.twitter.com/lNKnemPi6M', 'media_key': '3_1502795976485998596'}]}"
+85,1502367458325417992,2022-03-11 19:34:49+00:00,False,"RT @triplesixjewels: Team Channels are LIVE in our Discord.
+Select your team and get ready for the games to begin.
+https://t.co/Nd0iVS0wXu",7,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 115, 'end': 138, 'url': 'https://t.co/Nd0iVS0wXu', 'expanded_url': 'http://discord.gg/triplesix', 'display_url': 'discord.gg/triplesix'}]}"
+86,1501969774523396112,2022-03-10 17:14:34+00:00,False,Which team will you be joining? 👀 https://t.co/h8EiUM6zOj,3,2,17,0,,"{'urls': [{'start': 34, 'end': 57, 'url': 'https://t.co/h8EiUM6zOj', 'expanded_url': 'https://twitter.com/triplesixjewels/status/1501969398608846851', 'display_url': 'twitter.com/triplesixjewel…'}]}"
+87,1501252948168478723,2022-03-08 17:46:09+00:00,False,RT @triplesixjewels: So you cracked the first code… First preview unlocked 🔓👀 https://t.co/gl2JTGbQQI,52,0,0,0,{'media_keys': ['3_1501252527706329088']},"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}], 'urls': [{'start': 78, 'end': 101, 'url': 'https://t.co/gl2JTGbQQI', 'expanded_url': 'https://twitter.com/triplesixjewels/status/1501252534043770881/photo/1', 'display_url': 'pic.twitter.com/gl2JTGbQQI', 'media_key': '3_1501252527706329088'}]}"
+88,1501249837202907146,2022-03-08 17:33:47+00:00,False,RT @triplesixjewels: d3c26749c501de5924ed7ad5f621de4e 🔐👀,14,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+89,1500784225930330115,2022-03-07 10:43:37+00:00,False,GM 💫,2,9,57,0,,
+90,1500264151377231877,2022-03-06 00:17:01+00:00,False,RT @triplesixjewels: DDD 📦,20,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+91,1500158723871944704,2022-03-05 17:18:06+00:00,False,"RT @AscensionT6: @T_REXGLOBAL for ASCENSION - Will you make the ultimate sacrifice? 👀🔥
+#ascensionnft #triplesix https://t.co/ceXwfAeZeH",60,0,0,0,{'media_keys': ['3_1500155133992316930']},"{'hashtags': [{'start': 87, 'end': 100, 'tag': 'ascensionnft'}, {'start': 101, 'end': 111, 'tag': 'triplesix'}], 'mentions': [{'start': 3, 'end': 15, 'username': 'AscensionT6', 'id': '1490905933408575488'}, {'start': 17, 'end': 29, 'username': 'T_REXGLOBAL', 'id': '83077687'}], 'urls': [{'start': 112, 'end': 135, 'url': 'https://t.co/ceXwfAeZeH', 'expanded_url': 'https://twitter.com/AscensionT6/status/1500155140736749582/photo/1', 'display_url': 'pic.twitter.com/ceXwfAeZeH', 'media_key': '3_1500155133992316930'}]}"
+92,1500155140736749582,2022-03-05 17:03:51+00:00,True,"@T_REXGLOBAL for ASCENSION - Will you make the ultimate sacrifice? 👀🔥
+#ascensionnft #triplesix https://t.co/ceXwfAeZeH",60,15,131,1,{'media_keys': ['3_1500155133992316930']},"{'hashtags': [{'start': 70, 'end': 83, 'tag': 'ascensionnft'}, {'start': 84, 'end': 94, 'tag': 'triplesix'}], 'mentions': [{'start': 0, 'end': 12, 'username': 'T_REXGLOBAL', 'id': '83077687'}], 'urls': [{'start': 95, 'end': 118, 'url': 'https://t.co/ceXwfAeZeH', 'expanded_url': 'https://twitter.com/AscensionT6/status/1500155140736749582/photo/1', 'display_url': 'pic.twitter.com/ceXwfAeZeH', 'media_key': '3_1500155133992316930'}]}"
+93,1500013654607073280,2022-03-05 07:41:38+00:00,True,@NftYaser The word on the street is rare attributes 👀💎,0,1,7,0,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'NftYaser', 'id': '1462840224690712587'}]}"
+94,1500011013399359488,2022-03-05 07:31:09+00:00,False,LIQUID METAL = GUARANTEED ACCESS 🔑,79,20,292,4,,
+95,1499742042074796034,2022-03-04 13:42:21+00:00,True,@itschanninglin Perfect combo 🚀,0,1,3,0,,"{'mentions': [{'start': 0, 'end': 15, 'username': 'itschanninglin', 'id': '1505479917160792071'}]}"
+96,1499741169739309057,2022-03-04 13:38:53+00:00,True,@nathanS9203 Still great!,0,1,1,0,,
+97,1499740305842651141,2022-03-04 13:35:27+00:00,False,Which LIQUID METALS are you holding? 👀,33,74,114,2,,
+98,1499602816435896320,2022-03-04 04:29:07+00:00,True,@TipXBL @triplesixjewels LFG.,0,1,2,0,,"{'mentions': [{'start': 8, 'end': 24, 'username': 'triplesixjewels', 'id': '1374015845727342592'}]}"
+99,1499601844087185411,2022-03-04 04:25:15+00:00,False,LIQUID DREAMS. https://t.co/39pZpEUF0S,64,12,174,1,{'media_keys': ['3_1499600190789017614']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/39pZpEUF0S', 'expanded_url': 'https://twitter.com/AscensionT6/status/1499601844087185411/photo/1', 'display_url': 'pic.twitter.com/39pZpEUF0S', 'media_key': '3_1499600190789017614'}]}"
+100,1499529141716197376,2022-03-03 23:36:21+00:00,False,WELCOME TO ASCENSION. Some say you choose your fate... others say it's chosen for you... https://t.co/cwqesmCyAs,93,25,205,6,{'media_keys': ['3_1499528800559849475']},"{'urls': [{'start': 89, 'end': 112, 'url': 'https://t.co/cwqesmCyAs', 'expanded_url': 'https://twitter.com/AscensionT6/status/1499529141716197376/photo/1', 'display_url': 'pic.twitter.com/cwqesmCyAs', 'media_key': '3_1499528800559849475'}]}"

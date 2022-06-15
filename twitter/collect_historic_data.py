@@ -187,7 +187,7 @@ with open('Projects - Historic Data.csv', 'r') as csv_file:
     projects_list = np.array(list_of_rows)
     projects_list = projects_list[1:]
 
-projects_list = projects_list[38:39]
+#projects_list = projects_list[58:60]
 
 #open existing list of account info
 with open('Historic_Info.csv', 'r') as account_file:
@@ -226,10 +226,10 @@ for project in projects_list:
         user_data = get_user_data(my_name)
         user_data_df = pd.DataFrame([user_data], columns = userDataCols)
 
-        #add tweet metrics to dataframe
-            #collect tweets from the time of this running
-        #ask if I need to collect tweet data
-        my_response = input("Should twitter data be collected? (y/n): ")
+
+        #COMMENT THIS IF YOU WANT TO CHECK FOR TWITTER DATA COLLECTION PRIOR TO RUNNING
+        #my_response = input("Should twitter data be collected? (y/n): ")
+        my_response = 'y'
         if my_response == 'y':
             get_tweet_data(my_name, user_data[1])
         if my_response =='n':
