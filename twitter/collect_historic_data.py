@@ -7,6 +7,7 @@ import config as config
 import discord_message_collection as dmc
 import pytz
 from Historic_Crypto import HistoricalData
+import requests
 
 def get_user_data(screen_name):
     #input: Twitter handle
@@ -179,6 +180,29 @@ def get_moving_average_crypto(mint_time):
 
     return pd.DataFrame([np.array([averageEthPriceOne, averageEthPriceThree, averageEthPriceFive, averageEthPriceWeek])], columns=["MAOne", "MAThree", "MAFive", "MAWeek"])
 
+def add_opensea_features(opensea_url):
+    index_of_collection = opensea_url.index('.io') + 4
+    collection = opensea_url[index_of_collection:]
+    my_collection = "https://api.opensea.io/api/v1/%s" % (collection)
+    
+    my_request = requests.get(my_collection).json()
+    features = my_request['collection']
+
+    features_to_add = {
+        'one_day_volume': features['stats']['one_day_volume'],
+        'one_day_change': features['stats']['one_day_change'],
+        'one_day_average_price': features['stats']['one_day_change'],
+        'average_price': features['stats']['average_price'],
+        'thirty_day_average_price': features['stats']['thirty_day_average_price'],
+        'total_supply': features['stats']['total_supply'],
+        'num_owners': features['stats']['total_supply'],
+        'floor_price': features['stats']['floor_price'],
+        'is_subject_to_whitelist': features['is_subject_to_whitelist'],
+        'featured': features['featured']        
+    }
+    dct = {k:[v] for k,v in features_to_add.items()}
+    opensea_df = pd.DataFrame(dct)
+    return opensea_df
 
 #open twitter handles of projects we are looking at
 with open('Projects - Historic Data.csv', 'r') as csv_file:
@@ -187,7 +211,7 @@ with open('Projects - Historic Data.csv', 'r') as csv_file:
     projects_list = np.array(list_of_rows)
     projects_list = projects_list[1:]
 
-#projects_list = projects_list[58:60]
+projects_list = projects_list[61:62]
 
 #open existing list of account info
 with open('Historic_Info.csv', 'r') as account_file:
@@ -209,6 +233,7 @@ for project in projects_list:
     my_name = project[1][index_of_dot_com:]
     my_date = project[3]
     my_time = '12:00 AM'
+    my_opensea_url = project[2]
 
     if my_date == '':
         print("Need to add time for "+str(project[0]))
@@ -248,11 +273,14 @@ for project in projects_list:
         new_nft_df = user_data_df.join(collection_time_df).join(tweet_df).join(influencer_df)
 
         #add price of ETH at mint to dataframe
-
-
         movingAverageEth = get_moving_average_crypto(this_datetime_obj)
         movingAverageEth_df = pd.DataFrame(movingAverageEth, columns=['MAOne','MAThree','MAFive','MAWeek'])
         new_nft_df = new_nft_df.join(movingAverageEth)
+
+        #add opensea data to dataframe
+        opensea_df = add_opensea_features(my_opensea_url)
+        new_nft_df = new_nft_df.join(opensea_df)
+
         #add new dataframe to full dataframe
         fullDataframe = fullDataframe.append(new_nft_df)
 
