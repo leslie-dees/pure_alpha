@@ -1,0 +1,504 @@
+,id,date,this_is_reply,text,retweets,replies,likes,quotes,attachments,entities
+0,1538936594358407168,2022-06-20 17:27:30+00:00,False,Me when the VIVID fit comes in... https://t.co/brdkkGU0tS,10,9,98,1,{'media_keys': ['3_1538935920019132416']},"{'urls': [{'start': 34, 'end': 57, 'url': 'https://t.co/brdkkGU0tS', 'expanded_url': 'https://twitter.com/vividcojp/status/1538936594358407168/photo/1', 'display_url': 'pic.twitter.com/brdkkGU0tS', 'media_key': '3_1538935920019132416'}]}"
+1,1538547557495885824,2022-06-19 15:41:37+00:00,False,RT @DUDU__JAY: GOLD ✅@vividcojp https://t.co/TmPydRLFNl,10,0,0,0,"{'media_keys': ['3_1538492026194259970', '3_1538492026198454272']}","{'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/TmPydRLFNl', 'expanded_url': 'https://twitter.com/DUDU__JAY/status/1538492035337814018/photo/1', 'display_url': 'pic.twitter.com/TmPydRLFNl', 'media_key': '3_1538492026194259970'}, {'start': 32, 'end': 55, 'url': 'https://t.co/TmPydRLFNl', 'expanded_url': 'https://twitter.com/DUDU__JAY/status/1538492035337814018/photo/1', 'display_url': 'pic.twitter.com/TmPydRLFNl', 'media_key': '3_1538492026198454272'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'DUDU__JAY', 'id': '267520433'}, {'start': 21, 'end': 31, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+2,1538285943446048768,2022-06-18 22:22:03+00:00,False,"\V/
+
+Thanks to everyone whose hanging out and letting us build in the background, here's a few things we'd like to share with you while we execute on our roadmap.
+
+Read Here: https://t.co/ml9RqSlhEs https://t.co/3EKvgnU2jo",49,11,233,4,{'media_keys': ['3_1538285464292995072']},"{'urls': [{'start': 175, 'end': 198, 'url': 'https://t.co/ml9RqSlhEs', 'expanded_url': 'https://discord.com/channels/943251819373678633/955107438158295051/984572465533562960', 'display_url': 'discord.com/channels/94325…'}, {'start': 199, 'end': 222, 'url': 'https://t.co/3EKvgnU2jo', 'expanded_url': 'https://twitter.com/vividcojp/status/1538285943446048768/photo/1', 'display_url': 'pic.twitter.com/3EKvgnU2jo', 'media_key': '3_1538285464292995072'}]}"
+3,1538284456254902272,2022-06-18 22:16:08+00:00,False,RT @morris0617: @vividcojp I knew it is not only the clothes!!! It’s Web 3.0! I am buying https://t.co/aVY8suyII6,10,0,0,0,{'media_keys': ['3_1538269623380246528']},"{'urls': [{'start': 90, 'end': 113, 'url': 'https://t.co/aVY8suyII6', 'expanded_url': 'https://twitter.com/morris0617/status/1538269635908636677/photo/1', 'display_url': 'pic.twitter.com/aVY8suyII6', 'media_key': '3_1538269623380246528'}], 'mentions': [{'start': 3, 'end': 14, 'username': 'morris0617', 'id': '1426457152990838793'}, {'start': 16, 'end': 26, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+4,1537854387204259841,2022-06-17 17:47:12+00:00,False,What city wants a VIVID pop-up?,15,53,135,0,,
+5,1537313786687725568,2022-06-16 05:59:03+00:00,True,@whaaawhaaasan 🫡🫡🫡,3,0,26,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'whaaawhaaasan', 'id': '1434366391935590402'}]}"
+6,1537081371457228800,2022-06-15 14:35:31+00:00,False,GM VIVID 🔆🔆🔆,14,42,203,0,,
+7,1536890665472167936,2022-06-15 01:57:43+00:00,True,@Golanv13 @twinflame432 🔥🔥🔥,0,0,5,0,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'Golanv13', 'id': '431230600'}, {'start': 10, 'end': 23, 'username': 'twinflame432', 'id': '1432167890011271175'}]}"
+8,1536596354302062592,2022-06-14 06:28:14+00:00,False,"Digital World 🤝 Physical World
+
+\V/",34,19,174,2,,
+9,1536443894165958656,2022-06-13 20:22:24+00:00,True,"@fanglurker 🗣🗣🗣
+VIVID WORLDWIDE",2,1,16,0,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'fanglurker', 'id': '753660054'}]}"
+10,1536216253982838784,2022-06-13 05:17:51+00:00,False,"RT @YammoYammo: I'd love to see more vivids on my timeline. If you got one please leave your vivid down below! \\//
+@vividcojp @aki001208 h…",27,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'YammoYammo', 'id': '179127631'}, {'start': 116, 'end': 126, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 127, 'end': 137, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+11,1536216221179211776,2022-06-13 05:17:43+00:00,False,"…Building…🛠🪚🧰
+New holders, here is our roadmap ❤️ We are working around the clock to create the future of VIVID! https://t.co/o4pDqJKBix",29,3,143,1,,"{'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/o4pDqJKBix', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848', 'display_url': 'twitter.com/vividcojp/stat…'}]}"
+12,1536162061293477890,2022-06-13 01:42:30+00:00,True,@Rex_eth96 @aki001208 Welcome Rex 🫂,2,1,5,0,,"{'annotations': [{'start': 30, 'end': 32, 'probability': 0.5937, 'type': 'Person', 'normalized_text': 'Rex'}], 'mentions': [{'start': 0, 'end': 10, 'username': 'Rex_eth96', 'id': '841070948'}, {'start': 11, 'end': 21, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+13,1535867824261844992,2022-06-12 06:13:19+00:00,False,"&gt; Role Call 🗣
+What city are you reporting from?",11,88,116,0,,
+14,1535814526884511744,2022-06-12 02:41:31+00:00,True,@LoveAngel_eth Welcome 🫂,0,0,5,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'LoveAngel_eth', 'id': '1401166819184955392'}]}"
+15,1535801000531050498,2022-06-12 01:47:46+00:00,False,"👀👀👀 
+Who saw it?",20,30,145,0,,
+16,1535749677743632385,2022-06-11 22:23:50+00:00,False,We're just getting started. \V/ https://t.co/eFUrSintyE,94,14,317,3,,"{'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/eFUrSintyE', 'expanded_url': 'https://twitter.com/aki001208/status/1535744426013626368', 'display_url': 'twitter.com/aki001208/stat…'}]}"
+17,1535656925811056646,2022-06-11 16:15:16+00:00,False,Enjoy your weekend VIVID family 🫡,21,16,161,0,,
+18,1535390326067953664,2022-06-10 22:35:54+00:00,True,@josh08336074 DM us!,0,0,0,0,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'josh08336074', 'id': '1420540284048343044'}]}"
+19,1535390277321379840,2022-06-10 22:35:42+00:00,True,@MaryJLeeee DM us!,0,0,1,0,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'MaryJLeeee', 'id': '29863591'}]}"
+20,1535388182962839552,2022-06-10 22:27:23+00:00,True,"@josh08336074 Make sure you verify your assets first. Once you are a verified holder, the giveaway is under 🎁member-giveaway",0,1,0,0,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'josh08336074', 'id': '1420540284048343044'}]}"
+21,1535385653910704129,2022-06-10 22:17:20+00:00,False,"👀 GIVING AWAY A VIVID WORK JACKET ON DISCORD RN 
+
+Make sure you are a Verified Holder ✅🤝
+
+https://t.co/P1zhPIccaj",21,13,103,2,,"{'urls': [{'start': 90, 'end': 113, 'url': 'https://t.co/P1zhPIccaj', 'expanded_url': 'https://discord.com/channels/943251819373678633/982415779142205472/984937525976137809', 'display_url': 'discord.com/channels/94325…', 'unwound_url': 'https://discord.com/channels/943251819373678633/982415779142205472/984937525976137809'}]}"
+22,1535319377502822400,2022-06-10 17:53:59+00:00,False,./sbin/Test_Subjects 🧪,34,51,207,2,,
+23,1535037611881811968,2022-06-09 23:14:20+00:00,False,"\V/...VIVID is BUILDING...
+
+Check out our latest announcement on discord ❤️
+
+https://t.co/ml9RqSlhEs https://t.co/IepMjbqCLS",37,13,172,0,{'media_keys': ['3_1535037077888241664']},"{'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/ml9RqSlhEs', 'expanded_url': 'https://discord.com/channels/943251819373678633/955107438158295051/984572465533562960', 'display_url': 'discord.com/channels/94325…'}, {'start': 101, 'end': 124, 'url': 'https://t.co/IepMjbqCLS', 'expanded_url': 'https://twitter.com/vividcojp/status/1535037611881811968/photo/1', 'display_url': 'pic.twitter.com/IepMjbqCLS', 'media_key': '3_1535037077888241664'}]}"
+24,1535024069610831872,2022-06-09 22:20:32+00:00,True,@Hayito @LuxLiveOfficial 🔥🔥🔥,0,0,1,0,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'Hayito', 'id': '53577201'}, {'start': 8, 'end': 24, 'username': 'LuxLiveOfficial', 'id': '794997541'}]}"
+25,1535009421901762561,2022-06-09 21:22:19+00:00,False,😱Great pickup! https://t.co/5u2OlRtp8W,20,4,136,0,,"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/5u2OlRtp8W', 'expanded_url': 'https://twitter.com/rtfkt_metaverse/status/1533779325434138626', 'display_url': 'twitter.com/rtfkt_metavers…'}]}"
+26,1534680897294782465,2022-06-08 23:36:53+00:00,True,@Son_yyy @whaaawhaaasan ❤️,0,0,1,0,,"{'mentions': [{'start': 0, 'end': 8, 'username': 'Son_yyy', 'id': '1451386512520753153'}, {'start': 9, 'end': 23, 'username': 'whaaawhaaasan', 'id': '1434366391935590402'}]}"
+27,1534674065289465856,2022-06-08 23:09:44+00:00,False,"#VVDFollowVVD 🤝
+Go Go Go!",38,85,204,0,,"{'hashtags': [{'start': 0, 'end': 13, 'tag': 'VVDFollowVVD'}]}"
+28,1534668248184389633,2022-06-08 22:46:37+00:00,True,@ArcherTheGod SQUADED UP 🤝,1,0,15,0,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'ArcherTheGod', 'id': '1162399201038409730'}]}"
+29,1534618703441956864,2022-06-08 19:29:45+00:00,False,"MANGA ROADMAP
+
+Q3 2022
+Manga begins production: community art/writing integration
+
+Q4 2022
+Manga production sneak-peaks + holder involvement
+
+2023
+Manga launches with -tier publishing partner
+Physical/digital: with holder benefits
+
+2024
+Top ongoing manga series! https://t.co/k0Ar0tSpd7",65,10,199,3,,"{'urls': [{'start': 263, 'end': 286, 'url': 'https://t.co/k0Ar0tSpd7', 'expanded_url': 'https://twitter.com/vividcojp/status/1534583066424856579', 'display_url': 'twitter.com/vividcojp/stat…'}], 'annotations': [{'start': 0, 'end': 27, 'probability': 0.5941, 'type': 'Product', 'normalized_text': 'MANGA ROADMAP Q3 2022 Manga'}]}"
+30,1534583066424856579,2022-06-08 17:08:08+00:00,False,\V/...Manga Loading... https://t.co/0yzqaPJQyS,138,32,476,9,{'media_keys': ['3_1534582745195634688']},"{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/0yzqaPJQyS', 'expanded_url': 'https://twitter.com/vividcojp/status/1534583066424856579/photo/1', 'display_url': 'pic.twitter.com/0yzqaPJQyS', 'media_key': '3_1534582745195634688'}]}"
+31,1534297410335215616,2022-06-07 22:13:03+00:00,True,"2023
+Pop-up events on every continent (ok maybe not Antarctica)
+Permanent stores in LA and Tokyo (Europe in consideration)
+Fashion sold in high-end major retailers globally,
+
+2024
+Vivid x Fashion Weeks
+Continued expansion of permanent stores and popup presence
+...",8,2,64,0,,"{'annotations': [{'start': 84, 'end': 85, 'probability': 0.963, 'type': 'Place', 'normalized_text': 'LA'}, {'start': 91, 'end': 95, 'probability': 0.7333, 'type': 'Place', 'normalized_text': 'Tokyo'}, {'start': 98, 'end': 103, 'probability': 0.622, 'type': 'Place', 'normalized_text': 'Europe'}]}"
+32,1534297409215377408,2022-06-07 22:13:02+00:00,False,"VIVID Fashion - 🛣️🗺️
+
+Q3 2022
+Collection #001 begins shipping to holders,
+Collection #002 produced/begin shipping to holders
+Webstore launch
+
+Q4 2022
+Popup stores: LA &amp; Tokyo (with holder benefits)
+Collections #001 +#002 in retail stores
+Launch""X-Class"" couture fashion sub-brand",56,22,212,3,,"{'annotations': [{'start': 16, 'end': 46, 'probability': 0.3239, 'type': 'Product', 'normalized_text': '🛣️🗺️ Q3 2022 Collection #001'}]}"
+33,1534263955169763328,2022-06-07 20:00:06+00:00,False,"\V/
+
+VIVID is FASHION
+
+Polyester mohair knit brushed sweater featuring @aki001208 skeleton illustration from Collection I 💀 
+
+Coming Q3 2022 ❤️ https://t.co/OdVJQWrbZD",62,17,260,5,{'media_keys': ['3_1534258589694537728']},"{'urls': [{'start': 144, 'end': 167, 'url': 'https://t.co/OdVJQWrbZD', 'expanded_url': 'https://twitter.com/vividcojp/status/1534263955169763328/photo/1', 'display_url': 'pic.twitter.com/OdVJQWrbZD', 'media_key': '3_1534258589694537728'}], 'mentions': [{'start': 71, 'end': 81, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+34,1534244308676513792,2022-06-07 18:42:02+00:00,False,"\V/
+
+OpenSea &amp; Contract Verification Complete!
+
+Our contract is verified and we have a blue checkmark next to our ""VividDeployer"" on OpenSea! 
+
+https://t.co/BM1BRUeLwb https://t.co/bFwlsgdSja",43,14,170,0,{'media_keys': ['3_1534244051708350464']},"{'urls': [{'start': 148, 'end': 171, 'url': 'https://t.co/BM1BRUeLwb', 'expanded_url': 'https://opensea.io/collection/vividlimited', 'display_url': 'opensea.io/collection/viv…'}, {'start': 172, 'end': 195, 'url': 'https://t.co/bFwlsgdSja', 'expanded_url': 'https://twitter.com/vividcojp/status/1534244308676513792/photo/1', 'display_url': 'pic.twitter.com/bFwlsgdSja', 'media_key': '3_1534244051708350464'}]}"
+35,1534229205763837952,2022-06-07 17:42:01+00:00,False,VIVID IS ACKY BRIGHT 🔆 https://t.co/Khon084gSh,50,4,225,0,,"{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/Khon084gSh', 'expanded_url': 'https://twitter.com/aki001208/status/1534179597859770368', 'display_url': 'twitter.com/aki001208/stat…'}]}"
+36,1534227306956263424,2022-06-07 17:34:29+00:00,False,GM ☀️,7,29,124,0,,
+37,1534054396547371008,2022-06-07 06:07:24+00:00,False,What are you looking forward to the most from our roadmap? \V/ https://t.co/o4pDqJKBix,48,29,175,2,,"{'urls': [{'start': 63, 'end': 86, 'url': 'https://t.co/o4pDqJKBix', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848', 'display_url': 'twitter.com/vividcojp/stat…'}]}"
+38,1533977550652776448,2022-06-07 01:02:02+00:00,False,"For those who missed out ❤️ 
+https://t.co/l4NjXnAGSU",24,0,73,0,,"{'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/l4NjXnAGSU', 'expanded_url': 'https://twitter.com/i/spaces/1ZkJzbALDbvJv', 'display_url': 'twitter.com/i/spaces/1ZkJz…'}]}"
+39,1533975891763527680,2022-06-07 00:55:27+00:00,False,🤝 Thanks @BenjiSucher https://t.co/lVLyOOhVKi,14,0,91,0,,"{'urls': [{'start': 22, 'end': 45, 'url': 'https://t.co/lVLyOOhVKi', 'expanded_url': 'https://twitter.com/BenjiSucher/status/1532776345213747200', 'display_url': 'twitter.com/BenjiSucher/st…'}], 'mentions': [{'start': 9, 'end': 21, 'username': 'BenjiSucher', 'id': '334736071'}]}"
+40,1533974405319041026,2022-06-07 00:49:32+00:00,True,@SpicyNFT 🔥 🔥 🔥,0,0,5,0,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'SpicyNFT', 'id': '1424825775233114116'}]}"
+41,1533974167099277312,2022-06-07 00:48:35+00:00,False,Let us see all those VIVID PFPs 👀,26,116,214,0,,
+42,1533972972096000001,2022-06-07 00:43:51+00:00,True,@pismonis Simon 🤝 VIVID,0,0,11,0,,"{'annotations': [{'start': 10, 'end': 14, 'probability': 0.8141, 'type': 'Person', 'normalized_text': 'Simon'}], 'mentions': [{'start': 0, 'end': 9, 'username': 'pismonis', 'id': '925860265551331328'}]}"
+43,1533972800939040768,2022-06-07 00:43:10+00:00,False,"RT @RAYN4648: vivid follow vivid—
+comment below! #182 &amp; #183 https://t.co/hJbSbXzf7l",65,0,0,0,"{'media_keys': ['3_1532866600000421888', '3_1532866599996252161', '3_1532866599996227584']}","{'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/hJbSbXzf7l', 'expanded_url': 'https://twitter.com/RAYN4648/status/1532866604329050114/photo/1', 'display_url': 'pic.twitter.com/hJbSbXzf7l', 'media_key': '3_1532866600000421888'}, {'start': 65, 'end': 88, 'url': 'https://t.co/hJbSbXzf7l', 'expanded_url': 'https://twitter.com/RAYN4648/status/1532866604329050114/photo/1', 'display_url': 'pic.twitter.com/hJbSbXzf7l', 'media_key': '3_1532866599996252161'}, {'start': 65, 'end': 88, 'url': 'https://t.co/hJbSbXzf7l', 'expanded_url': 'https://twitter.com/RAYN4648/status/1532866604329050114/photo/1', 'display_url': 'pic.twitter.com/hJbSbXzf7l', 'media_key': '3_1532866599996227584'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'RAYN4648', 'id': '1495462791171522563'}]}"
+44,1533971593356972032,2022-06-07 00:38:22+00:00,False,"VIVID Official Links ✨
+
+Discord: https://t.co/b1BfIsMsWC 
+OpenSea: https://t.co/BM1BRUeLwb
+Website: https://t.co/UB3Er1pcSn
+
+Our 'VIVID ROADMAP + GLOBAL DOMINATION + MORE' AMA Recap will be announced on discord, thanks for tuning in.",33,8,115,1,,"{'urls': [{'start': 33, 'end': 56, 'url': 'https://t.co/b1BfIsMsWC', 'expanded_url': 'http://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 67, 'end': 90, 'url': 'https://t.co/BM1BRUeLwb', 'expanded_url': 'https://opensea.io/collection/vividlimited', 'display_url': 'opensea.io/collection/viv…'}, {'start': 100, 'end': 123, 'url': 'https://t.co/UB3Er1pcSn', 'expanded_url': 'https://www.vivid.limited/', 'display_url': 'vivid.limited'}]}"
+45,1533954575362691072,2022-06-06 23:30:44+00:00,False,"Thank you for the support, love you VIVID family ❤️",36,15,239,1,,
+46,1533946725320142848,2022-06-06 22:59:33+00:00,False,"\V/ 
+
+We've developed an ambitious and carefully, realistically planned roadmap, that's designed to create value for holders.
+
+ Our conquest starts here. 
+
+Here's a link to our GitBook with some more details: https://t.co/1HbNTe68Hy https://t.co/GI6EHqorw7",204,48,455,26,"{'media_keys': ['3_1533946673247834112', '3_1533946690566164481', '3_1533946690578751488', '3_1533946698384351233']}","{'urls': [{'start': 209, 'end': 232, 'url': 'https://t.co/1HbNTe68Hy', 'expanded_url': 'https://vividlimited.gitbook.io/vivid/', 'display_url': 'vividlimited.gitbook.io/vivid/', 'images': [{'url': 'https://pbs.twimg.com/news_img/1538042441961381888/YkmdUnEW?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1538042441961381888/YkmdUnEW?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'About Vivid', 'description': 'Welcome to the Vivid GitBook. A home for our project information.', 'unwound_url': 'https://vividlimited.gitbook.io/vivid/'}, {'start': 233, 'end': 256, 'url': 'https://t.co/GI6EHqorw7', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848/photo/1', 'display_url': 'pic.twitter.com/GI6EHqorw7', 'media_key': '3_1533946673247834112'}, {'start': 233, 'end': 256, 'url': 'https://t.co/GI6EHqorw7', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848/photo/1', 'display_url': 'pic.twitter.com/GI6EHqorw7', 'media_key': '3_1533946690566164481'}, {'start': 233, 'end': 256, 'url': 'https://t.co/GI6EHqorw7', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848/photo/1', 'display_url': 'pic.twitter.com/GI6EHqorw7', 'media_key': '3_1533946690578751488'}, {'start': 233, 'end': 256, 'url': 'https://t.co/GI6EHqorw7', 'expanded_url': 'https://twitter.com/vividcojp/status/1533946725320142848/photo/1', 'display_url': 'pic.twitter.com/GI6EHqorw7', 'media_key': '3_1533946698384351233'}]}"
+47,1533841209596125185,2022-06-06 16:00:16+00:00,False,"GM VIVID FAM ☀️
+
+Mint ✅
+Reveal ✅
+
+The real fun begins now, stay tuned.",68,49,330,1,,
+48,1533727640267288576,2022-06-06 08:28:59+00:00,True,@traveIer0420 @tdangy VIVID team looking strong 🤝,1,1,4,0,,"{'mentions': [{'start': 0, 'end': 13, 'username': 'traveIer0420', 'id': '22841059'}, {'start': 14, 'end': 21, 'username': 'tdangy', 'id': '51262385'}]}"
+49,1533720781116411904,2022-06-06 08:01:44+00:00,True,"@oij134 @aki001208 🤝 It's all coming together, see you there OI.",0,2,8,0,,"{'mentions': [{'start': 0, 'end': 7, 'username': 'oij134', 'id': '1288255437641375744'}, {'start': 8, 'end': 18, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+50,1533715296799715329,2022-06-06 07:39:56+00:00,True,@MoonkeeNFT Just the beginning ✨ Welcome to the fam 🤝,1,3,17,0,,"{'mentions': [{'start': 0, 'end': 11, 'username': 'MoonkeeNFT', 'id': '1438957341181886465'}]}"
+51,1533714758754439168,2022-06-06 07:37:48+00:00,True,@TheSteveMills 🧠🧠🧠,0,0,3,0,,"{'mentions': [{'start': 0, 'end': 14, 'username': 'TheSteveMills', 'id': '1289999208'}]}"
+52,1533714494358138880,2022-06-06 07:36:45+00:00,True,@YouMing1226 Welcome #100 🫂 Make sure to keep your dragon fed ✨,0,0,11,0,,"{'mentions': [{'start': 0, 'end': 12, 'username': 'YouMing1226', 'id': '1227244818855653379'}]}"
+53,1533636024290508800,2022-06-06 02:24:56+00:00,False,RT @aki001208: https://t.co/GIIHO7NXjv,520,0,0,0,{'media_keys': ['3_1533577339652648960']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/GIIHO7NXjv', 'expanded_url': 'https://twitter.com/aki001208/status/1533577344597647360/photo/1', 'display_url': 'pic.twitter.com/GIIHO7NXjv', 'media_key': '3_1533577339652648960'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+54,1533582512428961792,2022-06-05 22:52:18+00:00,False,RT @SpicyNFT: I may or may not have gotten insanely lucky with the @vividcojp reveal... https://t.co/fserNq4kAa,39,0,0,0,{'media_keys': ['3_1533577692725055489']},"{'urls': [{'start': 88, 'end': 111, 'url': 'https://t.co/fserNq4kAa', 'expanded_url': 'https://twitter.com/SpicyNFT/status/1533577786199269376/photo/1', 'display_url': 'pic.twitter.com/fserNq4kAa', 'media_key': '3_1533577692725055489'}], 'mentions': [{'start': 3, 'end': 12, 'username': 'SpicyNFT', 'id': '1424825775233114116'}, {'start': 67, 'end': 77, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+55,1533580423741132800,2022-06-05 22:44:00+00:00,False,RT @Asianriceeeee: Pulled a 1/1! His name is Johnny! @vividcojp https://t.co/CSGwmvfhFp,34,0,0,0,{'media_keys': ['3_1533580116176928768']},"{'urls': [{'start': 64, 'end': 87, 'url': 'https://t.co/CSGwmvfhFp', 'expanded_url': 'https://twitter.com/Asianriceeeee/status/1533580120035692544/photo/1', 'display_url': 'pic.twitter.com/CSGwmvfhFp', 'media_key': '3_1533580116176928768'}], 'annotations': [{'start': 45, 'end': 50, 'probability': 0.946, 'type': 'Person', 'normalized_text': 'Johnny'}], 'mentions': [{'start': 3, 'end': 17, 'username': 'Asianriceeeee', 'id': '1444834958858543109'}, {'start': 53, 'end': 63, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+56,1533579001188323328,2022-06-05 22:38:21+00:00,False,"Vivid is revealing!
+
+Make sure you refresh your metadata before you trade. Share your Vivid NFTs below! https://t.co/bMb91jKk9d",80,112,385,4,{'media_keys': ['3_1533578131939897344']},"{'urls': [{'start': 104, 'end': 127, 'url': 'https://t.co/bMb91jKk9d', 'expanded_url': 'https://twitter.com/vividcojp/status/1533579001188323328/photo/1', 'display_url': 'pic.twitter.com/bMb91jKk9d', 'media_key': '3_1533578131939897344'}]}"
+57,1533570391863504897,2022-06-05 22:04:08+00:00,False,RT @ArcherTheGod: READY FOR REVEAL @vividcojp https://t.co/gMZkU4LHnq,22,0,0,0,{'media_keys': ['3_1533567174828347393']},"{'urls': [{'start': 46, 'end': 69, 'url': 'https://t.co/gMZkU4LHnq', 'expanded_url': 'https://twitter.com/ArcherTheGod/status/1533567242981580800/photo/1', 'display_url': 'pic.twitter.com/gMZkU4LHnq', 'media_key': '3_1533567174828347393'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'ArcherTheGod', 'id': '1162399201038409730'}, {'start': 35, 'end': 45, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+58,1533537065174016000,2022-06-05 19:51:42+00:00,False,"Sacha, after losing her eye in her Dinocore initiation, now rocking upgraded dual-mech arms, a black skull tattoo, and shogunate battle kimono in front of Vivid Corp headquarters. https://t.co/HyhYDBFcRJ",55,7,223,0,{'media_keys': ['3_1533535068366417921']},"{'urls': [{'start': 180, 'end': 203, 'url': 'https://t.co/HyhYDBFcRJ', 'expanded_url': 'https://twitter.com/vividcojp/status/1533537065174016000/photo/1', 'display_url': 'pic.twitter.com/HyhYDBFcRJ', 'media_key': '3_1533535068366417921'}], 'annotations': [{'start': 155, 'end': 164, 'probability': 0.8421, 'type': 'Organization', 'normalized_text': 'Vivid Corp'}]}"
+59,1533475745212731392,2022-06-05 15:48:02+00:00,False,"RT @kylienft: 0/ anime is taking over the world
+
+or
+
+a thread on why you're underexposed to @vividcojp by @aki001208 🧵 https://t.co/Acaffh9…",117,0,0,0,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'kylienft', 'id': '1434365911897673735'}, {'start': 92, 'end': 102, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 106, 'end': 116, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+60,1533321465394712576,2022-06-05 05:34:59+00:00,False,"RT @iamashchild: ok so i’ve been in the @vividcojp project for all of 20 minutes now and here’s my assessment 
+
+art on the level of top pro…",83,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'iamashchild', 'id': '1000298374451552256'}, {'start': 40, 'end': 50, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+61,1533213622440034304,2022-06-04 22:26:27+00:00,True,"Common/Uncommon Miko closing her eyes rocking a Dinocore helm, double swords, and a grav-running uniform, in front of an Abyssal Deep background of the deep underwater pods. https://t.co/cH9gm0eFya",37,2,151,3,{'media_keys': ['3_1533212499440304128']},"{'urls': [{'start': 174, 'end': 197, 'url': 'https://t.co/cH9gm0eFya', 'expanded_url': 'https://twitter.com/vividcojp/status/1533213622440034304/photo/1', 'display_url': 'pic.twitter.com/cH9gm0eFya', 'media_key': '3_1533212499440304128'}]}"
+62,1533213616928792578,2022-06-04 22:26:26+00:00,True,"Common/Uncommon Ren with a Wagmeow mask, Shogunate battle kimono paired with battle axe. https://t.co/iQUSyGctcD",36,2,145,0,{'media_keys': ['3_1533211024047734789']},"{'urls': [{'start': 89, 'end': 112, 'url': 'https://t.co/iQUSyGctcD', 'expanded_url': 'https://twitter.com/vividcojp/status/1533213616928792578/photo/1', 'display_url': 'pic.twitter.com/iQUSyGctcD', 'media_key': '3_1533211024047734789'}]}"
+63,1533213611576897536,2022-06-04 22:26:25+00:00,False,"We're extending our reveal an additional 24 hours, however though in the mean time, we'd love to share some sneak peaks with you guys.
+
+Common/Uncommon Sacha -- mech arms, tots spike mask, Dinocore jacket and headgear tech-implants, against a background of Surface Earth. https://t.co/xw9udJEfOq",112,14,378,10,{'media_keys': ['3_1533209890071515136']},"{'urls': [{'start': 272, 'end': 295, 'url': 'https://t.co/xw9udJEfOq', 'expanded_url': 'https://twitter.com/vividcojp/status/1533213611576897536/photo/1', 'display_url': 'pic.twitter.com/xw9udJEfOq', 'media_key': '3_1533209890071515136'}], 'annotations': [{'start': 257, 'end': 269, 'probability': 0.3636, 'type': 'Product', 'normalized_text': 'Surface Earth'}]}"
+64,1532905236506898432,2022-06-04 02:01:03+00:00,True,Vivid Post Reveal AMA - https://t.co/mt5zYtWNQb,31,3,80,1,,"{'urls': [{'start': 24, 'end': 47, 'url': 'https://t.co/mt5zYtWNQb', 'expanded_url': 'https://twitter.com/i/spaces/1ypJdEBAOWoxW', 'display_url': 'twitter.com/i/spaces/1ypJd…'}]}"
+65,1532905234371969024,2022-06-04 02:01:02+00:00,False,"A mint was done and now a reveal awaits! Your Vivid NFT will be revealed June 4, 3:30PM PST
+
+We'll be hosting an AMA after our reveal at 4:00PM PST.
+
+The effect of the collection is to deliver an authentic blackline manga PFP.
+
+We hope that revealing one will feel truly special. https://t.co/7HgNnRWKX1",159,27,444,14,"{'media_keys': ['3_1532903567605891072', '3_1532904458249641984', '3_1532904504097591296', '3_1532904543251406848']}","{'urls': [{'start': 280, 'end': 303, 'url': 'https://t.co/7HgNnRWKX1', 'expanded_url': 'https://twitter.com/vividcojp/status/1532905234371969024/photo/1', 'display_url': 'pic.twitter.com/7HgNnRWKX1', 'media_key': '3_1532903567605891072'}, {'start': 280, 'end': 303, 'url': 'https://t.co/7HgNnRWKX1', 'expanded_url': 'https://twitter.com/vividcojp/status/1532905234371969024/photo/1', 'display_url': 'pic.twitter.com/7HgNnRWKX1', 'media_key': '3_1532904458249641984'}, {'start': 280, 'end': 303, 'url': 'https://t.co/7HgNnRWKX1', 'expanded_url': 'https://twitter.com/vividcojp/status/1532905234371969024/photo/1', 'display_url': 'pic.twitter.com/7HgNnRWKX1', 'media_key': '3_1532904504097591296'}, {'start': 280, 'end': 303, 'url': 'https://t.co/7HgNnRWKX1', 'expanded_url': 'https://twitter.com/vividcojp/status/1532905234371969024/photo/1', 'display_url': 'pic.twitter.com/7HgNnRWKX1', 'media_key': '3_1532904543251406848'}]}"
+66,1532646904739135489,2022-06-03 08:54:31+00:00,False,"RT @aki001208: I'm soooo glad!!
+Thank you so much everyone!
+WELCOME TO THE VIVID UNIVERSE!",120,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+67,1532630651416940547,2022-06-03 07:49:56+00:00,False,"WE OFFICIALLY MINTED OUT, COME JOIN US FOR A CELEBRATION!  https://t.co/bZ67xxBpg4",46,8,199,5,,"{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/bZ67xxBpg4', 'expanded_url': 'https://twitter.com/i/spaces/1DXxyDpZXkNJM', 'display_url': 'twitter.com/i/spaces/1DXxy…'}]}"
+68,1532630005221449729,2022-06-03 07:47:22+00:00,False,"WE ARE OFFICIALLY SOLD OUT!
+
+8,888 VIVID NFTS! NONE BURNED!
+
+WELCOME TO THE VIVID UNIVERSE!",261,87,811,73,,
+69,1532626101909917696,2022-06-03 07:31:52+00:00,False,We're 80% minted out with 1h left: https://t.co/UB3Er1pcSn,49,14,161,8,,"{'urls': [{'start': 35, 'end': 58, 'url': 'https://t.co/UB3Er1pcSn', 'expanded_url': 'https://www.vivid.limited/', 'display_url': 'vivid.limited'}]}"
+70,1532619284878196736,2022-06-03 07:04:46+00:00,False,Notice us senpai - @opensea https://t.co/SsWo3vZtCj,67,17,259,7,{'media_keys': ['3_1532619073640538112']},"{'urls': [{'start': 28, 'end': 51, 'url': 'https://t.co/SsWo3vZtCj', 'expanded_url': 'https://twitter.com/vividcojp/status/1532619284878196736/photo/1', 'display_url': 'pic.twitter.com/SsWo3vZtCj', 'media_key': '3_1532619073640538112'}], 'mentions': [{'start': 19, 'end': 27, 'username': 'opensea', 'id': '946213559213555712'}]}"
+71,1532598004259049473,2022-06-03 05:40:13+00:00,False,"Our public sale has began! 
+
+Make sure you head over to https://t.co/L7lpyRcK4V and get your Vivid NFT!
+
+All remaining supply after the end of public sale will be burned! You have until 1:30AM PST to mint.
+
+Vivid is here! https://t.co/vyT0ZMMI12",149,27,517,30,{'media_keys': ['16_1532597978833137664']},"{'urls': [{'start': 56, 'end': 79, 'url': 'https://t.co/L7lpyRcK4V', 'expanded_url': 'https://vivid.limited/', 'display_url': 'vivid.limited'}, {'start': 222, 'end': 245, 'url': 'https://t.co/vyT0ZMMI12', 'expanded_url': 'https://twitter.com/vividcojp/status/1532598004259049473/photo/1', 'display_url': 'pic.twitter.com/vyT0ZMMI12', 'media_key': '16_1532597978833137664'}]}"
+72,1532586613267566592,2022-06-03 04:54:57+00:00,False,"As our whitelist mint comes to an end in the next 40 minutes, we'd like to announce our first raffle!
+
+We'll be giving away 5 signed Acky artbooks to people who minted a Vivid NFT!
+
+Inside of discord, we're giving away our first puffer jackets with RUMBLE.
+
+Good luck! https://t.co/6h5ubZiNhr",71,20,284,3,{'media_keys': ['7_1532586342592303104']},"{'urls': [{'start': 269, 'end': 292, 'url': 'https://t.co/6h5ubZiNhr', 'expanded_url': 'https://twitter.com/vividcojp/status/1532586613267566592/video/1', 'display_url': 'pic.twitter.com/6h5ubZiNhr', 'media_key': '7_1532586342592303104'}]}"
+73,1532549835332603904,2022-06-03 02:28:48+00:00,False,"VIVID IS MINTING!
+
+CHOSEN! You've been waiting for this. For the next 3 hours, you can mint.
+
+Head over to https://t.co/L7lpyRcK4V to mint your Vivid NFT.
+
+Whitelist minting ends and public sale begins at 10:30PM PST.
+
+All minting ends June 3rd, 1:30AM PST. https://t.co/4kCZlJ6CvT",57,20,200,8,{'media_keys': ['3_1532541515154612225']},"{'urls': [{'start': 107, 'end': 130, 'url': 'https://t.co/L7lpyRcK4V', 'expanded_url': 'https://vivid.limited/', 'display_url': 'vivid.limited'}, {'start': 258, 'end': 281, 'url': 'https://t.co/4kCZlJ6CvT', 'expanded_url': 'https://twitter.com/vividcojp/status/1532549835332603904/photo/1', 'display_url': 'pic.twitter.com/4kCZlJ6CvT', 'media_key': '3_1532541515154612225'}]}"
+74,1532524913868693504,2022-06-03 00:49:47+00:00,False,"RT @aki001208: It's been a great pleasure to work with @vividcojp. Today is a minting day, but don't forget this is just the beginning of a…",156,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}, {'start': 55, 'end': 65, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+75,1532502434257326080,2022-06-02 23:20:27+00:00,False,"Vivid is MANGA.
+
+With U.S. and Japanese publishing already secured (more on that soon…), the Vivid manga will release both physically and digitally, following characters you’ve met (featured in the NFTs) and many more you haven’t – from the creative world of mangaka Acky Bright. https://t.co/IjI4LQGgPx",133,13,444,13,{'media_keys': ['3_1532499877506084864']},"{'urls': [{'start': 280, 'end': 303, 'url': 'https://t.co/IjI4LQGgPx', 'expanded_url': 'https://twitter.com/vividcojp/status/1532502434257326080/photo/1', 'display_url': 'pic.twitter.com/IjI4LQGgPx', 'media_key': '3_1532499877506084864'}], 'annotations': [{'start': 22, 'end': 25, 'probability': 0.6118, 'type': 'Place', 'normalized_text': 'U.S.'}]}"
+76,1532461329184747520,2022-06-02 20:37:07+00:00,False,RT @aki001208: https://t.co/GUPSPMsfMq,338,0,0,0,{'media_keys': ['3_1532425573233876992']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/GUPSPMsfMq', 'expanded_url': 'https://twitter.com/aki001208/status/1532425588132065280/photo/1', 'display_url': 'pic.twitter.com/GUPSPMsfMq', 'media_key': '3_1532425573233876992'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+77,1532430661981597696,2022-06-02 18:35:15+00:00,True,"Vivid is a new brand for the new culture.
+Vivid is characters.
+Vivid is fashion.
+Vivid is stories.
+Vivid is manga.
+
+Vivid is soon.",12,2,93,0,,
+78,1532430660001882112,2022-06-02 18:35:15+00:00,True,"Amuse Inc. is a Japanese entertainment company with more than $400M in revenue. They’re producers of TV and film, including Rurouni Kenshin, Midnight Diner (Netflix), and Your Name.
+
+Amuse are partnered with Vivid to scale the fashion, manga, and brand across Japan and Asia. https://t.co/miXoeDlgfl",34,8,138,3,{'media_keys': ['3_1532422504299384832']},"{'urls': [{'start': 276, 'end': 299, 'url': 'https://t.co/miXoeDlgfl', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430660001882112/photo/1', 'display_url': 'pic.twitter.com/miXoeDlgfl', 'media_key': '3_1532422504299384832'}], 'annotations': [{'start': 0, 'end': 9, 'probability': 0.9278, 'type': 'Organization', 'normalized_text': 'Amuse Inc.'}, {'start': 124, 'end': 138, 'probability': 0.6522, 'type': 'Other', 'normalized_text': 'Rurouni Kenshin'}, {'start': 141, 'end': 154, 'probability': 0.7492, 'type': 'Other', 'normalized_text': 'Midnight Diner'}, {'start': 157, 'end': 163, 'probability': 0.5271, 'type': 'Product', 'normalized_text': 'Netflix'}, {'start': 260, 'end': 264, 'probability': 0.8702, 'type': 'Place', 'normalized_text': 'Japan'}, {'start': 270, 'end': 273, 'probability': 0.7173, 'type': 'Place', 'normalized_text': 'Asia'}]}"
+79,1532430655484592129,2022-06-02 18:35:14+00:00,True,"Vivid Utility.
+
+A brand pass with exclusive, early, and giveaway access to events, experiences, and products. With in-hand already fashion and Web 3 experiences (TBA), and an elite community-focused team absolutely dedicated to world domination. https://t.co/x0JJrcLFBv",14,2,86,1,"{'media_keys': ['3_1532422450222223360', '3_1532422450306158593', '3_1532422450666844160', '3_1532422451094642688']}","{'urls': [{'start': 246, 'end': 269, 'url': 'https://t.co/x0JJrcLFBv', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430655484592129/photo/1', 'display_url': 'pic.twitter.com/x0JJrcLFBv', 'media_key': '3_1532422450222223360'}, {'start': 246, 'end': 269, 'url': 'https://t.co/x0JJrcLFBv', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430655484592129/photo/1', 'display_url': 'pic.twitter.com/x0JJrcLFBv', 'media_key': '3_1532422450306158593'}, {'start': 246, 'end': 269, 'url': 'https://t.co/x0JJrcLFBv', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430655484592129/photo/1', 'display_url': 'pic.twitter.com/x0JJrcLFBv', 'media_key': '3_1532422450666844160'}, {'start': 246, 'end': 269, 'url': 'https://t.co/x0JJrcLFBv', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430655484592129/photo/1', 'display_url': 'pic.twitter.com/x0JJrcLFBv', 'media_key': '3_1532422451094642688'}]}"
+80,1532430650417893376,2022-06-02 18:35:12+00:00,True,"Vivid Fashion.
+
+43 exclusive cut-and-sewn garments inspired by street punk culture. Styles ranging from sherpa fleece and puffer jackets to knitwear and leather handbags. By our designer @babyboyzap. https://t.co/ti2xSVzJML",7,1,60,0,"{'media_keys': ['3_1532422117081288704', '3_1532422143736049664', '3_1532422158806200322', '3_1532422196693372928']}","{'urls': [{'start': 200, 'end': 223, 'url': 'https://t.co/ti2xSVzJML', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430650417893376/photo/1', 'display_url': 'pic.twitter.com/ti2xSVzJML', 'media_key': '3_1532422117081288704'}, {'start': 200, 'end': 223, 'url': 'https://t.co/ti2xSVzJML', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430650417893376/photo/1', 'display_url': 'pic.twitter.com/ti2xSVzJML', 'media_key': '3_1532422143736049664'}, {'start': 200, 'end': 223, 'url': 'https://t.co/ti2xSVzJML', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430650417893376/photo/1', 'display_url': 'pic.twitter.com/ti2xSVzJML', 'media_key': '3_1532422158806200322'}, {'start': 200, 'end': 223, 'url': 'https://t.co/ti2xSVzJML', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430650417893376/photo/1', 'display_url': 'pic.twitter.com/ti2xSVzJML', 'media_key': '3_1532422196693372928'}], 'mentions': [{'start': 187, 'end': 198, 'username': 'babyboyzap', 'id': '1456304593638363138'}]}"
+81,1532430643736416256,2022-06-02 18:35:11+00:00,True,"Vivid Artwork.
+
+A generative, hand-drawn black-and-white manga PFP collection with over 200 traits, on vivid color backgrounds, and 25 one-of-one's by artist and mangaka Acky Bright. @aki001208 https://t.co/ZownAjAV2A",12,2,83,0,"{'media_keys': ['3_1532421680542257153', '3_1532421743276457984', '3_1532421895693344768', '3_1532421984520286208']}","{'urls': [{'start': 194, 'end': 217, 'url': 'https://t.co/ZownAjAV2A', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430643736416256/photo/1', 'display_url': 'pic.twitter.com/ZownAjAV2A', 'media_key': '3_1532421680542257153'}, {'start': 194, 'end': 217, 'url': 'https://t.co/ZownAjAV2A', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430643736416256/photo/1', 'display_url': 'pic.twitter.com/ZownAjAV2A', 'media_key': '3_1532421743276457984'}, {'start': 194, 'end': 217, 'url': 'https://t.co/ZownAjAV2A', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430643736416256/photo/1', 'display_url': 'pic.twitter.com/ZownAjAV2A', 'media_key': '3_1532421895693344768'}, {'start': 194, 'end': 217, 'url': 'https://t.co/ZownAjAV2A', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430643736416256/photo/1', 'display_url': 'pic.twitter.com/ZownAjAV2A', 'media_key': '3_1532421984520286208'}], 'mentions': [{'start': 183, 'end': 193, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+82,1532430634278301696,2022-06-02 18:35:09+00:00,False,"Mint is in less than 12h. Details:
+
+WEN MINT: June 2nd, 7:00PM PST (3h WL, 3h public)
+WHERE MINT: https://t.co/L7lpyRcK4V
+MINT PRICE: .25 WL, .3 public (WL can mint up to 2)
+
+Guaranteed mintout: minting stopped after public sale time window (capped supply)
+Supply: 8888 
+
+🧵below: https://t.co/VCPi67TJT8",159,31,513,24,{'media_keys': ['7_1532421006618349568']},"{'urls': [{'start': 98, 'end': 121, 'url': 'https://t.co/L7lpyRcK4V', 'expanded_url': 'https://vivid.limited/', 'display_url': 'vivid.limited'}, {'start': 280, 'end': 303, 'url': 'https://t.co/VCPi67TJT8', 'expanded_url': 'https://twitter.com/vividcojp/status/1532430634278301696/video/1', 'display_url': 'pic.twitter.com/VCPi67TJT8', 'media_key': '7_1532421006618349568'}]}"
+83,1531860345035272192,2022-06-01 04:49:01+00:00,True,"✨ フリーミント・ギブアウェイ ✨ 
+
+エンジン全開。ナノテック、フル稼働。
+１フリーミント、最後のギブアウェイです。
+獲得するのは誰だ!
+
+参加方法:
+- @Vividcojp and @AKI001208 をフォロー
+- ライク &amp; リツイート
+- 友達3人をタグ
+
+制限時間は24時間 。急げ。 https://t.co/rtO75e8Cl9",891,855,1064,9,{'media_keys': ['3_1531860279998304257']},"{'urls': [{'start': 155, 'end': 178, 'url': 'https://t.co/rtO75e8Cl9', 'expanded_url': 'https://twitter.com/vividcojp/status/1531860345035272192/photo/1', 'display_url': 'pic.twitter.com/rtO75e8Cl9', 'media_key': '3_1531860279998304257'}], 'mentions': [{'start': 79, 'end': 89, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 94, 'end': 104, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+84,1531860338425094144,2022-06-01 04:48:59+00:00,False,"✨ FINAL FREE MINT GIVEAWAY ✨ 
+
+All cylinders are ready to go. Nanotech engaged. Our final giveaway is here! We're giving away one last free mint.
+
+In order to enter:
+- Follow @vividcojp and @aki001208 
+- Like &amp; Retweet
+- Tag 3 Friends
+
+You have 24 hours. Vivid is waiting. https://t.co/UMF0ju8Sq5",5939,8513,6419,65,{'media_keys': ['3_1531860040356794368']},"{'urls': [{'start': 277, 'end': 300, 'url': 'https://t.co/UMF0ju8Sq5', 'expanded_url': 'https://twitter.com/vividcojp/status/1531860338425094144/photo/1', 'display_url': 'pic.twitter.com/UMF0ju8Sq5', 'media_key': '3_1531860040356794368'}], 'mentions': [{'start': 175, 'end': 185, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 190, 'end': 200, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+85,1531389322800160768,2022-05-30 21:37:21+00:00,False,Probably... something? 👀 https://t.co/gXLuWQlnjo,101,28,368,3,,"{'urls': [{'start': 25, 'end': 48, 'url': 'https://t.co/gXLuWQlnjo', 'expanded_url': 'https://twitter.com/RTFKT/status/1531388729981542400', 'display_url': 'twitter.com/RTFKT/status/1…'}]}"
+86,1531019853535928320,2022-05-29 21:09:12+00:00,False,Izumo generative and 1/1. See more at: https://t.co/b1BfIsMsWC https://t.co/fjXVza38eG,68,17,294,3,"{'media_keys': ['3_1531019390161784832', '3_1531019579488555008']}","{'urls': [{'start': 39, 'end': 62, 'url': 'https://t.co/b1BfIsMsWC', 'expanded_url': 'http://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 63, 'end': 86, 'url': 'https://t.co/fjXVza38eG', 'expanded_url': 'https://twitter.com/vividcojp/status/1531019853535928320/photo/1', 'display_url': 'pic.twitter.com/fjXVza38eG', 'media_key': '3_1531019390161784832'}, {'start': 63, 'end': 86, 'url': 'https://t.co/fjXVza38eG', 'expanded_url': 'https://twitter.com/vividcojp/status/1531019853535928320/photo/1', 'display_url': 'pic.twitter.com/fjXVza38eG', 'media_key': '3_1531019579488555008'}]}"
+87,1531019254681677824,2022-05-29 21:06:49+00:00,False,Time to reveal Vivid's 5th (of 6) main character: Izumo. File = [redacted]. Minting Soon. Find out more: https://t.co/rwub5SbcDa https://t.co/rwk1CEbghI,40,9,160,1,{'media_keys': ['3_1531019186683555840']},"{'urls': [{'start': 105, 'end': 128, 'url': 'https://t.co/rwub5SbcDa', 'expanded_url': 'https://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 129, 'end': 152, 'url': 'https://t.co/rwk1CEbghI', 'expanded_url': 'https://twitter.com/vividcojp/status/1531019254681677824/photo/1', 'display_url': 'pic.twitter.com/rwk1CEbghI', 'media_key': '3_1531019186683555840'}]}"
+88,1530677402447118338,2022-05-28 22:28:26+00:00,False,"Surprise! We're hosting a community ""drink and draw"" live drawing event with @vividcojp's @aki001208, Aiko Virtual's @vinneart, and @tubbycatsnft's @sweetbread_eth, @hoppyNFT, and @sugoiNFT in 3h (1830h PST).
+
+More details on how to join in our Discord! https://t.co/rwub5SbcDa https://t.co/g6bQgkL0Az",50,28,166,5,{'media_keys': ['3_1530677231227260929']},"{'urls': [{'start': 254, 'end': 277, 'url': 'https://t.co/rwub5SbcDa', 'expanded_url': 'https://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 278, 'end': 301, 'url': 'https://t.co/g6bQgkL0Az', 'expanded_url': 'https://twitter.com/vividcojp/status/1530677402447118338/photo/1', 'display_url': 'pic.twitter.com/g6bQgkL0Az', 'media_key': '3_1530677231227260929'}], 'mentions': [{'start': 77, 'end': 87, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 90, 'end': 100, 'username': 'aki001208', 'id': '752705297437777921'}, {'start': 117, 'end': 126, 'username': 'vinneart', 'id': '1034057052421804032'}, {'start': 132, 'end': 145, 'username': 'tubbycatsnft', 'id': '1125894854431707136'}, {'start': 148, 'end': 163, 'username': 'sweetbread_eth', 'id': '1414932530889904140'}, {'start': 165, 'end': 174, 'username': 'hoppyNFT', 'id': '1449819728277606404'}, {'start': 180, 'end': 189, 'username': 'sugoiNFT', 'id': '1410613903017447434'}]}"
+89,1530634560312004609,2022-05-28 19:38:11+00:00,False,RT @JunevaultCrypto: Liquidity for the @vividcojp mint next week: Secured ✅,9,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'JunevaultCrypto', 'id': '1089619439434256385'}, {'start': 39, 'end': 49, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+90,1530634047533092864,2022-05-28 19:36:09+00:00,True,"@OmeNoNFT It's stunning, thank you @OmeNoNFT",0,1,7,0,,"{'mentions': [{'start': 0, 'end': 9, 'username': 'OmeNoNFT', 'id': '2812591058'}, {'start': 35, 'end': 44, 'username': 'OmeNoNFT', 'id': '2812591058'}]}"
+91,1530633956395130880,2022-05-28 19:35:47+00:00,False,"RT @OmeNoNFT: Here is my entry for @vividcojp  fanart contest.
+I tried this piece in a manga style. I drew this piece with much fun. I real…",71,0,0,0,,"{'mentions': [{'start': 3, 'end': 12, 'username': 'OmeNoNFT', 'id': '2812591058'}, {'start': 35, 'end': 45, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+92,1530604440767451136,2022-05-28 17:38:30+00:00,False,Time to reveal Vivid's 3rd (of 6) main character and her 1/1: Sacha. Sacha's storyline is our 2nd character - collaboration sourced from the Vivid community. Can she hold onto her sanity long enough to save her people? Find out: https://t.co/rwub5SbcDa https://t.co/PILefqDBJM,73,15,253,2,"{'media_keys': ['3_1530601774247120896', '3_1530603643719675904']}","{'urls': [{'start': 229, 'end': 252, 'url': 'https://t.co/rwub5SbcDa', 'expanded_url': 'https://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 253, 'end': 276, 'url': 'https://t.co/PILefqDBJM', 'expanded_url': 'https://twitter.com/vividcojp/status/1530604440767451136/photo/1', 'display_url': 'pic.twitter.com/PILefqDBJM', 'media_key': '3_1530601774247120896'}, {'start': 253, 'end': 276, 'url': 'https://t.co/PILefqDBJM', 'expanded_url': 'https://twitter.com/vividcojp/status/1530604440767451136/photo/1', 'display_url': 'pic.twitter.com/PILefqDBJM', 'media_key': '3_1530603643719675904'}], 'annotations': [{'start': 69, 'end': 73, 'probability': 0.4555, 'type': 'Person', 'normalized_text': 'Sacha'}]}"
+93,1530298747095109632,2022-05-27 21:23:47+00:00,False,"Revealing our Vivid 1 of 1s, alongside the generative collection: https://t.co/b1BfIsMsWC https://t.co/mc98rfbtUW",159,48,639,7,"{'media_keys': ['3_1530297279675977729', '3_1530297373892571136']}","{'urls': [{'start': 66, 'end': 89, 'url': 'https://t.co/b1BfIsMsWC', 'expanded_url': 'http://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 90, 'end': 113, 'url': 'https://t.co/mc98rfbtUW', 'expanded_url': 'https://twitter.com/vividcojp/status/1530298747095109632/photo/1', 'display_url': 'pic.twitter.com/mc98rfbtUW', 'media_key': '3_1530297279675977729'}, {'start': 90, 'end': 113, 'url': 'https://t.co/mc98rfbtUW', 'expanded_url': 'https://twitter.com/vividcojp/status/1530298747095109632/photo/1', 'display_url': 'pic.twitter.com/mc98rfbtUW', 'media_key': '3_1530297373892571136'}]}"
+94,1530262676672196609,2022-05-27 19:00:27+00:00,False,An AMA you’ve all been waiting for. Join us to find out some exciting mint details. https://t.co/oxMvTFD23a,26,5,90,1,,"{'urls': [{'start': 84, 'end': 107, 'url': 'https://t.co/oxMvTFD23a', 'expanded_url': 'https://twitter.com/i/spaces/1yoJMWEpnjdKQ', 'display_url': 'twitter.com/i/spaces/1yoJM…'}]}"
+95,1530197074150445056,2022-05-27 14:39:46+00:00,False,"RT @TheAsuraProject: 🎁  ASURA x VIVID 🎁
+
+One does not simply enter the shadows, they are Chosen. 
+
+We have partnered with @vividcojp to upg…",2328,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'TheAsuraProject', 'id': '1504907125692461057'}, {'start': 122, 'end': 132, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+96,1530017922499850240,2022-05-27 02:47:53+00:00,True,Here's more info about our Shogunate. https://t.co/aNPKsgM8SU,19,7,93,0,{'media_keys': ['3_1530017870050041856']},"{'urls': [{'start': 38, 'end': 61, 'url': 'https://t.co/aNPKsgM8SU', 'expanded_url': 'https://twitter.com/vividcojp/status/1530017922499850240/photo/1', 'display_url': 'pic.twitter.com/aNPKsgM8SU', 'media_key': '3_1530017870050041856'}]}"
+97,1530017918380961792,2022-05-27 02:47:52+00:00,False,"“One mind, any weapon.”
+
+Ren, the Mitsushige Shogunate’s castout daughter.  She'll stop at nothing to reclaim her clan’s lost honor.
+
+Will her honor triumph? Let us know in the Discord with the codeword ""shogun"" in the #lazy-river channel and a few of you will become CHOSEN! https://t.co/pxGDfTWS2i",113,32,366,4,{'media_keys': ['3_1530017901121441792']},"{'urls': [{'start': 276, 'end': 299, 'url': 'https://t.co/pxGDfTWS2i', 'expanded_url': 'https://twitter.com/vividcojp/status/1530017918380961792/photo/1', 'display_url': 'pic.twitter.com/pxGDfTWS2i', 'media_key': '3_1530017901121441792'}], 'hashtags': [{'start': 219, 'end': 224, 'tag': 'lazy'}], 'annotations': [{'start': 23, 'end': 27, 'probability': 0.266, 'type': 'Person', 'normalized_text': 'Ren'}, {'start': 34, 'end': 53, 'probability': 0.5939, 'type': 'Person', 'normalized_text': 'Mitsushige Shogunate'}]}"
+98,1529957936801255424,2022-05-26 22:49:32+00:00,False,"RT @aikovirtual: A:\hey virtuals !
+
+Our next AMA will be with our amazing friends at Vivid !
+&lt;Check Thread for Details&gt;
+
+Follow @Aikovirtua…",1143,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'aikovirtual', 'id': '1433905986528583683'}]}"
+99,1529529769447915520,2022-05-25 18:28:08+00:00,False,"RT @ThePenthouseNFT: 🎉The Penthouse x Vivid 🎉
+
+3x WL Spots for @vividcojp courtesy of the team
+
+Requirements: 
+1️⃣ Follow @vividcojp &amp; @The…",848,0,0,0,,"{'mentions': [{'start': 3, 'end': 19, 'username': 'ThePenthouseNFT', 'id': '1494223444082188288'}, {'start': 63, 'end': 73, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 122, 'end': 132, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+100,1529244452270710784,2022-05-24 23:34:24+00:00,True,Here's some more info about our fast-talking corporate fixer. https://t.co/h4W8EVo9Qp,20,5,97,3,{'media_keys': ['3_1529240566193455104']},"{'urls': [{'start': 62, 'end': 85, 'url': 'https://t.co/h4W8EVo9Qp', 'expanded_url': 'https://twitter.com/vividcojp/status/1529244452270710784/photo/1', 'display_url': 'pic.twitter.com/h4W8EVo9Qp', 'media_key': '3_1529240566193455104'}]}"
+101,1529244448336465923,2022-05-24 23:34:23+00:00,False,"Here's Johnny! Amoral gun for hire tasked with securing Miko's nanotech.
+
+Johnny is 2 of 6 characters in the Vivid NFT Collection. Is Johnny more of a friend or foe? Come find out!
+
+Join our Discord to see more sneak-peaks of Johnny: https://t.co/fNsRo1vxy1 https://t.co/EFldg29TrM",113,48,381,5,{'media_keys': ['3_1529240113426800641']},"{'urls': [{'start': 234, 'end': 257, 'url': 'https://t.co/fNsRo1vxy1', 'expanded_url': 'https://discord.com/invite/vividcojp', 'display_url': 'discord.com/invite/vividco…'}, {'start': 258, 'end': 281, 'url': 'https://t.co/EFldg29TrM', 'expanded_url': 'https://twitter.com/vividcojp/status/1529244448336465923/photo/1', 'display_url': 'pic.twitter.com/EFldg29TrM', 'media_key': '3_1529240113426800641'}], 'annotations': [{'start': 7, 'end': 12, 'probability': 0.555, 'type': 'Person', 'normalized_text': 'Johnny'}, {'start': 56, 'end': 59, 'probability': 0.6709, 'type': 'Person', 'normalized_text': 'Miko'}, {'start': 74, 'end': 79, 'probability': 0.3833, 'type': 'Person', 'normalized_text': 'Johnny'}, {'start': 134, 'end': 139, 'probability': 0.5968, 'type': 'Person', 'normalized_text': 'Johnny'}, {'start': 226, 'end': 231, 'probability': 0.7711, 'type': 'Person', 'normalized_text': 'Johnny'}]}"
+102,1528878266471157760,2022-05-23 23:19:18+00:00,False,Vivid is manga. https://t.co/TUOG5iQwZp,128,56,612,10,{'media_keys': ['3_1528872599110881280']},"{'urls': [{'start': 16, 'end': 39, 'url': 'https://t.co/TUOG5iQwZp', 'expanded_url': 'https://twitter.com/vividcojp/status/1528878266471157760/photo/1', 'display_url': 'pic.twitter.com/TUOG5iQwZp', 'media_key': '3_1528872599110881280'}]}"
+103,1528549557751058433,2022-05-23 01:33:08+00:00,False,RT @aki001208: https://t.co/gi7RwsAwmd,403,0,0,0,{'media_keys': ['3_1528527910146961408']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/gi7RwsAwmd', 'expanded_url': 'https://twitter.com/aki001208/status/1528527914290905088/photo/1', 'display_url': 'pic.twitter.com/gi7RwsAwmd', 'media_key': '3_1528527910146961408'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+104,1528498185341001729,2022-05-22 22:09:00+00:00,False,"Miko has an arsenal full of looks at her disposal. 1 of 6 unique and lore-filled characters to be found throughout the Vivid genesis PFP collection. 
+
+Utility as an exclusive brand pass. 
+
+Join the Discord before it's too late: https://t.co/rwub5SbcDa https://t.co/gYT2wsv7hb",130,32,448,4,{'media_keys': ['3_1528496909756682240']},"{'urls': [{'start': 228, 'end': 251, 'url': 'https://t.co/rwub5SbcDa', 'expanded_url': 'https://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp'}, {'start': 252, 'end': 275, 'url': 'https://t.co/gYT2wsv7hb', 'expanded_url': 'https://twitter.com/vividcojp/status/1528498185341001729/photo/1', 'display_url': 'pic.twitter.com/gYT2wsv7hb', 'media_key': '3_1528496909756682240'}], 'annotations': [{'start': 0, 'end': 3, 'probability': 0.9542, 'type': 'Person', 'normalized_text': 'Miko'}, {'start': 149, 'end': 157, 'probability': 0.3984, 'type': 'Product', 'normalized_text': 'Utility'}]}"
+105,1528163417575477249,2022-05-21 23:58:45+00:00,False,"The world of Vivid is coming closer, and it’s time to introduce you to some of our characters!
+
+Meet Miko: small-time grifter turned big-time target.
+
+Miko is 1 of 6 in the Vivid NFT line-up. Will technology save her or consume her? https://t.co/nE81XiKXnR",131,45,480,4,{'media_keys': ['3_1528152427026710528']},"{'urls': [{'start': 233, 'end': 256, 'url': 'https://t.co/nE81XiKXnR', 'expanded_url': 'https://twitter.com/vividcojp/status/1528163417575477249/photo/1', 'display_url': 'pic.twitter.com/nE81XiKXnR', 'media_key': '3_1528152427026710528'}], 'annotations': [{'start': 101, 'end': 104, 'probability': 0.8661, 'type': 'Person', 'normalized_text': 'Miko'}, {'start': 151, 'end': 154, 'probability': 0.4196, 'type': 'Person', 'normalized_text': 'Miko'}]}"
+106,1528030482935345152,2022-05-21 15:10:31+00:00,False,RT @aki001208: https://t.co/Aq6VugN57m,527,0,0,0,{'media_keys': ['3_1528030166030512130']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/Aq6VugN57m', 'expanded_url': 'https://twitter.com/aki001208/status/1528030172934336519/photo/1', 'display_url': 'pic.twitter.com/Aq6VugN57m', 'media_key': '3_1528030166030512130'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+107,1527809922406068224,2022-05-21 00:34:05+00:00,False,"The Vivid fanart contest is live in our discord! Come show us what you're made of and enter for a chance to win a free mint, CHOSEN, and a free signed art book from @aki001208. 
+
+We'll be retweeting our favorites, good luck!
+
+https://t.co/rwub5SbcDa https://t.co/pgXB3Crge7",147,16,741,7,{'media_keys': ['3_1527809200218177536']},"{'urls': [{'start': 226, 'end': 249, 'url': 'https://t.co/rwub5SbcDa', 'expanded_url': 'https://discord.gg/vividcojp', 'display_url': 'discord.gg/vividcojp', 'images': [{'url': 'https://pbs.twimg.com/news_img/1533971636776341504/3G8UNEsc?format=jpg&name=orig', 'width': 512, 'height': 103}, {'url': 'https://pbs.twimg.com/news_img/1533971636776341504/3G8UNEsc?format=jpg&name=150x150', 'width': 103, 'height': 103}], 'status': 200, 'title': 'Discord - A New Way to Chat with Friends & Communities', 'description': 'Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.', 'unwound_url': 'https://discord.com/invite/vividcojp'}, {'start': 250, 'end': 273, 'url': 'https://t.co/pgXB3Crge7', 'expanded_url': 'https://twitter.com/vividcojp/status/1527809922406068224/photo/1', 'display_url': 'pic.twitter.com/pgXB3Crge7', 'media_key': '3_1527809200218177536'}], 'mentions': [{'start': 165, 'end': 175, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+108,1527286096089952264,2022-05-19 13:52:35+00:00,False,RT @aki001208: https://t.co/7z0wpkwVHY,302,0,0,0,{'media_keys': ['3_1527078665988628480']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/7z0wpkwVHY', 'expanded_url': 'https://twitter.com/aki001208/status/1527078672061976576/photo/1', 'display_url': 'pic.twitter.com/7z0wpkwVHY', 'media_key': '3_1527078665988628480'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+109,1527093421973700609,2022-05-19 01:06:58+00:00,False,"The Vivid NFT Collection!
+
+A generational PFP project. Your brand pass to the Vivid 360 Universe. Exclusive access, early access, and much more await.
+
+Want a chance to be CHOSEN?!
+
+Like, retweet, and follow @vividcojp for a chance to win.
+
+Winners in 48 hours! https://t.co/AsMyDDbvKQ",6393,1902,4720,64,{'media_keys': ['7_1527086669047816192']},"{'urls': [{'start': 262, 'end': 285, 'url': 'https://t.co/AsMyDDbvKQ', 'expanded_url': 'https://twitter.com/vividcojp/status/1527093421973700609/video/1', 'display_url': 'pic.twitter.com/AsMyDDbvKQ', 'media_key': '7_1527086669047816192'}], 'mentions': [{'start': 208, 'end': 218, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+110,1526365670044147713,2022-05-17 00:55:08+00:00,True,https://t.co/GEQRq3bpg1,41,8,117,0,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/GEQRq3bpg1', 'expanded_url': 'https://twitter.com/i/spaces/1lDxLLMXYpaxm', 'display_url': 'twitter.com/i/spaces/1lDxL…'}]}"
+111,1526365667338792960,2022-05-17 00:55:08+00:00,False,"AMA/WHITELIST ANNOUNCEMENT
+
+Vivid is clairvoyant.
+
+Our mystery comes to light. Now it's time for us to reveal the Vivid NFT Collection! Find out what it means to be a holder in our 360 IP Universe.
+
+WEN AMA: Wednesday, 6:00PM PST
+
+WEN CHOSEN: Like/RT and follow @vividcojp https://t.co/gauWz3Sx4H",946,183,1335,12,{'media_keys': ['3_1526357523099291648']},"{'urls': [{'start': 273, 'end': 296, 'url': 'https://t.co/gauWz3Sx4H', 'expanded_url': 'https://twitter.com/vividcojp/status/1526365667338792960/photo/1', 'display_url': 'pic.twitter.com/gauWz3Sx4H', 'media_key': '3_1526357523099291648'}], 'mentions': [{'start': 262, 'end': 272, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+112,1526305441927467008,2022-05-16 20:55:49+00:00,False,"Collection #1. 
+2 of 43 cut-and-sew pieces.
+Vivid: @aki001208 x @babyboyzap https://t.co/oHD5fiEIAl",67,18,331,6,{'media_keys': ['3_1526304861976788992']},"{'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/oHD5fiEIAl', 'expanded_url': 'https://twitter.com/vividcojp/status/1526305441927467008/photo/1', 'display_url': 'pic.twitter.com/oHD5fiEIAl', 'media_key': '3_1526304861976788992'}], 'mentions': [{'start': 51, 'end': 61, 'username': 'aki001208', 'id': '752705297437777921'}, {'start': 64, 'end': 75, 'username': 'babyboyzap', 'id': '1456304593638363138'}]}"
+113,1525628410130665472,2022-05-15 00:05:32+00:00,False,RT @aki001208: https://t.co/kIjrGKa3w6,336,0,0,0,{'media_keys': ['3_1525627667638145025']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/kIjrGKa3w6', 'expanded_url': 'https://twitter.com/aki001208/status/1525627672503562240/photo/1', 'display_url': 'pic.twitter.com/kIjrGKa3w6', 'media_key': '3_1525627667638145025'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+114,1525212997387374592,2022-05-13 20:34:50+00:00,False,"Collection #1. 
+1 of 43 cut-and-sew pieces.
+Vivid: @aki001208 x @babyboyzap https://t.co/t5dY8rSWuA",32,25,231,5,{'media_keys': ['3_1525212546742964224']},"{'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/t5dY8rSWuA', 'expanded_url': 'https://twitter.com/vividcojp/status/1525212997387374592/photo/1', 'display_url': 'pic.twitter.com/t5dY8rSWuA', 'media_key': '3_1525212546742964224'}], 'mentions': [{'start': 51, 'end': 61, 'username': 'aki001208', 'id': '752705297437777921'}, {'start': 64, 'end': 75, 'username': 'babyboyzap', 'id': '1456304593638363138'}]}"
+115,1525211515900424192,2022-05-13 20:28:57+00:00,False,"Bridging art and fashion.
+Bridging California and Japan.
+Bridging life and web 3.
+
+All from one NFT.
+
+Vivid. https://t.co/pEYZ7xch2Y",233,90,922,8,{'media_keys': ['3_1525209838413787136']},"{'urls': [{'start': 109, 'end': 132, 'url': 'https://t.co/pEYZ7xch2Y', 'expanded_url': 'https://twitter.com/vividcojp/status/1525211515900424192/photo/1', 'display_url': 'pic.twitter.com/pEYZ7xch2Y', 'media_key': '3_1525209838413787136'}], 'annotations': [{'start': 35, 'end': 44, 'probability': 0.3919, 'type': 'Place', 'normalized_text': 'California'}, {'start': 50, 'end': 54, 'probability': 0.6827, 'type': 'Place', 'normalized_text': 'Japan'}]}"
+116,1524861479618433024,2022-05-12 21:18:01+00:00,True,"Winners! DM us your discord names.
+• @rhayien
+• @whilelooplife
+• @KendleKari
+• @GZL_SSS
+• @fullmetalbruh
+• @ksvnft
+• @moi_eth
+• @ezeklz
+• @BonniesCassi
+• @RebecaH3rrera
+
+✔️ https://t.co/AkIcfQn24p",2,9,57,0,,"{'urls': [{'start': 173, 'end': 196, 'url': 'https://t.co/AkIcfQn24p', 'expanded_url': 'https://twitterpicker.com/d/2vntuaub', 'display_url': 'twitterpicker.com/d/2vntuaub'}], 'mentions': [{'start': 37, 'end': 45, 'username': 'rhayien', 'id': '38883665'}, {'start': 48, 'end': 62, 'username': 'whilelooplife', 'id': '398900752'}, {'start': 65, 'end': 76, 'username': 'KendleKari', 'id': '1492051302360428545'}, {'start': 79, 'end': 87, 'username': 'GZL_SSS', 'id': '1431199482469752834'}, {'start': 90, 'end': 104, 'username': 'fullmetalbruh', 'id': '1480625599458775044'}, {'start': 107, 'end': 114, 'username': 'ksvnft', 'id': '1436450093327163392'}, {'start': 117, 'end': 125, 'username': 'moi_eth', 'id': '1482529893221113858'}, {'start': 128, 'end': 135, 'username': 'ezeklz', 'id': '1494688100303441921'}, {'start': 138, 'end': 151, 'username': 'BonniesCassi', 'id': '1434239884760424455'}, {'start': 154, 'end': 168, 'username': 'RebecaH3rrera', 'id': '1488136396657557505'}]}"
+117,1524576792282943488,2022-05-12 02:26:47+00:00,True,Vivid is fashion (2/2) https://t.co/02BRtpu1Cp,43,8,159,1,"{'media_keys': ['3_1524576237678567424', '3_1524576237674393600', '3_1524576237678563328', '3_1524576237674323970']}","{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/02BRtpu1Cp', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576792282943488/photo/1', 'display_url': 'pic.twitter.com/02BRtpu1Cp', 'media_key': '3_1524576237678567424'}, {'start': 23, 'end': 46, 'url': 'https://t.co/02BRtpu1Cp', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576792282943488/photo/1', 'display_url': 'pic.twitter.com/02BRtpu1Cp', 'media_key': '3_1524576237674393600'}, {'start': 23, 'end': 46, 'url': 'https://t.co/02BRtpu1Cp', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576792282943488/photo/1', 'display_url': 'pic.twitter.com/02BRtpu1Cp', 'media_key': '3_1524576237678563328'}, {'start': 23, 'end': 46, 'url': 'https://t.co/02BRtpu1Cp', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576792282943488/photo/1', 'display_url': 'pic.twitter.com/02BRtpu1Cp', 'media_key': '3_1524576237674323970'}]}"
+118,1524576786163531776,2022-05-12 02:26:45+00:00,False,Vivid is fashion (1/2) https://t.co/eKYrPNQJGH,90,36,340,13,"{'media_keys': ['3_1524576157454069760', '3_1524576157449945090', '3_1524576157445722112', '3_1524576157449949184']}","{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/eKYrPNQJGH', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576786163531776/photo/1', 'display_url': 'pic.twitter.com/eKYrPNQJGH', 'media_key': '3_1524576157454069760'}, {'start': 23, 'end': 46, 'url': 'https://t.co/eKYrPNQJGH', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576786163531776/photo/1', 'display_url': 'pic.twitter.com/eKYrPNQJGH', 'media_key': '3_1524576157449945090'}, {'start': 23, 'end': 46, 'url': 'https://t.co/eKYrPNQJGH', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576786163531776/photo/1', 'display_url': 'pic.twitter.com/eKYrPNQJGH', 'media_key': '3_1524576157445722112'}, {'start': 23, 'end': 46, 'url': 'https://t.co/eKYrPNQJGH', 'expanded_url': 'https://twitter.com/vividcojp/status/1524576786163531776/photo/1', 'display_url': 'pic.twitter.com/eKYrPNQJGH', 'media_key': '3_1524576157449949184'}]}"
+119,1524572327220236288,2022-05-12 02:09:02+00:00,False,Vivid is fashion. Welcome to one of the many degrees of our 360 IP. From our designer @babyboyzap. https://t.co/ThTgFqgJIS,112,65,366,13,{'media_keys': ['7_1524567403148967937']},"{'urls': [{'start': 99, 'end': 122, 'url': 'https://t.co/ThTgFqgJIS', 'expanded_url': 'https://twitter.com/vividcojp/status/1524572327220236288/video/1', 'display_url': 'pic.twitter.com/ThTgFqgJIS', 'media_key': '7_1524567403148967937'}], 'mentions': [{'start': 86, 'end': 97, 'username': 'babyboyzap', 'id': '1456304593638363138'}]}"
+120,1524569045474758657,2022-05-12 01:56:00+00:00,False,Vivid AMA #3 - Vivid Fashion https://t.co/JNJaEA2SaU,21,9,81,1,,"{'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/JNJaEA2SaU', 'expanded_url': 'https://twitter.com/i/spaces/1PlKQarbovdKE', 'display_url': 'twitter.com/i/spaces/1PlKQ…'}]}"
+121,1524090536642023424,2022-05-10 18:14:34+00:00,False,"The future is Vivid. OUR future is Vivid. A long-term vision. For us, by us. The only secrets we have are good secrets. Where others have failed, we will succeed. Join us. https://t.co/niZgBvVHuW",326,184,1076,19,{'media_keys': ['3_1524090277681516544']},"{'urls': [{'start': 172, 'end': 195, 'url': 'https://t.co/niZgBvVHuW', 'expanded_url': 'https://twitter.com/vividcojp/status/1524090536642023424/photo/1', 'display_url': 'pic.twitter.com/niZgBvVHuW', 'media_key': '3_1524090277681516544'}]}"
+122,1523817978898247680,2022-05-10 00:11:31+00:00,True,https://t.co/JNJaEA2SaU,38,9,99,0,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/JNJaEA2SaU', 'expanded_url': 'https://twitter.com/i/spaces/1PlKQarbovdKE', 'display_url': 'twitter.com/i/spaces/1PlKQ…'}]}"
+123,1523817975140167680,2022-05-10 00:11:31+00:00,False,"CHOSEN GIVEAWAY/ANNOUNCEMENT
+
+Vivid is pleased to give you our biggest announcement yet. Join us for our AMA #3 - Vivid F██████!
+
+WEN AMA: May 11th, 7:00PM PST.
+
+WEN CHOSEN: Like this tweet/RT and follow @vividcojp for a chance to get a CHOSEN spot.
+
+A new standard emerges. https://t.co/2KC61QiRFe",1303,523,2085,13,{'media_keys': ['3_1523815003643514880']},"{'urls': [{'start': 275, 'end': 298, 'url': 'https://t.co/2KC61QiRFe', 'expanded_url': 'https://twitter.com/vividcojp/status/1523817975140167680/photo/1', 'display_url': 'pic.twitter.com/2KC61QiRFe', 'media_key': '3_1523815003643514880'}], 'mentions': [{'start': 204, 'end': 214, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+124,1522699517413322752,2022-05-06 22:07:09+00:00,False,Vivid is red hot. https://t.co/nLvnhp0Di2,285,123,1264,13,{'media_keys': ['3_1522699421292523520']},"{'urls': [{'start': 18, 'end': 41, 'url': 'https://t.co/nLvnhp0Di2', 'expanded_url': 'https://twitter.com/vividcojp/status/1522699517413322752/photo/1', 'display_url': 'pic.twitter.com/nLvnhp0Di2', 'media_key': '3_1522699421292523520'}]}"
+125,1522684588564250624,2022-05-06 21:07:50+00:00,False,"RT @NTOutreach: VIVID WL GIVEAWAY
+
+3 x WL spots for VIVID courtesy of the @vividcojp team. Art created by the one and only @aki001208.
+
+To…",7518,0,0,0,,"{'mentions': [{'start': 3, 'end': 14, 'username': 'NTOutreach', 'id': '1501192529408053253'}, {'start': 74, 'end': 84, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 123, 'end': 133, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+126,1522368083565826049,2022-05-06 00:10:10+00:00,False,RT @aki001208: https://t.co/JhtTR3Ad0H,309,0,0,0,{'media_keys': ['3_1522366101870374912']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/JhtTR3Ad0H', 'expanded_url': 'https://twitter.com/aki001208/status/1522366107901829120/photo/1', 'display_url': 'pic.twitter.com/JhtTR3Ad0H', 'media_key': '3_1522366101870374912'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+127,1522308646117404673,2022-05-05 20:13:59+00:00,False,"RT @chain_runners: ⛓️ Chain Runners x VIVID ⛓️
+
+🎉 2x WL Spots for VIVID 🎉
+
+To enter:
+
+1️⃣ Follow @chain_runners, @vividcojp
+2️⃣ Like, RT…",5104,0,0,0,,"{'mentions': [{'start': 3, 'end': 17, 'username': 'chain_runners', 'id': '1420529459820519424'}, {'start': 97, 'end': 111, 'username': 'chain_runners', 'id': '1420529459820519424'}, {'start': 113, 'end': 123, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+128,1522059638123810816,2022-05-05 03:44:30+00:00,False,"Vivid is stories.
+
+Head over to the Vivid discord for a chance to win a CHOSEN spot in our first big event and possibly a free mint.
+
+Good Luck! https://t.co/7qngoEw7l7",215,71,941,8,{'media_keys': ['3_1522058389827641345']},"{'urls': [{'start': 145, 'end': 168, 'url': 'https://t.co/7qngoEw7l7', 'expanded_url': 'https://twitter.com/vividcojp/status/1522059638123810816/photo/1', 'display_url': 'pic.twitter.com/7qngoEw7l7', 'media_key': '3_1522058389827641345'}]}"
+129,1522032527573090304,2022-05-05 01:56:47+00:00,False,Vivid AMA #2 and MASS CHOSEN event right after! https://t.co/thDG7MFGt4,43,31,119,2,,"{'urls': [{'start': 48, 'end': 71, 'url': 'https://t.co/thDG7MFGt4', 'expanded_url': 'https://twitter.com/i/spaces/1lPKqmkjzvWKb', 'display_url': 'twitter.com/i/spaces/1lPKq…'}]}"
+130,1522025404524994560,2022-05-05 01:28:28+00:00,False,"RT @vividcojp: Settings. Characters. Stories.
+
+The connections to the Vivid universe expand. We're happy to announce our 2nd AMA!
+
+Join us…",223,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+131,1521952016821456898,2022-05-04 20:36:51+00:00,False,"RT @Bamedi_: 💥 VIVID WL GIVEAWAY 💥
+
+Courtesy of the team, I have 5 x WL spots for VIVID. Art created by the one and only @aki001208. This w…",3387,0,0,0,,"{'mentions': [{'start': 3, 'end': 11, 'username': 'Bamedi_', 'id': '2694818088'}, {'start': 121, 'end': 131, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+132,1521644986919309312,2022-05-04 00:16:50+00:00,False,RT @aki001208: https://t.co/FCexD2BCOI,657,0,0,0,{'media_keys': ['3_1521641309743685632']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/FCexD2BCOI', 'expanded_url': 'https://twitter.com/aki001208/status/1521641335257591808/photo/1', 'display_url': 'pic.twitter.com/FCexD2BCOI', 'media_key': '3_1521641309743685632'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+133,1521282177916235776,2022-05-03 00:15:09+00:00,False,RT @aki001208: https://t.co/W4LLx6or85,440,0,0,0,{'media_keys': ['3_1521278713723195393']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/W4LLx6or85', 'expanded_url': 'https://twitter.com/aki001208/status/1521278726578704384/photo/1', 'display_url': 'pic.twitter.com/W4LLx6or85', 'media_key': '3_1521278713723195393'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+134,1521279161960001536,2022-05-03 00:03:10+00:00,True,https://t.co/thDG7MFGt4,38,20,108,2,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/thDG7MFGt4', 'expanded_url': 'https://twitter.com/i/spaces/1lPKqmkjzvWKb', 'display_url': 'twitter.com/i/spaces/1lPKq…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1521279164631814144/vi-3PWTB?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1521279164631814144/vi-3PWTB?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Scheduled: Vivid AMA #2 - The Vivid Universe', 'description': 'Vivid’s space · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1lPKqmkjzvWKb'}]}"
+135,1521279158973652992,2022-05-03 00:03:10+00:00,False,"Settings. Characters. Stories.
+
+The connections to the Vivid universe expand. We're happy to announce our 2nd AMA!
+
+Join us Wednesday, May 4th at 7:00PM PST to learn more about our expanding quest towards global domination. We will also be announcing our first mass CHOSEN event. https://t.co/vLNEVVSIHo",223,78,1013,8,{'media_keys': ['3_1521273926558486528']},"{'urls': [{'start': 280, 'end': 303, 'url': 'https://t.co/vLNEVVSIHo', 'expanded_url': 'https://twitter.com/vividcojp/status/1521279158973652992/photo/1', 'display_url': 'pic.twitter.com/vLNEVVSIHo', 'media_key': '3_1521273926558486528'}]}"
+136,1520584472650944512,2022-05-01 02:02:44+00:00,False,RT @aki001208: https://t.co/05WdWFiQAo,386,0,0,0,{'media_keys': ['3_1520553680172318722']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/05WdWFiQAo', 'expanded_url': 'https://twitter.com/aki001208/status/1520553686589607936/photo/1', 'display_url': 'pic.twitter.com/05WdWFiQAo', 'media_key': '3_1520553680172318722'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+137,1519853561886044160,2022-04-29 01:38:21+00:00,True,"Congratulations to our winners. We will be in contact with you within the next 48 hours. 🏆
+
+• @djfreak
+• @VaillantCandice
+• @adella1990
+• @csprjp2
+• @DegenGav
+• @1488Slavooon
+• @splongk
+• @0xMonstur
+• @LeeroySZN
+• @AdamBNFTs
+
+✔️ https://t.co/iOPnZVNQve",5,15,80,0,,"{'urls': [{'start': 229, 'end': 252, 'url': 'https://t.co/iOPnZVNQve', 'expanded_url': 'https://twitterpicker.com/d/mk7ee7b5', 'display_url': 'twitterpicker.com/d/mk7ee7b5'}], 'mentions': [{'start': 94, 'end': 102, 'username': 'djfreak', 'id': '18285963'}, {'start': 105, 'end': 121, 'username': 'VaillantCandice', 'id': '1099746625'}, {'start': 124, 'end': 135, 'username': 'adella1990', 'id': '1485371976'}, {'start': 138, 'end': 146, 'username': 'csprjp2', 'id': '1962326017'}, {'start': 149, 'end': 158, 'username': 'DegenGav', 'id': '2681351161'}, {'start': 177, 'end': 185, 'username': 'splongk', 'id': '1373864984388673537'}, {'start': 188, 'end': 198, 'username': '0xMonstur', 'id': '1468876087660793858'}, {'start': 201, 'end': 211, 'username': 'LeeroySZN', 'id': '1346628317475196930'}, {'start': 214, 'end': 224, 'username': 'AdamBNFTs', 'id': '1516204382441848832'}]}"
+138,1519853157852999681,2022-04-29 01:36:44+00:00,True,https://t.co/v0tfOshmeq,26,8,110,0,{'media_keys': ['7_1519853014391005184']},"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/v0tfOshmeq', 'expanded_url': 'https://twitter.com/vividcojp/status/1519853157852999681/video/1', 'display_url': 'pic.twitter.com/v0tfOshmeq', 'media_key': '7_1519853014391005184'}]}"
+139,1519853128597745664,2022-04-29 01:36:38+00:00,False,"Vivid is characters.
+
+From yesterday's live draw inside our discord with @aki001208 https://t.co/ZpmKU1hCnW",112,40,456,3,{'media_keys': ['3_1519852527973404672']},"{'urls': [{'start': 84, 'end': 107, 'url': 'https://t.co/ZpmKU1hCnW', 'expanded_url': 'https://twitter.com/vividcojp/status/1519853128597745664/photo/1', 'display_url': 'pic.twitter.com/ZpmKU1hCnW', 'media_key': '3_1519852527973404672'}], 'mentions': [{'start': 73, 'end': 83, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+140,1519716143295991808,2022-04-28 16:32:18+00:00,False,"RT @TakoaGiving: 🔥🔥🔥 WL GIVEAWAY🔥🔥🔥
+
+I am giving away 4 @vividcojp spots courtesy of the team! 
+
+How to enter: 
+
+- Follow @vividcojp, @tako…",4899,0,0,0,,"{'mentions': [{'start': 3, 'end': 15, 'username': 'TakoaGiving', 'id': '1502444856714559490'}, {'start': 56, 'end': 66, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 122, 'end': 132, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+141,1519468096322301952,2022-04-28 00:06:39+00:00,False,"A SPECIAL EVENT: @aki001208 live draw in the Vivid discord!
+
+We're pleased with the response to our AMA and have something nice planned!
+
+Head over to our Discord to come watch Acky Bright Live Draw and make some new creations.
+
+https://t.co/fNsRo1vxy1",21,8,102,0,,"{'urls': [{'start': 229, 'end': 252, 'url': 'https://t.co/fNsRo1vxy1', 'expanded_url': 'https://discord.com/invite/vividcojp', 'display_url': 'discord.com/invite/vividco…'}], 'mentions': [{'start': 17, 'end': 27, 'username': 'aki001208', 'id': '752705297437777921'}], 'annotations': [{'start': 177, 'end': 197, 'probability': 0.48, 'type': 'Other', 'normalized_text': 'Acky Bright Live Draw'}]}"
+142,1519460796958314497,2022-04-27 23:37:38+00:00,False,RT @aki001208: https://t.co/JyGG1kprtO,247,0,0,0,{'media_keys': ['3_1519459495398674432']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/JyGG1kprtO', 'expanded_url': 'https://twitter.com/aki001208/status/1519459500306014208/photo/1', 'display_url': 'pic.twitter.com/JyGG1kprtO', 'media_key': '3_1519459495398674432'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+143,1519448849118420992,2022-04-27 22:50:10+00:00,False,"VIVID IS READY FOR YOU! Our first AMA is in 10 minutes. Join us to learn more about who we are, why we are, and where we're going.
+
+Link to the space is here: https://t.co/pNKianAW6K https://t.co/BIFfpHV5uB",86,44,246,6,{'media_keys': ['3_1519448740926398465']},"{'urls': [{'start': 159, 'end': 182, 'url': 'https://t.co/pNKianAW6K', 'expanded_url': 'https://twitter.com/i/spaces/1DXGyDXrYkeKM?s=20', 'display_url': 'twitter.com/i/spaces/1DXGy…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1519448850267738112/hnNCenwP?format=jpg&name=orig', 'width': 1200, 'height': 630}, {'url': 'https://pbs.twimg.com/news_img/1519448850267738112/hnNCenwP?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Scheduled: Vivid AMA #1 - Who are we? What is ████?', 'description': 'Vivid’s space · Where live audio conversations happen', 'unwound_url': 'https://twitter.com/i/spaces/1DXGyDXrYkeKM?s=20'}, {'start': 183, 'end': 206, 'url': 'https://t.co/BIFfpHV5uB', 'expanded_url': 'https://twitter.com/vividcojp/status/1519448849118420992/photo/1', 'display_url': 'pic.twitter.com/BIFfpHV5uB', 'media_key': '3_1519448740926398465'}]}"
+144,1519117847951286273,2022-04-27 00:54:53+00:00,False,RT @aki001208: https://t.co/uxnhghNn9F,516,0,0,0,{'media_keys': ['3_1519105264523177984']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/uxnhghNn9F', 'expanded_url': 'https://twitter.com/aki001208/status/1519105268402978816/photo/1', 'display_url': 'pic.twitter.com/uxnhghNn9F', 'media_key': '3_1519105264523177984'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+145,1519089333709377536,2022-04-26 23:01:35+00:00,False,"RT @vividcojp: AMA/WHITELIST ANNOUNCEMENT
+
+You have questions, we have answers.
+
+WEN AMA: April 27th, 4:00PM PST
+
+WEN WHITELIST: Interact w…",1627,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'vividcojp', 'id': '1508545790284906503'}]}"
+146,1518704592459948032,2022-04-25 21:32:45+00:00,True,https://t.co/UGl7wKtFOj,43,17,158,3,,"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/UGl7wKtFOj', 'expanded_url': 'https://twitter.com/i/spaces/1DXGyDXrYkeKM', 'display_url': 'twitter.com/i/spaces/1DXGy…'}]}"
+147,1518704588714430466,2022-04-25 21:32:44+00:00,False,"AMA/WHITELIST ANNOUNCEMENT
+
+You have questions, we have answers.
+
+WEN AMA: April 27th, 4:00PM PST
+
+WEN WHITELIST: Interact with this tweet to win a CHOSEN spot.
+
+What test do we conduct? When will Acky draw live on Discord? Meow?
+
+(Yes). https://t.co/PNCIRicikK",1627,1324,2662,42,{'media_keys': ['3_1518696992892805120']},"{'urls': [{'start': 238, 'end': 261, 'url': 'https://t.co/PNCIRicikK', 'expanded_url': 'https://twitter.com/vividcojp/status/1518704588714430466/photo/1', 'display_url': 'pic.twitter.com/PNCIRicikK', 'media_key': '3_1518696992892805120'}]}"
+148,1518329354329071617,2022-04-24 20:41:41+00:00,True,"@aki001208 Winners of our first twitter giveaway!
+
+• @wolf_kellyn
+• @BKMIC4
+• @DaCryptoRicky
+• @xKriwu
+• @eth_thurnis
+• @huing299
+• @kimsun_eth
+• @LiRicado
+• @gallaxy0907
+• @justahape
+
+✔️ https://t.co/6O3QUDkf9y",7,27,101,0,,"{'urls': [{'start': 188, 'end': 211, 'url': 'https://t.co/6O3QUDkf9y', 'expanded_url': 'https://twitterpicker.com/d/x6kvtfgr', 'display_url': 'twitterpicker.com/d/x6kvtfgr'}], 'mentions': [{'start': 0, 'end': 10, 'username': 'aki001208', 'id': '752705297437777921'}, {'start': 53, 'end': 65, 'username': 'wolf_kellyn', 'id': '3942241409'}, {'start': 68, 'end': 75, 'username': 'BKMIC4', 'id': '1503713111836082178'}, {'start': 78, 'end': 92, 'username': 'DaCryptoRicky', 'id': '1326562646326439937'}, {'start': 95, 'end': 102, 'username': 'xKriwu', 'id': '1354828785707716616'}, {'start': 105, 'end': 117, 'username': 'eth_thurnis', 'id': '1460889472472600578'}, {'start': 120, 'end': 129, 'username': 'huing299', 'id': '1479026663665336325'}, {'start': 132, 'end': 143, 'username': 'kimsun_eth', 'id': '1469965651725144066'}, {'start': 146, 'end': 155, 'username': 'LiRicado', 'id': '1287961967559241728'}, {'start': 158, 'end': 170, 'username': 'gallaxy0907', 'id': '1130100783842598912'}, {'start': 173, 'end': 183, 'username': 'justahape', 'id': '1377453103536959488'}], 'annotations': [{'start': 32, 'end': 38, 'probability': 0.5657, 'type': 'Product', 'normalized_text': 'twitter'}]}"
+149,1518020424268877824,2022-04-24 00:14:07+00:00,False,"RT @vividcojp: Vivid is a new brand for the new culture.
+
+The web3 FUBU.
+
+With our visionary artist @aki001208, we’re excited to bring the…",1964,0,0,0,,"{'mentions': [{'start': 3, 'end': 13, 'username': 'vividcojp', 'id': '1508545790284906503'}, {'start': 100, 'end': 110, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+150,1517997503886467072,2022-04-23 22:43:02+00:00,False,An opportunity arises. Do you want to be CHOSEN!? Now is the time. Head over to the Vivid Discord to learn more about your chance to become Chosen and dive deeper into Vivid. https://t.co/JglEnPZ1T0,143,77,539,11,{'media_keys': ['3_1517980152684187649']},"{'urls': [{'start': 175, 'end': 198, 'url': 'https://t.co/JglEnPZ1T0', 'expanded_url': 'https://twitter.com/vividcojp/status/1517997503886467072/photo/1', 'display_url': 'pic.twitter.com/JglEnPZ1T0', 'media_key': '3_1517980152684187649'}]}"
+151,1517252368403894272,2022-04-21 21:22:08+00:00,False,"We’re celebrating a community of 3333 followers and 5000 server members within 24h of launch, no bots, no bullshit, only vibes.
+
+You can still be early, anon: https://t.co/fNsRo1vxy1 https://t.co/u1zYmrorSl",108,51,389,3,{'media_keys': ['3_1517251329529241601']},"{'urls': [{'start': 159, 'end': 182, 'url': 'https://t.co/fNsRo1vxy1', 'expanded_url': 'https://discord.com/invite/vividcojp', 'display_url': 'discord.com/invite/vividco…'}, {'start': 183, 'end': 206, 'url': 'https://t.co/u1zYmrorSl', 'expanded_url': 'https://twitter.com/vividcojp/status/1517252368403894272/photo/1', 'display_url': 'pic.twitter.com/u1zYmrorSl', 'media_key': '3_1517251329529241601'}]}"
+152,1516981381523394560,2022-04-21 03:25:20+00:00,False,RT @aki001208: https://t.co/OZjaMBsP7z,335,0,0,0,{'media_keys': ['3_1516943252796018689']},"{'urls': [{'start': 15, 'end': 38, 'url': 'https://t.co/OZjaMBsP7z', 'expanded_url': 'https://twitter.com/aki001208/status/1516943257313316864/photo/1', 'display_url': 'pic.twitter.com/OZjaMBsP7z', 'media_key': '3_1516943252796018689'}], 'mentions': [{'start': 3, 'end': 13, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+153,1516895659017744384,2022-04-20 21:44:42+00:00,False,We loved seeing so many people from @OriginsNFT find their way into the Discord so early. I wonder what they know…,92,29,433,2,,"{'mentions': [{'start': 36, 'end': 47, 'username': 'OriginsNFT', 'id': '1439692694880591872'}]}"
+154,1516887456951406592,2022-04-20 21:12:06+00:00,False,"Vivid is a new brand for the new culture.
+
+The web3 FUBU.
+
+With our visionary artist @aki001208, we’re excited to bring the Vivid universe to life!
+
+Any interactions with this tweet will be considered for WL. Join our Discord here: https://t.co/fNsRo1vxy1 https://t.co/sSZyKrwxBn",1964,1606,3491,165,{'media_keys': ['7_1516882979011764224']},"{'urls': [{'start': 232, 'end': 255, 'url': 'https://t.co/fNsRo1vxy1', 'expanded_url': 'https://discord.com/invite/vividcojp', 'display_url': 'discord.com/invite/vividco…'}, {'start': 256, 'end': 279, 'url': 'https://t.co/sSZyKrwxBn', 'expanded_url': 'https://twitter.com/vividcojp/status/1516887456951406592/video/1', 'display_url': 'pic.twitter.com/sSZyKrwxBn', 'media_key': '7_1516882979011764224'}], 'mentions': [{'start': 85, 'end': 95, 'username': 'aki001208', 'id': '752705297437777921'}]}"
+155,1516861191515086848,2022-04-20 19:27:44+00:00,False,Vivid is soon,84,42,404,3,,

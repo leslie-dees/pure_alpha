@@ -1,4 +1,3 @@
-from matplotlib.pyplot import hist
 import numpy as np
 import csv
 import pandas as pd
@@ -53,29 +52,7 @@ while proceed_from_console != 1:
 fullDataframe = pd.DataFrame(account_list[1:], columns=account_list[0])
 
 #insert new functions to add features right here
-def add_opensea_features(opensea_url):
-    index_of_collection = opensea_url.index('.io') + 4
-    collection = opensea_url[index_of_collection:]
-    my_collection = "https://api.opensea.io/api/v1/%s" % (collection)
-    
-    my_request = requests.get(my_collection).json()
-    features = my_request['collection']
 
-    features_to_add = {
-        'one_day_volume': features['stats']['one_day_volume'],
-        'one_day_change': features['stats']['one_day_change'],
-        'one_day_average_price': features['stats']['one_day_change'],
-        'average_price': features['stats']['average_price'],
-        'thirty_day_average_price': features['stats']['thirty_day_average_price'],
-        'total_supply': features['stats']['total_supply'],
-        'num_owners': features['stats']['total_supply'],
-        'floor_price': features['stats']['floor_price'],
-        'is_subject_to_whitelist': features['is_subject_to_whitelist'],
-        'featured': features['featured']        
-    }
-    dct = {k:[v] for k,v in features_to_add.items()}
-    opensea_df = pd.DataFrame(dct)
-    return opensea_df
 
 
 df = pd.DataFrame()
