@@ -21,7 +21,7 @@ while current_offset <= 50000:
     for collection in all_collections:
         if collection['twitter_username'] is None:
             None
-        if collection['seven_day_volume'] != 0:
+        if (collection['stats']['one_day_volume'] > 0.1) & (collection['stats']['num_owners'] > 50):
             twitter_username = collection['twitter_username']
             slug = collection['slug']
             print(slug)
@@ -38,7 +38,6 @@ while current_offset <= 50000:
             this_NFT = pd.DataFrame([np.array(NFT_feats)], columns = ['Project Name', 'Twitter', 'Opensea Link', 'Launch Date'])
             
             if slug not in all_collections_df.values:
-
                 all_collections_df = all_collections_df.append(this_NFT, ignore_index = True)
     
 
