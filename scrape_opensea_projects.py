@@ -44,6 +44,6 @@ while current_offset <= 50000:
             if slug not in all_collections_df.values:
                 all_collections_df = all_collections_df.append(this_NFT, ignore_index = True)
     
-opensea_nft_df_2 = pd.concat([opensea_nft_df, all_collections_df], ignore_index=True)
+opensea_nft_df_2 = pd.concat([all_collections_df, opensea_nft_df], ignore_index=True)
 opensea_nft_df_2.to_csv("OpenseaScrapedNFTs.csv")
         
