@@ -216,7 +216,7 @@ with open('Projects - Upcoming Projects (ETH).csv', 'r') as csv_file:
     list_of_rows = list(csv_reader)
     projects_list = np.array(list_of_rows)
     projects_list = projects_list[1:]
-
+projects_list = projects_list[36:39]
 
 #open existing list of account info
 with open('Account_Info.csv', 'r') as account_file:
