@@ -1,4 +1,7 @@
 import requests
+import numpy as np
+import csv
+import pandas as pd
 
 current_offset = 100
 
@@ -9,4 +12,7 @@ headers = {"Accept": "application/json"}
 response = requests.get(url, headers=headers)
 response_json = response.json()['collections'][0]
 
-print(response_json['stats'].keys())
+
+
+df = pd.read_csv('OpenseaScrapedNFTs.csv', index_col=0)
+print(df)
